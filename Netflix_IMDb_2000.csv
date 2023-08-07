@@ -1,0 +1,2001 @@
+,Name,Year,Rating,Watchtime,Genre,IMDb Rating,Metascore
+0,Glass Onion,2022,PG-13,139,"Comedy, Crime, Drama            ",7.2,81
+1,Kaleidoscope,2023,TV-MA,47,"Action, Crime, Drama            ",6.9,*
+2,Wednesday,2022– ,TV-14,45,"Comedy, Crime, Fantasy            ",8.2,*
+3,White Noise,I 2022,R,136,"Comedy, Drama, Horror            ",5.7,66
+4,The Pale Blue Eye,2022,R,128,"Crime, Horror, Mystery            ",6.7,56
+5,Treason,2022,TV-MA,207,"Action, Drama, Thriller            ",6.3,*
+6,The Witcher: Blood Origin,2022,TV-MA,50,"Action, Adventure, Drama            ",4.5,*
+7,Bullet Train,2022,R,127,"Action, Comedy, Thriller            ",7.3,49
+8,Alice in Borderland,2020– ,TV-MA,50,"Action, Drama, Mystery            ",7.7,*
+9,The Recruit,2022– ,TV-MA,55,"Action, Adventure, Crime            ",7.5,*
+10,Ginny & Georgia,2021– ,TV-14,*,"Comedy, Drama            ",7.4,*
+11,The Walking Dead,2010–2022,TV-MA,44,"Drama, Horror, Thriller            ",8.1,*
+12,Roald Dahl's Matilda the Musical,2022,PG,117,"Comedy, Drama, Family            ",7.2,72
+13,Emily in Paris,2020– ,TV-MA,30,"Comedy, Drama, Romance            ",6.9,*
+14,1899,2022,TV-MA,60,"Drama, Mystery            ",7.4,*
+15,Happy Valley,2014–2023,TV-MA,58,"Crime, Drama, Thriller            ",8.5,*
+16,Breaking Bad,2008–2013,TV-MA,49,"Crime, Drama, Thriller            ",9.5,*
+17,Stranger Things,2016– ,TV-14,51,"Drama, Fantasy, Horror            ",8.7,*
+18,Guillermo del Toro's Pinocchio,2022,PG,117,"Animation, Drama, Family            ",7.7,79
+19,The Crown,2016–2023,TV-MA,58,"Biography, Drama, History            ",8.7,*
+20,Top Gun,1986,PG,109,"Action, Drama            ",6.9,50
+21,Better Call Saul,2015–2022,TV-MA,46,"Crime, Drama            ",8.9,*
+22,Lady Voyeur,2023,TV-MA,378,"Drama, Mystery, Thriller            ",4.8,*
+23,The Witcher,2019– ,TV-MA,60,"Action, Adventure, Drama            ",8.1,*
+24,The Glory,2022– ,TV-MA,50,Drama            ,8.1,*
+25,Grey's Anatomy,2005– ,TV-14,41,"Drama, Romance            ",7.6,*
+26,Rise of Empires: Ottoman,2020–2022,TV-MA,44,"Documentary, Drama, History            ",7.9,*
+27,Peaky Blinders,2013–2022,TV-MA,60,"Crime, Drama            ",8.8,*
+28,Supernatural,2005–2020,TV-14,44,"Drama, Fantasy, Horror            ",8.4,*
+29,Friends,1994–2004,TV-14,22,"Comedy, Romance            ",8.9,*
+30,Rick and Morty,2013– ,TV-14,23,"Animation, Adventure, Comedy            ",9.1,*
+31,NCIS,2003– ,TV-14,60,"Action, Crime, Drama            ",7.8,*
+32,American Horror Story,2011– ,TV-MA,60,"Drama, Horror, Sci-Fi            ",8.0,*
+33,Vikings: Valhalla,2022– ,TV-MA,51,"Action, Adventure, Drama            ",7.2,*
+34,All Quiet on the Western Front,2022,R,148,"Action, Drama, War            ",7.8,76
+35,Modern Family,2009–2020,TV-PG,22,"Comedy, Drama, Romance            ",8.5,*
+36,Vikings,2013–2020,TV-MA,44,"Action, Adventure, Drama            ",8.5,*
+37,Suits,2011–2019,TV-14,44,"Comedy, Drama            ",8.5,*
+38,That '90s Show,2023– ,TV-14,30,"Comedy, Drama, Romance            ",*,*
+39,The Blacklist,2013– ,TV-14,43,"Crime, Drama, Mystery            ",8.0,*
+40,Copenhagen Cowboy,2022–2023,TV-MA,312,"Crime, Drama, Thriller            ",6.7,*
+41,Emily the Criminal,2022,R,97,"Crime, Drama, Thriller            ",6.7,75
+42,Dark,2017–2020,TV-MA,60,"Crime, Drama, Mystery            ",8.7,*
+43,Seinfeld,1989–1998,TV-PG,22,Comedy            ,8.9,*
+44,Black Mirror,2011–2019,TV-MA,60,"Drama, Mystery, Sci-Fi            ",8.8,*
+45,Manifest,2018– ,TV-14,43,"Drama, Mystery, Sci-Fi            ",7.1,*
+46,Chainsaw Man,2022– ,TV-MA,25,"Animation, Action, Adventure            ",8.6,*
+47,RRR,2022,Not Rated,187,"Action, Drama            ",7.9,83
+48,You,2018– ,TV-MA,45,"Crime, Drama, Romance            ",7.7,*
+49,Shameless,2011–2021,TV-MA,46,"Comedy, Drama            ",8.6,*
+50,Family Guy,1999– ,TV-MA,22,"Animation, Comedy            ",8.2,*
+51,New Amsterdam,2018–2023,TV-14,43,Drama            ,8.0,*
+52,Guillermo del Toro's Cabinet of Curiosities,2022– ,TV-MA,60,"Drama, Horror, Mystery            ",7.1,*
+53,The Last Kingdom,2015–2022,TV-MA,60,"Action, Drama, History            ",8.5,*
+54,Dead to Me,2019–2022,TV-MA,30,"Comedy, Crime, Drama            ",8.0,*
+55,The Gray Man,2022,PG-13,122,"Action, Thriller            ",6.5,49
+56,Attack on Titan,2013–2023,TV-MA,24,"Animation, Action, Adventure            ",9.0,*
+57,Firefly Lane,2021–2023,TV-MA,*,"Drama, Romance            ",7.4,*
+58,Titanic,1997,PG-13,194,"Drama, Romance            ",7.9,75
+59,The Watcher,2022– ,TV-MA,332,"Drama, Horror, Mystery            ",6.5,*
+60,Outlander,2014– ,TV-MA,60,"Drama, Fantasy, Romance            ",8.4,*
+61,Lady Chatterley's Lover,2022,R,126,"Drama, Romance            ",6.6,67
+62,7 Women and a Murder,2021,TV-MA,82,"Comedy, Crime, Mystery            ",5.4,*
+63,Outer Banks,2020– ,TV-MA,50,"Action, Crime, Drama            ",7.6,*
+64,Brooklyn Nine-Nine,2013–2021,TV-14,22,"Comedy, Crime            ",8.4,*
+65,The Flash,2014–2023,TV-PG,43,"Action, Adventure, Drama            ",7.6,*
+66,Ozark,2017–2022,TV-MA,60,"Crime, Drama, Thriller            ",8.5,*
+67,The Super Mario Bros. Movie,2023,PG,*,"Animation, Adventure, Comedy            ",*,*
+68,The Chosen,2017– ,TV-PG,54,"Drama, History            ",9.3,*
+69,The Sandman,2022– ,TV-MA,45,"Drama, Fantasy, Horror            ",7.7,*
+70,Lucifer,2016–2021,TV-14,42,"Crime, Drama, Fantasy            ",8.1,*
+71,The Wonder,I 2022,R,108,"Drama, Mystery, Thriller            ",6.6,71
+72,Gilmore Girls,2000–2007,TV-PG,44,"Comedy, Drama            ",8.2,*
+73,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"Action, Adventure, Drama            ",8.8,92
+74,The Sinner,2017–2021,TV-MA,45,"Crime, Drama, Mystery            ",7.9,*
+75,How I Met Your Mother,2005–2014,TV-14,22,"Comedy, Romance            ",8.3,*
+76,Titans,I 2018– ,TV-MA,45,"Action, Adventure, Crime            ",7.6,*
+77,That '70s Show,1998–2006,TV-14,22,"Comedy, Drama, Romance            ",8.1,*
+78,Fargo,2014– ,TV-MA,53,"Crime, Drama, Thriller            ",8.9,*
+79,Blue Bloods,2010– ,TV-14,43,"Crime, Drama, Mystery            ",7.7,*
+80,The Gentlemen,2019,R,113,"Action, Comedy, Crime            ",7.8,51
+81,New Girl,2011–2018,TV-14,22,"Comedy, Romance            ",7.8,*
+82,Community,2009–2015,TV-14,22,Comedy            ,8.5,*
+83,Sons of Anarchy,2008–2014,TV-MA,45,"Crime, Drama, Thriller            ",8.6,*
+84,The Good Nurse,2022,R,121,"Biography, Crime, Drama            ",6.8,65
+85,Sex Education,2019– ,TV-MA,45,"Comedy, Drama            ",8.4,*
+86,The Vampire Diaries,2009–2017,TV-14,43,"Drama, Fantasy, Horror            ",7.7,*
+87,The Good Doctor,2017– ,TV-14,41,Drama            ,8.1,*
+88,Uncharted,2022,PG-13,116,"Action, Adventure            ",6.3,45
+89,American Psycho,2000,R,102,"Crime, Drama, Horror            ",7.6,64
+90,Enola Holmes 2,2022,PG-13,129,"Action, Adventure, Crime            ",6.7,64
+91,Sherlock,2010–2017,TV-14,88,"Crime, Drama, Mystery            ",9.1,*
+92,Blonde,2022,NC-17,167,"Biography, Drama, Romance            ",5.5,50
+93,Bridgerton,2020– ,TV-MA,60,"Drama, History, Romance            ",7.4,*
+94,Léon: The Professional,1994,R,110,"Action, Crime, Drama            ",8.5,64
+95,Cobra Kai,2018– ,TV-14,30,"Action, Comedy, Drama            ",8.5,*
+96,Madoff: The Monster of Wall Street,2023,TV-MA,249,"Documentary, Crime            ",7.4,*
+97,Woman of the Dead,2022– ,TV-MA,45,"Crime, Drama, Mystery            ",6.8,*
+98,Inside Man,II 2022,TV-MA,240,"Crime, Drama, Mystery            ",6.6,*
+99,The Bad Guys,2022,PG,100,"Animation, Adventure, Comedy            ",6.8,64
+100,Grease,1978,PG,110,"Comedy, Musical, Romance            ",7.2,70
+101,Bardo: False Chronicle of a Handful of Truths,2022,R,159,"Comedy, Drama            ",6.9,53
+102,South Park,1997– ,TV-14,22,"Animation, Comedy            ",8.7,*
+103,Alchemy of Souls,2022– ,Approved,80,"Action, Drama, Fantasy            ",8.8,*
+104,The Umbrella Academy,2019–2023,TV-14,60,"Action, Adventure, Comedy            ",7.9,*
+105,Dexter,2006–2013,TV-MA,53,"Crime, Drama, Mystery            ",8.7,*
+106,God's Crooked Lines,2022,TV-MA,154,"Drama, Mystery, Thriller            ",7.0,*
+107,Gladiator,2000,R,155,"Action, Adventure, Drama            ",8.5,67
+108,Troll,2022,TV-14,101,"Action, Adventure, Drama            ",5.8,62
+109,Star Trek: The Next Generation,1987–1994,TV-PG,44,"Action, Adventure, Sci-Fi            ",8.7,*
+110,My Hero Academia,2016– ,TV-14,24,"Animation, Action, Adventure            ",8.4,*
+111,Jurassic Park,1993,PG-13,127,"Action, Adventure, Sci-Fi            ",8.2,68
+112,Money Heist,2017–2021,TV-MA,70,"Action, Crime, Drama            ",8.2,*
+113,The Swimmers,2022,PG-13,134,"Biography, Drama, Sport            ",7.4,62
+114,The Queen's Gambit,2020,TV-MA,60,Drama            ,8.6,*
+115,Luckiest Girl Alive,2022,R,113,"Drama, Mystery, Thriller            ",6.4,54
+116,The School for Good and Evil,2022,PG-13,147,"Action, Comedy, Drama            ",5.8,30
+117,Mad Men,2007–2015,TV-MA,47,Drama            ,8.7,*
+118,The Expanse,2015–2022,TV-14,60,"Drama, Mystery, Sci-Fi            ",8.5,*
+119,Derry Girls,2018–2022,TV-MA,30,Comedy            ,8.5,*
+120,Alpha Males,2022– ,*,30,Comedy            ,7.3,*
+121,Downton Abbey,2010–2015,TV-PG,58,"Drama, Romance            ",8.7,*
+122,Sing 2,2021,PG,110,"Animation, Adventure, Comedy            ",7.4,49
+123,The Stranger,II 2022,TV-MA,117,"Crime, Drama, Thriller            ",6.6,74
+124,Smallville,2001–2011,TV-PG,60,"Action, Adventure, Drama            ",7.5,*
+125,Dahmer - Monster: The Jeffrey Dahmer Story,2022,TV-MA,534,"Biography, Crime, Drama            ",7.9,*
+126,The 100,2014–2020,TV-14,43,"Drama, Mystery, Sci-Fi            ",7.6,*
+127,Don't Look Up,2021,R,138,"Comedy, Drama, Sci-Fi            ",7.2,49
+128,You People,2023,R,117,"Comedy, Romance            ",*,*
+129,Prison Break,2005–2017,TV-14,44,"Action, Crime, Drama            ",8.3,*
+130,The Lord of the Rings: The Return of the King,2003,PG-13,201,"Action, Adventure, Drama            ",9.0,94
+131,Warrior Nun,2020–2022,TV-MA,*,"Action, Drama, Fantasy            ",7.0,*
+132,Once Upon a Time,2011–2018,TV-PG,60,"Adventure, Fantasy, Romance            ",7.7,*
+133,Teen Wolf,2011–2017,TV-14,41,"Action, Drama, Fantasy            ",7.7,*
+134,Cheers,1982–1993,TV-PG,22,"Comedy, Drama            ",7.9,*
+135,Schitt's Creek,2015–2020,TV-14,22,Comedy            ,8.5,*
+136,Homeland,2011–2020,TV-MA,55,"Crime, Drama, Mystery            ",8.3,*
+137,Gossip Girl,2007–2012,TV-14,42,"Drama, Romance            ",7.5,*
+138,Gone Girl,2014,R,149,"Drama, Mystery, Thriller            ",8.1,79
+139,Hawaii Five-0,2010–2020,TV-14,42,"Action, Crime, Drama            ",7.4,*
+140,Squid Game,2021– ,TV-MA,55,"Action, Drama, Mystery            ",8.0,*
+141,The Lying Life of Adults,2023– ,TV-MA,50,Drama            ,6.6,*
+142,The Little Things,2021,R,128,"Crime, Drama, Mystery            ",6.3,54
+143,The Guilty,2021,R,90,"Crime, Drama, Thriller            ",6.3,63
+144,Sicario,2015,R,121,"Action, Crime, Drama            ",7.6,82
+145,Arrested Development,2003–2019,TV-14,22,Comedy            ,8.7,*
+146,Arrow,2012–2020,TV-14,42,"Action, Adventure, Crime            ",7.5,*
+147,Mr. Robot,2015–2019,TV-MA,49,"Crime, Drama, Thriller            ",8.6,*
+148,Slumberland,2022,PG,117,"Adventure, Comedy, Family            ",6.7,40
+149,Bleach: Thousand-Year Blood War,2022– ,TV-MA,24,"Animation, Action, Adventure            ",9.2,*
+150,"Love, Death & Robots",2019– ,TV-MA,15,"Animation, Short, Action            ",8.4,*
+151,Doc Martin,2004–2022,TV-14,46,"Comedy, Drama, Romance            ",8.4,*
+152,Avatar: The Last Airbender,2005–2008,TV-Y7-FV,23,"Animation, Action, Adventure            ",9.3,*
+153,BoJack Horseman,2014–2020,TV-MA,25,"Animation, Comedy, Drama            ",8.8,*
+154,The Departed,2006,R,151,"Crime, Drama, Thriller            ",8.5,85
+155,Operation Mincemeat,2021,PG-13,128,"Drama, War            ",6.6,65
+156,Billions,2016– ,TV-MA,60,Drama            ,8.4,*
+157,Daredevil,2015–2018,TV-MA,54,"Action, Crime, Drama            ",8.6,*
+158,Orange Is the New Black,2013–2019,TV-MA,59,"Comedy, Crime, Drama            ",8.1,*
+159,Scott Pilgrim vs. the World,2010,PG-13,112,"Action, Comedy, Fantasy            ",7.5,69
+160,The Holiday,2006,PG-13,136,"Comedy, Romance            ",6.9,52
+161,Wind River,2017,R,107,"Crime, Drama, Mystery            ",7.7,73
+162,"Murder, She Wrote",1984–1996,TV-PG,50,"Crime, Drama, Mystery            ",7.1,*
+163,Enola Holmes,2020,PG-13,123,"Action, Adventure, Crime            ",6.6,68
+164,Demon Slayer: Kimetsu no Yaiba,2019– ,TV-MA,24,"Animation, Action, Adventure            ",8.7,*
+165,Arcane,2021– ,TV-14,41,"Animation, Action, Adventure            ",9.0,*
+166,Mindhunter,2017–2019,TV-MA,60,"Crime, Drama, Mystery            ",8.6,*
+167,CSI: Crime Scene Investigation,2000–2015,TV-14,60,"Crime, Drama, Mystery            ",7.7,*
+168,The Lord of the Rings: The Two Towers,2002,PG-13,179,"Action, Adventure, Drama            ",8.8,87
+169,I Came By,2022,TV-MA,110,Thriller            ,6.1,57
+170,Star Wars: The Clone Wars,2008–2020,TV-PG,23,"Animation, Action, Adventure            ",8.4,*
+171,Narcos,2015–2017,TV-MA,49,"Biography, Crime, Drama            ",8.8,*
+172,Twin Peaks,1990–1991,TV-MA,47,"Crime, Drama, Mystery            ",8.8,*
+173,Devil in Ohio,2022,TV-MA,356,"Drama, Horror, Mystery            ",5.9,*
+174,Lou,I 2022,R,107,"Action, Crime, Drama            ",6.1,51
+175,The Haunting of Hill House,2018,TV-MA,572,"Drama, Horror, Mystery            ",8.6,*
+176,Spartacus,2010–2013,TV-MA,55,"Action, Adventure, Biography            ",8.5,*
+177,Star Trek: Deep Space Nine,1993–1999,TV-PG,45,"Action, Adventure, Drama            ",8.1,*
+178,From,2022– ,TV-MA,52,"Drama, Horror, Mystery            ",7.6,*
+179,Monster,2004–2005,TV-14,24,"Animation, Crime, Drama            ",8.7,*
+180,Taxi Driver,1976,R,114,"Crime, Drama            ",8.2,94
+181,Line of Duty,2012–2021,TV-14,60,"Crime, Drama, Mystery            ",8.7,*
+182,Elite,2018– ,TV-MA,60,"Crime, Drama, Thriller            ",7.3,*
+183,Pretty Little Liars,2010–2017,TV-14,44,"Drama, Mystery, Romance            ",7.4,*
+184,Star Trek,1966–1969,TV-PG,50,"Action, Adventure, Sci-Fi            ",8.4,*
+185,The Lincoln Lawyer,2022– ,TV-MA,60,"Crime, Drama, Mystery            ",7.7,*
+186,Animal Kingdom,2016–2022,TV-MA,60,"Crime, Drama            ",8.2,*
+187,Riverdale,2017– ,TV-14,45,"Crime, Drama, Mystery            ",6.6,*
+188,The Good Place,2016–2020,TV-PG,22,"Comedy, Drama, Fantasy            ",8.2,*
+189,The Hobbit: An Unexpected Journey,2012,PG-13,169,"Adventure, Fantasy            ",7.8,58
+190,Shadow and Bone,2021– ,TV-14,60,"Action, Adventure, Drama            ",7.6,*
+191,Do Revenge,2022,TV-MA,118,Comedy            ,6.3,66
+192,NCIS: Los Angeles,2009– ,TV-14,43,"Action, Crime, Drama            ",6.8,*
+193,The Adam Project,2022,PG-13,106,"Action, Adventure, Comedy            ",6.7,55
+194,Heartland,II 2007– ,TV-PG,45,"Drama, Family            ",8.5,*
+195,Harry & Meghan,2022,TV-MA,58,Documentary            ,4.8,*
+196,The Midnight Club,2022,TV-MA,60,"Drama, Horror, Mystery            ",6.5,*
+197,Terrifier,2016,Unrated,85,"Horror, Thriller            ",5.6,*
+198,No Escape,I 2015,R,103,"Action, Thriller            ",6.7,38
+199,Hustle,2022,R,117,"Comedy, Drama, Sport            ",7.3,68
+200,Murdoch Mysteries,2008– ,TV-PG,48,"Crime, Drama, Mystery            ",8.2,*
+201,Jumanji: Welcome to the Jungle,2017,PG-13,119,"Action, Adventure, Comedy            ",6.9,58
+202,Red Notice,2021,PG-13,118,"Action, Comedy, Thriller            ",6.3,37
+203,The Irishman,2019,R,209,"Biography, Crime, Drama            ",7.8,94
+204,House of Cards,2013–2018,TV-MA,51,Drama            ,8.7,*
+205,How to Get Away with Murder,2014–2020,TV-14,43,"Crime, Drama, Mystery            ",8.1,*
+206,Baywatch,2017,R,116,"Action, Comedy, Crime            ",5.5,37
+207,The Nice Guys,2016,R,116,"Action, Comedy, Crime            ",7.3,70
+208,The Good Wife,2009–2016,TV-14,43,"Crime, Drama, Mystery            ",8.4,*
+209,The Punisher,2017–2019,TV-MA,53,"Action, Crime, Drama            ",8.5,*
+210,365 Days,2020,TV-MA,114,"Drama, Romance            ",3.3,*
+211,Spider-Man,2002,PG-13,121,"Action, Adventure, Sci-Fi            ",7.4,73
+212,Designated Survivor,2016–2019,TV-14,60,"Action, Drama, Mystery            ",7.5,*
+213,2001: A Space Odyssey,1968,G,149,"Adventure, Sci-Fi            ",8.3,84
+214,Star Trek: Voyager,1995– ,TV-PG,44,"Action, Adventure, Sci-Fi            ",7.8,*
+215,Glee,2009–2015,TV-PG,44,"Comedy, Drama, Music            ",6.8,*
+216,Archer,2009– ,TV-MA,22,"Animation, Action, Comedy            ",8.6,*
+217,From Scratch,2022,TV-MA,422,Drama            ,7.9,*
+218,Spiderhead,2022,R,106,"Action, Crime, Drama            ",5.4,54
+219,Stutz,2022,R,96,Documentary            ,7.9,76
+220,Top Boy,2011– ,TV-MA,60,"Crime, Drama, Thriller            ",8.4,*
+221,Virgin River,2019– ,TV-14,44,"Drama, Romance            ",7.4,*
+222,Beauty and the Beast,I 2017,PG,129,"Adventure, Family, Fantasy            ",7.1,65
+223,The Americans,2013–2018,TV-MA,44,"Crime, Drama, Mystery            ",8.4,*
+224,Baby Driver,2017,R,113,"Action, Crime, Drama            ",7.6,86
+225,Gotham,2014–2019,TV-14,42,"Action, Crime, Drama            ",7.8,*
+226,Qala,2022,TV-MA,119,"Drama, History, Music            ",7.3,*
+227,Mr. Harrigan's Phone,2022,PG-13,104,"Drama, Horror, Mystery            ",6.0,55
+228,Devotion,II 2022,PG-13,139,"Action, Drama, War            ",6.8,66
+229,Ash vs Evil Dead,2015–2018,TV-MA,30,"Action, Comedy, Fantasy            ",8.4,*
+230,Jurassic World: Fallen Kingdom,2018,PG-13,128,"Action, Adventure, Sci-Fi            ",6.1,51
+231,Jumanji: The Next Level,2019,PG-13,123,"Action, Adventure, Comedy            ",6.7,58
+232,Cyberpunk: Edgerunners,2022,TV-MA,24,"Animation, Action, Adventure            ",8.3,*
+233,Tropic Thunder,2008,R,107,"Action, Comedy, War            ",7.0,71
+234,Who Killed Santa? A Murderville Murder Mystery,2022 TV Special,TV-MA,52,"Comedy, Crime, Mystery            ",6.5,*
+235,Extraordinary Attorney Woo,2022,TV-14,75,Drama            ,8.7,*
+236,Jaws,1975,PG,124,"Adventure, Thriller            ",8.1,87
+237,The Revenant,2015,R,156,"Action, Adventure, Drama            ",8.0,76
+238,Agents of S.H.I.E.L.D.,2013–2020,TV-PG,45,"Action, Adventure, Drama            ",7.5,*
+239,13 Reasons Why,2017–2020,TV-MA,60,"Drama, Mystery, Thriller            ",7.5,*
+240,Locke & Key,2020–2022,TV-14,48,"Drama, Fantasy, Horror            ",7.3,*
+241,Spirited Away,2001,PG,125,"Animation, Adventure, Family            ",8.6,96
+242,The Empress,2022– ,TV-MA,55,"Drama, History, Romance            ",7.8,*
+243,Big Mouth,2017– ,TV-MA,30,"Animation, Comedy, Romance            ",7.9,*
+244,Planet of the Apes,1968,G,112,"Adventure, Sci-Fi            ",8.0,79
+245,The Tudors,2007–2010,TV-MA,60,"Drama, History, Romance            ",8.1,*
+246,Ocean's Eight,2018,PG-13,110,"Action, Comedy, Crime            ",6.3,61
+247,After Life,2019–2022,TV-MA,30,"Comedy, Drama            ",8.4,*
+248,Arrival,II 2016,PG-13,116,"Drama, Mystery, Sci-Fi            ",7.9,81
+249,Fantasy Island,2020,PG-13,109,"Fantasy, Horror, Mystery            ",4.9,22
+250,Evil,2019– ,TV-14,42,"Crime, Drama, Horror            ",7.7,*
+251,Bleach,2004–2012,TV-14,24,"Animation, Action, Adventure            ",8.2,*
+252,Grimm,2011–2017,TV-14,45,"Crime, Drama, Fantasy            ",7.9,*
+253,Marriage Story,2019,R,137,"Drama, Romance            ",7.9,94
+254,Inventing Anna,2022,TV-MA,603,Drama            ,6.8,*
+255,The Devil All the Time,2020,R,138,"Crime, Drama, Thriller            ",7.1,55
+256,Footloose,1984,PG,107,"Drama, Music, Romance            ",6.6,42
+257,Snowpiercer,2020–2023,TV-MA,60,"Action, Drama, Sci-Fi            ",6.9,*
+258,Zodiac,2007,R,157,"Crime, Drama, Mystery            ",7.7,78
+259,The Bastard Son & The Devil Himself,2022,TV-MA,60,"Action, Adventure, Drama            ",7.5,*
+260,The Noel Diary,2022,TV-14,99,"Comedy, Drama, Romance            ",6.1,63
+261,It,I 2017,R,135,Horror            ,7.3,69
+262,Luther,2010–2019,TV-MA,60,"Crime, Drama, Mystery            ",8.4,*
+263,Skins,2007–2013,TV-MA,46,Drama            ,8.2,*
+264,Elementary,2012–2019,TV-14,60,"Crime, Drama, Mystery            ",7.9,*
+265,The Babysitter: Killer Queen,2020,TV-MA,101,"Comedy, Horror            ",5.8,22
+266,Murder Mystery,2019,PG-13,97,"Action, Comedy, Crime            ",6.0,38
+267,Cat,2022– ,TV-MA,45,"Crime, Drama, Thriller            ",8.4,*
+268,The Power of the Dog,2021,R,126,"Drama, Romance, Western            ",6.8,89
+269,Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,129,"Action, Adventure, Fantasy            ",6.5,39
+270,Midnight Mass,2021,TV-MA,450,"Drama, Fantasy, Horror            ",7.7,*
+271,How I Became a Gangster,2019,Not Rated,140,"Crime, Drama            ",7.0,*
+272,Spy x Family,2022– ,TV-14,24,"Animation, Action, Comedy            ",8.5,*
+273,300,2006,R,117,"Action, Drama            ",7.6,52
+274,Echoes,2022,TV-MA,326,"Drama, Mystery, Thriller            ",5.9,*
+275,Sex/Life,2021– ,TV-MA,45,"Comedy, Drama, Romance            ",5.4,*
+276,JoJo's Bizarre Adventure,2012– ,TV-14,24,"Animation, Action, Adventure            ",8.5,*
+277,The Fall,I 2013–2016,TV-MA,60,"Crime, Drama, Thriller            ",8.1,*
+278,Inside Job,2021–2022,TV-14,30,"Animation, Comedy, Fantasy            ",7.7,*
+279,Will & Grace,1998– ,TV-14,22,"Comedy, Romance            ",7.3,*
+280,Good Girls,2018–2021,TV-14,43,"Comedy, Crime, Drama            ",7.7,*
+281,White Collar,2009–2014,TV-PG,40,"Comedy, Crime, Drama            ",8.3,*
+282,Vinland Saga,2019– ,TV-MA,24,"Animation, Action, Adventure            ",8.8,*
+283,The Vault,2021,R,118,"Action, Adventure, Thriller            ",6.4,50
+284,Hannibal,2013–2015,TV-MA,44,"Crime, Drama, Horror            ",8.5,*
+285,Longmire,2012–2017,TV-14,60,"Action, Crime, Drama            ",8.3,*
+286,Falling for Christmas,2022,TV-PG,93,"Comedy, Romance            ",5.2,40
+287,Army of Thieves,2021,TV-MA,127,"Action, Comedy, Crime            ",6.4,49
+288,Frozen,I 2013,PG,102,"Animation, Adventure, Comedy            ",7.4,75
+289,Too Hot to Handle,2020– ,TV-MA,40,"Game-Show, Reality-TV, Romance            ",4.7,*
+290,Me Time,2022,R,101,Comedy            ,5.1,25
+291,Gerald's Game,2017,TV-MA,103,"Drama, Horror, Thriller            ",6.5,77
+292,Kill Bill: Vol. 1,2003,R,111,"Action, Crime, Drama            ",8.2,69
+293,Heartstopper,2022– ,TV-14,30,"Drama, Romance            ",8.7,*
+294,Chicago Party Aunt,2021– ,TV-MA,30,"Animation, Comedy            ",5.5,*
+295,Never Have I Ever,2020–2023,TV-14,30,"Comedy, Drama            ",7.9,*
+296,Uncut Gems,2019,R,135,"Crime, Drama, Thriller            ",7.4,91
+297,Jane the Virgin,2014–2019,TV-PG,60,Comedy            ,7.9,*
+298,All of Us Are Dead,2022– ,TV-MA,60,"Action, Drama, Fantasy            ",7.5,*
+299,The Killing,2011–2014,TV-14,45,"Crime, Drama, Mystery            ",8.3,*
+300,Army of the Dead,2021,R,148,"Action, Crime, Drama            ",5.7,57
+301,6 Underground,2019,R,128,"Action, Thriller            ",6.1,41
+302,Murderville,2022– ,TV-MA,33,"Comedy, Crime, Mystery            ",6.8,*
+303,Robin Hood: Prince of Thieves,1991,PG-13,143,"Action, Adventure, Drama            ",6.9,51
+304,The Man from Toronto,2022,PG-13,110,"Action, Adventure, Comedy            ",5.8,34
+305,Dead Poets Society,1989,PG,128,"Comedy, Drama            ",8.1,79
+306,The Killer,,*,158,"Action, Adventure, Crime            ",*,*
+307,The Big Four,2022,TV-MA,141,"Action, Comedy, Crime            ",6.1,*
+308,Hell or High Water,II 2016,R,102,"Crime, Drama, Thriller            ",7.6,88
+309,Klaus,2019,PG,96,"Animation, Adventure, Comedy            ",8.2,65
+310,The King,I 2019,R,140,"Biography, Drama, History            ",7.3,62
+311,Godless,2017,TV-MA,452,"Action, Drama, Western            ",8.3,*
+312,Pieces of Her,2022– ,TV-MA,52,"Crime, Drama, Mystery            ",6.3,*
+313,The Imperfects,2022,TV-MA,45,"Action, Adventure, Drama            ",6.4,*
+314,Anatomy of a Scandal,2022,TV-MA,268,"Drama, Thriller            ",7.0,*
+315,Day Shift,2022,R,113,"Action, Comedy, Fantasy            ",6.1,51
+316,I'm Thinking of Ending Things,2020,R,134,"Drama, Thriller            ",6.6,78
+317,Legally Blonde,2001,PG-13,96,"Comedy, Romance            ",6.4,59
+318,Irreverent,2022– ,*,46,"Comedy, Crime, Drama            ",6.8,*
+319,Altered Carbon,2018–2020,TV-MA,60,"Action, Drama, Sci-Fi            ",7.9,*
+320,Freaks and Geeks,1999–2000,TV-14,44,"Comedy, Drama            ",8.8,*
+321,Chilling Adventures of Sabrina,2018–2020,TV-14,60,"Drama, Fantasy, Horror            ",7.4,*
+322,Unbelievable,2019,TV-MA,385,"Crime, Drama            ",8.4,*
+323,Broadchurch,2013–2017,TV-MA,48,"Crime, Drama, Mystery            ",8.4,*
+324,One Of Us Is Lying,2021– ,TV-MA,50,"Crime, Drama, Mystery            ",6.8,*
+325,Mob Psycho 100,2016–2022,TV-14,24,"Animation, Action, Comedy            ",8.6,*
+326,Narcos: Mexico,2018–2021,TV-MA,50,"Crime, Drama            ",8.4,*
+327,A Knight's Tale,2001,PG-13,132,"Action, Adventure, Romance            ",6.9,56
+328,Black Sails,2014–2017,TV-MA,56,"Action, Adventure, Drama            ",8.2,*
+329,Bodyguard,2018,TV-MA,60,"Crime, Drama, Thriller            ",8.1,*
+330,Smiley,II 2022– ,TV-MA,36,"Comedy, Romance            ",8.1,*
+331,Full House,1987–1995,TV-G,22,"Comedy, Drama, Family            ",6.7,*
+332,Purple Hearts,2022,TV-14,122,"Drama, Music, Romance            ",6.7,30
+333,Bloodline,2015–2017,TV-MA,60,"Drama, Thriller            ",7.9,*
+334,The Two Popes,2019,PG-13,125,"Biography, Comedy, Drama            ",7.6,75
+335,Fate: The Winx Saga,2021–2022,TV-MA,*,"Action, Adventure, Drama            ",6.8,*
+336,Supergirl,2015–2021,TV-PG,43,"Action, Adventure, Drama            ",6.2,*
+337,Annihilation,I 2018,R,115,"Adventure, Drama, Horror            ",6.8,79
+338,Death Note,2006–2007,TV-14,23,"Animation, Crime, Drama            ",9.0,*
+339,The OA,2016–2019,TV-MA,60,"Drama, Fantasy, Mystery            ",7.8,*
+340,The Snowman,2017,R,119,"Crime, Drama, Thriller            ",5.1,23
+341,Spider-Man: Far from Home,2019,PG-13,129,"Action, Adventure, Sci-Fi            ",7.4,69
+342,The Serpent,2021,TV-MA,458,"Crime, Drama, Thriller            ",7.6,*
+343,There's Something About Mary,1998,R,119,"Comedy, Romance            ",7.1,69
+344,Workin' Moms,2017–2023,TV-MA,30,"Comedy, Drama            ",7.8,*
+345,Miraculous: Tales of Ladybug & Cat Noir,2015– ,TV-Y7,20,"Animation, Action, Adventure            ",7.6,*
+346,Birdman or (The Unexpected Virtue of Ignorance),2014,R,119,"Comedy, Drama            ",7.7,87
+347,Naruto,2002–2007,TV-PG,24,"Animation, Action, Adventure            ",8.4,*
+348,The Fresh Prince of Bel-Air,1990–1996,TV-PG,22,Comedy            ,7.9,*
+349,Ray Donovan,2013–2020,TV-MA,60,"Crime, Drama            ",8.3,*
+350,Zero Dark Thirty,2012,R,157,"Drama, History, Thriller            ",7.4,95
+351,Travelers,2016–2018,TV-MA,45,"Drama, Mystery, Sci-Fi            ",8.0,*
+352,Pretty Hard Cases,2021– ,TV-14,*,"Comedy, Crime, Drama            ",6.7,*
+353,The Platform,2019,TV-MA,94,"Horror, Sci-Fi, Thriller            ",7.0,73
+354,Jujutsu Kaisen,2020– ,TV-MA,24,"Animation, Action, Adventure            ",8.6,*
+355,DC's Legends of Tomorrow,2016–2022,TV-14,42,"Action, Adventure, Drama            ",6.8,*
+356,Athena,2022,R,99,"Action, Drama, Thriller            ",6.8,73
+357,Blue Lock,2022– ,TV-14,22,"Animation, Action, Sport            ",8.4,*
+358,Clueless,1995,PG-13,97,"Comedy, Romance            ",6.9,68
+359,Trailer Park Boys,2001–2018,TV-MA,30,"Comedy, Crime            ",8.6,*
+360,The End of the F***ing World,2017–2019,TV-MA,25,"Adventure, Comedy, Crime            ",8.1,*
+361,The IT Crowd,2006–2013,TV-14,25,Comedy            ,8.5,*
+362,Adventure Time,2010–2018,TV-PG,11,"Animation, Action, Adventure            ",8.6,*
+363,Lupin,2021– ,TV-MA,45,"Action, Crime, Drama            ",7.5,*
+364,The Ballad of Buster Scruggs,2018,R,133,"Comedy, Drama, Musical            ",7.3,79
+365,Drop Dead Diva,2009–2014,TV-PG,60,"Comedy, Drama            ",7.5,*
+366,Sicario: Day of the Soldado,2018,R,122,"Action, Crime, Drama            ",7.1,61
+367,Anne with an E,2017–2019,TV-PG,60,"Drama, Family            ",8.7,*
+368,Californication,2007–2014,TV-MA,28,"Comedy, Drama            ",8.3,*
+369,Fighting with My Family,2019,PG-13,108,"Biography, Comedy, Drama            ",7.1,68
+370,The Green Knight,2021,R,130,"Adventure, Drama, Fantasy            ",6.6,85
+371,Queen of the South,2016–2021,TV-MA,42,"Action, Crime, Drama            ",8.0,*
+372,The Chalk Line,2022,*,106,"Horror, Mystery, Thriller            ",6.1,*
+373,Step Brothers,2008,R,98,Comedy            ,6.9,51
+374,The Ranch,2016–2020,TV-MA,30,"Comedy, Drama, Western            ",7.5,*
+375,Your Name.,2016,PG,106,"Animation, Drama, Fantasy            ",8.4,79
+376,Knock Knock,I 2015,R,99,"Crime, Drama, Horror            ",4.9,53
+377,Snowpiercer,2013,R,126,"Action, Drama, Sci-Fi            ",7.1,84
+378,Persuasion,I 2022,PG,108,"Drama, Romance            ",5.8,42
+379,Behind Her Eyes,2021,TV-MA,298,"Drama, Mystery, Thriller            ",7.2,*
+380,The Bubble,2022,R,126,Comedy            ,4.7,34
+381,Howl's Moving Castle,2004,PG,119,"Animation, Adventure, Family            ",8.2,80
+382,Shooter,2016–2018,TV-14,60,"Action, Drama            ",7.5,*
+383,Mother!,2017,R,121,"Drama, Horror, Mystery            ",6.6,75
+384,Bates Motel,2013–2017,TV-MA,45,"Drama, Horror, Mystery            ",8.1,*
+385,Rebel Moon,,*,*,"Action, Adventure, Drama            ",*,*
+386,The Harder They Fall,2021,R,139,"Action, Drama, Western            ",6.6,68
+387,Bird Box,2018,R,124,"Horror, Mystery, Sci-Fi            ",6.6,51
+388,Star Trek: Enterprise,2001–2005,TV-PG,60,"Action, Adventure, Drama            ",7.5,*
+389,Yes Day,2021,PG,86,"Comedy, Family            ",5.7,46
+390,The Lost World: Jurassic Park,1997,PG-13,129,"Action, Adventure, Sci-Fi            ",6.5,59
+391,Fauda,2015– ,TV-MA,60,"Action, Drama, Thriller            ",8.2,*
+392,The Blues Brothers,1980,R,133,"Action, Adventure, Comedy            ",7.9,60
+393,Grace and Frankie,2015–2022,TV-MA,30,Comedy            ,8.2,*
+394,A Series of Unfortunate Events,2017–2019,TV-PG,50,"Adventure, Comedy, Drama            ",7.8,*
+395,Beauty and the Beast,1991,G,84,"Animation, Family, Fantasy            ",8.0,95
+396,Captain America: Civil War,2016,PG-13,147,"Action, Adventure, Sci-Fi            ",7.8,75
+397,The Forgotten Battle,2020,TV-MA,124,"Drama, War            ",7.1,*
+398,American Crime Story,2016– ,TV-MA,42,"Biography, Crime, Drama            ",8.4,*
+399,Now You See Me,I 2013,PG-13,115,"Crime, Mystery, Thriller            ",7.2,50
+400,Sweet Home,2020– ,TV-MA,52,"Drama, Fantasy, Horror            ",7.3,*
+401,Fullmetal Alchemist: Brotherhood,2009–2010,TV-14,24,"Animation, Action, Adventure            ",9.1,*
+402,Russian Doll,2019– ,TV-MA,30,"Comedy, Drama, Mystery            ",7.8,*
+403,The Old Guard,2020,R,125,"Action, Thriller            ",6.6,70
+404,Blockbuster,2022,TV-14,30,Comedy            ,5.1,*
+405,Loving Adults,2022,TV-MA,104,"Crime, Drama, Thriller            ",6.5,*
+406,A Storm for Christmas,2022,TV-MA,200,"Comedy, Drama            ",7.1,*
+407,Knives Out 3,2024,*,*,"Comedy, Crime, Drama            ",*,*
+408,Interceptor,2022,TV-MA,99,"Action, Adventure, Drama            ",4.6,51
+409,The Stranger,I 2020,TV-MA,363,"Crime, Drama, Mystery            ",7.3,*
+410,Batman v Superman: Dawn of Justice,2016,PG-13,151,"Action, Adventure, Sci-Fi            ",6.4,44
+411,The Lost Daughter,2021,R,121,Drama            ,6.7,86
+412,Black Clover,2017–2021,TV-PG,24,"Animation, Action, Adventure            ",8.3,*
+413,Madam Secretary,2014–2019,TV-PG,45,"Drama, Thriller            ",7.7,*
+414,The Volcano: Rescue from Whakaari,2022,PG-13,98,Documentary            ,7.4,*
+415,Sausage Party,2016,R,89,"Animation, Adventure, Comedy            ",6.1,66
+416,iZombie,2015–2019,TV-14,42,"Comedy, Crime, Drama            ",7.8,*
+417,Sense8,2015–2018,TV-MA,60,"Drama, Mystery, Sci-Fi            ",8.2,*
+418,Willy Wonka & the Chocolate Factory,1971,G,100,"Family, Fantasy, Musical            ",7.8,67
+419,King Arthur: Legend of the Sword,2017,PG-13,126,"Action, Adventure, Drama            ",6.7,41
+420,The Mummy,2017,PG-13,110,"Action, Adventure, Fantasy            ",5.4,34
+421,The Sea Beast,2022,PG,115,"Animation, Adventure, Comedy            ",7.1,74
+422,Out of the Furnace,2013,R,116,"Action, Crime, Drama            ",6.7,63
+423,Polar,I 2019,TV-MA,118,"Action, Thriller            ",6.3,19
+424,Barbarians,2020– ,TV-MA,280,"Action, Adventure, Drama            ",7.2,*
+425,Maid,2021,TV-MA,545,Drama            ,8.4,*
+426,The Woman in the House,2022,TV-MA,208,"Comedy, Crime, Drama            ",6.4,*
+427,Venom,2018,PG-13,112,"Action, Adventure, Sci-Fi            ",6.6,35
+428,The Circle,2020– ,TV-MA,48,"Game-Show, Reality-TV            ",7.3,*
+429,The Affair,2014–2019,TV-MA,60,Drama            ,7.9,*
+430,Love and Monsters,I 2020,PG-13,109,"Action, Adventure, Comedy            ",6.9,63
+431,Paradise PD,2018–2022,TV-MA,28,"Animation, Action, Comedy            ",6.8,*
+432,El Camino: A Breaking Bad Movie,2019,TV-MA,122,"Action, Crime, Drama            ",7.3,72
+433,Paddington 2,2017,PG,103,"Adventure, Comedy, Family            ",7.8,88
+434,Below Deck,2013– ,TV-14,43,Reality-TV            ,7.5,*
+435,Moneyball,2011,PG-13,133,"Biography, Drama, Sport            ",7.6,87
+436,Atypical,2017–2021,TV-MA,30,"Comedy, Drama            ",8.2,*
+437,Scorpion,2014–2018,TV-14,43,"Action, Crime, Drama            ",7.0,*
+438,Dynasty,2017–2022,TV-14,42,Drama            ,7.3,*
+439,Furious 7,2015,PG-13,137,"Action, Crime, Thriller            ",7.1,67
+440,Lost in Space,2018–2021,TV-PG,60,"Adventure, Drama, Family            ",7.3,*
+441,Holidate,2020,TV-MA,104,"Comedy, Romance            ",6.1,44
+442,Pokémon,1997– ,TV-Y7,24,"Animation, Action, Adventure            ",7.5,*
+443,Escape Room,I 2019,PG-13,99,"Action, Adventure, Horror            ",6.4,48
+444,Moonlight,I 2016,R,111,Drama            ,7.4,99
+445,Moonrise Kingdom,2012,PG-13,94,"Comedy, Drama, Family            ",7.8,84
+446,The Lucky One,2012,PG-13,101,"Drama, Mystery, Romance            ",6.4,39
+447,The Impossible,2012,PG-13,114,"Adventure, Drama, History            ",7.5,73
+448,The Babysitter,I 2017,TV-MA,85,"Comedy, Horror            ",6.3,*
+449,The Haunting of Bly Manor,2020,TV-MA,494,"Drama, Horror, Mystery            ",7.4,*
+450,The Invisible Guest,2016,TV-MA,106,"Crime, Drama, Mystery            ",8.0,*
+451,National Lampoon's Animal House,1978,R,109,Comedy            ,7.4,79
+452,Ghost,1990,PG-13,127,"Drama, Fantasy, Romance            ",7.1,52
+453,Southpaw,2015,R,124,"Action, Crime, Drama            ",7.3,57
+454,The Legend of Korra,2012–2014,TV-PG,23,"Animation, Action, Adventure            ",8.4,*
+455,The Bold Type,2017–2021,TV-14,45,"Comedy, Drama            ",7.8,*
+456,Shameless,2004–2013,TV-MA,90,"Comedy, Crime, Drama            ",8.0,*
+457,The Human Centipede (First Sequence),2009,R,92,Horror            ,4.4,33
+458,Revenge,2011–2015,TV-14,44,"Drama, Mystery, Thriller            ",7.8,*
+459,Hot Skull,2022,TV-MA,60,"Adventure, Drama, Mystery            ",7.2,*
+460,My Name Is Vendetta,2022,TV-MA,90,"Action, Crime, Drama            ",5.5,*
+461,Against the Ice,2022,TV-MA,102,"Adventure, Drama, History            ",6.5,49
+462,Daughter from Another Mother,2021–2022,TV-MA,*,"Comedy, Drama            ",7.3,*
+463,Extraction,2020,R,116,"Action, Thriller            ",6.7,56
+464,The Next 365 Days,2022,TV-MA,112,"Drama, Romance            ",2.7,*
+465,Penny Dreadful,2014–2016,TV-MA,60,"Drama, Fantasy, Horror            ",8.2,*
+466,The Fate of the Furious,2017,PG-13,136,"Action, Crime, Thriller            ",6.6,56
+467,Lawrence of Arabia,1962,Approved,218,"Adventure, Biography, Drama            ",8.3,100
+468,Sweet Tooth,2021– ,TV-14,*,"Action, Adventure, Drama            ",7.8,*
+469,The Firm,1993,R,154,"Drama, Mystery, Thriller            ",6.8,58
+470,Senior Year,2022,R,111,Comedy            ,5.5,47
+471,Midnight in Paris,2011,PG-13,94,"Comedy, Fantasy, Romance            ",7.7,81
+472,Mars Attacks!,1996,PG-13,106,"Comedy, Sci-Fi            ",6.4,52
+473,Booksmart,2019,R,102,Comedy            ,7.1,84
+474,Outlaw King,2018,R,121,"Action, Biography, Drama            ",6.9,59
+475,The Playlist,2022,TV-MA,300,"Biography, Drama, Music            ",7.5,*
+476,The Witcher: Nightmare of the Wolf,2021,TV-MA,83,"Animation, Action, Adventure            ",7.2,67
+477,Through My Window,2022,TV-MA,116,"Comedy, Drama, Romance            ",5.4,*
+478,Poldark,2015–2019,TV-14,60,"Drama, Romance            ",8.3,*
+479,Dawson's Creek,1998–2003,TV-14,60,"Drama, Romance            ",6.8,*
+480,Hachi: A Dog's Tale,2009,G,93,"Biography, Drama, Family            ",8.1,*
+481,Shadowhunters,2016–2019,TV-14,42,"Action, Drama, Fantasy            ",6.5,*
+482,Fractured,I 2019,TV-MA,99,Thriller            ,6.4,36
+483,Kong: Skull Island,2017,PG-13,118,"Action, Adventure, Fantasy            ",6.6,62
+484,The Hitman's Bodyguard,2017,R,118,"Action, Comedy, Crime            ",6.9,47
+485,Kleo,2022– ,TV-MA,44,"Action, Crime, Drama            ",7.5,*
+486,Eurovision Song Contest: The Story of Fire Saga,2020,PG-13,123,"Comedy, Musical            ",6.5,50
+487,Triple Frontier,2019,R,125,"Action, Thriller            ",6.4,61
+488,Gods of Egypt,2016,PG-13,127,"Action, Adventure, Fantasy            ",5.4,25
+489,Don't Breathe,2016,R,88,"Crime, Horror, Thriller            ",7.1,71
+490,The Munsters,2022,PG,109,"Comedy, Family, Fantasy            ",4.5,57
+491,Entergalactic,2022,TV-MA,93,"Animation, Comedy, Music            ",7.4,*
+492,Breakfast at Tiffany's,1961,Approved,115,"Comedy, Drama, Romance            ",7.6,76
+493,Maestro,VII,*,*,"Biography, Drama, Music            ",*,*
+494,Medici,2016–2019,TV-14,60,"Biography, Drama, History            ",7.9,*
+495,Santa Clarita Diet,2017–2019,TV-MA,30,"Comedy, Horror            ",7.8,*
+496,As Good as It Gets,1997,PG-13,139,"Comedy, Drama, Romance            ",7.7,67
+497,Scrooge: A Christmas Carol,2022,TV-Y7,96,"Animation, Adventure, Comedy            ",6.2,46
+498,Run,I 2020,PG-13,90,"Mystery, Thriller            ",6.7,67
+499,Sonic Prime,2022– ,TV-Y7,22,"Animation, Action, Adventure            ",7.3,*
+500,"tick, tick... BOOM!",2021,PG-13,120,"Biography, Comedy, Drama            ",7.5,74
+501,When Calls the Heart,2014– ,TV-G,43,"Drama, History, Romance            ",8.0,*
+502,Jessica Jones,2015–2019,TV-MA,56,"Action, Crime, Drama            ",7.9,*
+503,Live to Lead,2022– ,TV-MA,30,Documentary            ,4.1,*
+504,Nashville,2012–2018,TV-PG,43,"Drama, Music, Romance            ",7.7,*
+505,The Mitchells vs the Machines,2021,PG,114,"Animation, Adventure, Comedy            ",7.6,81
+506,Gilmore Girls: A Year in the Life,2016,TV-14,370,"Comedy, Drama            ",7.5,*
+507,Princess Mononoke,1997,PG-13,134,"Animation, Action, Adventure            ",8.4,76
+508,What Happened to Monday,2017,TV-MA,123,"Action, Crime, Fantasy            ",6.8,47
+509,Monty Python and the Holy Grail,1975,PG,91,"Adventure, Comedy, Fantasy            ",8.2,91
+510,Don't Pick Up the Phone,2022,TV-MA,143,"Documentary, Crime            ",6.7,*
+511,Wendell & Wild,2022,PG-13,105,"Animation, Adventure, Comedy            ",6.4,69
+512,Castlevania,2017–2021,TV-MA,23,"Animation, Action, Adventure            ",8.3,*
+513,Fatal Attraction,1987,R,119,"Drama, Thriller            ",6.9,67
+514,Green Room,2015,R,95,"Crime, Drama, Horror            ",7.0,79
+515,Jurassic Park III,2001,PG-13,92,"Action, Adventure, Sci-Fi            ",5.9,42
+516,The Weekend Away,2022,TV-14,89,"Crime, Drama, Mystery            ",5.6,51
+517,Dirilis: Ertugrul,2014–2019,TV-14,120,"Action, Adventure, Drama            ",7.9,*
+518,Castle Rock,2018–2019,TV-MA,60,"Drama, Fantasy, Horror            ",7.5,*
+519,The Unforgivable,2021,R,112,"Crime, Drama            ",7.1,41
+520,The Takeover,I 2022,TV-MA,87,"Action, Crime, Thriller            ",5.2,*
+521,Under the Dome,2013–2015,TV-14,43,"Drama, Mystery, Sci-Fi            ",6.5,*
+522,The Meyerowitz Stories,2017,TV-MA,112,"Comedy, Drama            ",6.9,79
+523,Lone Survivor,2013,R,121,"Action, Biography, Drama            ",7.5,60
+524,First Love,I 2022– ,TV-MA,50,"Drama, Romance            ",8.4,*
+525,Sweet Magnolias,2020– ,TV-14,*,"Drama, Romance            ",7.4,*
+526,Climax,I 2018,R,97,"Drama, Horror, Music            ",6.9,67
+527,Kingdom,2019– ,TV-MA,45,"Action, Drama, Horror            ",8.3,*
+528,Heartbreak High,2022– ,TV-MA,50,"Drama, Romance            ",7.7,*
+529,Stay Close,2021,TV-MA,375,"Crime, Drama, Mystery            ",6.9,*
+530,Young Royals,2021– ,TV-MA,50,"Drama, Romance            ",8.3,*
+531,12 Strong,2018,R,130,"Action, Drama, History            ",6.5,54
+532,The Hardy Boys,2020–2023,TV-PG,45,"Adventure, Drama, Family            ",7.0,*
+533,Archive 81,2022,TV-MA,60,"Drama, Horror, Mystery            ",7.3,*
+534,Spartacus,1960,PG-13,197,"Adventure, Biography, Drama            ",7.9,87
+535,Downsizing,2017,R,135,"Drama, Fantasy, Sci-Fi            ",5.8,63
+536,Wentworth,2013–2021,TV-MA,45,"Crime, Drama, Thriller            ",8.6,*
+537,The Poison Rose,2019,R,98,"Crime, Mystery, Thriller            ",4.7,26
+538,300: Rise of an Empire,2014,R,102,"Action, Drama            ",6.2,48
+539,The Invitation,I 2015,Not Rated,100,"Drama, Horror, Mystery            ",6.6,74
+540,Gunpowder Milkshake,2021,R,114,"Action, Crime, Thriller            ",6.0,47
+541,Pine Gap,2018,TV-MA,360,"Drama, Mystery, Thriller            ",7.2,*
+542,Look Both Ways,2022,TV-14,110,"Comedy, Drama, Romance            ",6.3,49
+543,Charlie's Angels,2019,PG-13,118,"Action, Adventure, Comedy            ",4.9,52
+544,Below Her Mouth,2016,Not Rated,94,"Drama, Romance            ",5.5,42
+545,The Woman in the Window,2020,R,100,"Crime, Drama, Mystery            ",5.7,41
+546,Crash Landing on You,2019–2020,TV-14,70,"Adventure, Comedy, Romance            ",8.7,*
+547,The Boondocks,2005–2014,TV-MA,22,"Animation, Action, Comedy            ",8.5,*
+548,Cowboy Bebop,1998–1999,TV-14,24,"Animation, Action, Adventure            ",8.9,*
+549,To Kill a Mockingbird,1962,Approved,129,"Crime, Drama            ",8.3,88
+550,The Clovehitch Killer,2018,Unrated,109,"Crime, Drama, Mystery            ",6.5,59
+551,Timeless,2016–2018,TV-14,60,"Action, Adventure, Drama            ",7.6,*
+552,Deadwind,2018–2021,TV-MA,45,"Crime, Drama, Mystery            ",7.3,*
+553,Reign,2013–2017,TV-14,42,Drama            ,7.4,*
+554,"Monica, O My Darling",2022,TV-MA,129,"Comedy, Crime, Drama            ",7.4,*
+555,The Emperor's New Groove,2000,G,78,"Animation, Adventure, Comedy            ",7.4,70
+556,Love Hard,2021,TV-MA,104,"Comedy, Romance            ",6.3,42
+557,The Lincoln Lawyer,2011,R,118,"Crime, Drama, Mystery            ",7.3,63
+558,Single's Inferno,2021– ,TV-PG,*,Reality-TV            ,7.2,*
+559,Set It Up,2018,TV-14,105,"Comedy, Romance            ",6.5,62
+560,Public Enemies,2009,R,140,"Action, Biography, Crime            ",7.0,70
+561,Chicken Run: Dawn of the Nugget,2023,*,*,"Animation, Adventure, Comedy            ",*,*
+562,The Dictator,2012,R,83,Comedy            ,6.4,58
+563,Borgen,2010–2022,TV-14,58,Drama            ,8.5,*
+564,High School DxD,2012–2018,TV-MA,23,"Animation, Action, Comedy            ",7.6,*
+565,Avatar: The Last Airbender,,*,*,"Action, Adventure, Comedy            ",*,*
+566,Glitch,2015–2019,TV-MA,45,"Drama, Horror, Sci-Fi            ",7.2,*
+567,Newness,2017,Unrated,117,"Drama, Romance            ",6.3,50
+568,Cowboy Bebop,2021,TV-MA,58,"Action, Adventure, Comedy            ",6.7,*
+569,The Shack,I 2017,PG-13,132,"Drama, Fantasy            ",6.2,32
+570,Into the Badlands,2015–2019,TV-14,42,"Action, Adventure, Drama            ",7.9,*
+571,When They See Us,2019,TV-MA,296,"Biography, Crime, Drama            ",8.9,*
+572,The Alienist,2018–2020,TV-MA,60,"Crime, Drama, Mystery            ",7.7,*
+573,Dark Desire,2020–2022,TV-MA,30,"Drama, Mystery, Thriller            ",6.5,*
+574,The Way of the Househusband,2021– ,TV-14,16,"Animation, Action, Comedy            ",7.3,*
+575,Crip Camp,2020,R,106,"Documentary, History            ",7.7,86
+576,Incantation,2022,TV-MA,110,"Horror, Mystery            ",6.2,*
+577,Ratched,2020– ,TV-MA,60,"Crime, Drama, History            ",7.3,*
+578,Lucy,I 2014,R,89,"Action, Sci-Fi, Thriller            ",6.4,61
+579,Marcella,2016–2021,TV-MA,45,"Crime, Drama, Mystery            ",7.4,*
+580,Alexa & Katie,2018–2020,TV-Y7,25,"Comedy, Drama            ",7.5,*
+581,Metal Lords,2022,R,97,"Comedy, Music            ",6.7,59
+582,The Croods,2013,PG,98,"Animation, Adventure, Comedy            ",7.2,55
+583,The Night Before,II 2015,R,101,"Comedy, Fantasy            ",6.4,58
+584,Top Gear,2002– ,TV-PG,60,"Adventure, Comedy, Reality-TV            ",8.7,*
+585,Texas Chainsaw Massacre,2022,R,81,"Crime, Horror, Thriller            ",4.7,34
+586,Kate,I 2021,R,106,"Action, Adventure, Crime            ",6.2,47
+587,The Quick and the Dead,1995,R,108,"Action, Romance, Thriller            ",6.5,49
+588,Resident Evil,2022,TV-MA,60,"Action, Horror, Sci-Fi            ",4.1,*
+589,Contact,1997,PG,150,"Drama, Mystery, Sci-Fi            ",7.5,62
+590,1922,2017,TV-MA,102,"Crime, Drama, Horror            ",6.2,70
+591,The Bad Batch,2016,R,118,"Action, Horror, Mystery            ",5.2,62
+592,Atomic Blonde,2017,R,115,"Action, Thriller            ",6.7,63
+593,The Highwaymen,2019,R,132,"Biography, Crime, Drama            ",6.9,58
+594,The Post,2017,PG-13,116,"Biography, Drama, History            ",7.2,83
+595,Space Force,2020–2022,TV-MA,30,Comedy            ,6.7,*
+596,Robin Hood,2018,PG-13,116,"Action, Adventure, Drama            ",5.3,32
+597,Noah,2014,PG-13,138,"Action, Adventure, Drama            ",5.8,68
+598,Henry Danger,2014–2020,TV-G,30,"Action, Comedy, Family            ",5.7,*
+599,Mighty Morphin Power Rangers,1993–1996,TV-Y7,30,"Action, Adventure, Family            ",6.5,*
+600,Home Team,2022,PG,95,"Comedy, Sport            ",6.0,23
+601,My Neighbor Totoro,1988,G,86,"Animation, Comedy, Family            ",8.1,86
+602,3rd Rock from the Sun,1996–2001,TV-PG,60,"Comedy, Family, Sci-Fi            ",7.8,*
+603,Windfall,2022,R,92,"Crime, Drama, Thriller            ",5.7,52
+604,Geostorm,2017,PG-13,109,"Action, Sci-Fi, Thriller            ",5.3,21
+605,Project X,2012,R,88,Comedy            ,6.6,48
+606,The Dig,2021,PG-13,112,"Biography, Drama, History            ",7.1,73
+607,Dragon Age: Absolution,2022– ,TV-MA,30,"Animation, Action, Adventure            ",6.4,*
+608,Kill Bill: Vol. 2,2004,R,137,"Action, Crime, Thriller            ",8.0,83
+609,Lilyhammer,2012–2014,TV-MA,45,"Comedy, Crime, Drama            ",7.9,*
+610,Traitors,2019,TV-MA,60,"History, Thriller            ",6.6,*
+611,Collateral,2018,TV-MA,230,"Crime, Drama, Mystery            ",6.7,*
+612,The Dead Don't Die,2019,R,104,"Comedy, Fantasy, Horror            ",5.4,53
+613,Party of Five,1994–2000,TV-PG,60,"Drama, Family            ",6.8,*
+614,Jurassic World: Camp Cretaceous,2020–2022,TV-PG,24,"Animation, Action, Adventure            ",7.5,*
+615,Cunk on Earth,2022– ,*,29,"Documentary, Comedy            ",8.4,*
+616,Hush,I 2016,R,82,"Horror, Thriller            ",6.6,67
+617,Acrimony,2018,R,120,"Horror, Romance, Thriller            ",5.8,32
+618,Chesapeake Shores,2016–2022,TV-PG,42,"Drama, Family            ",7.5,*
+619,Awakenings,1990,PG-13,121,"Biography, Drama            ",7.8,74
+620,Hannah Montana,2006–2011,TV-G,23,"Comedy, Family, Music            ",5.2,*
+621,Jeanne du Barry,,*,*,"Biography, Drama, History            ",*,*
+622,Maniac,2018,TV-MA,386,"Comedy, Drama, Sci-Fi            ",7.7,*
+623,Flashdance,1983,R,95,"Drama, Music, Romance            ",6.2,39
+624,365 Days: This Day,2022,TV-MA,111,"Drama, Romance            ",2.6,*
+625,The Missing,2014–2016,TV-14,60,"Crime, Drama, Mystery            ",8.2,*
+626,Rosemary's Baby,1968,Approved,137,"Drama, Horror            ",8.0,96
+627,Tokyo Revengers,2021– ,TV-14,24,"Animation, Action, Drama            ",8.0,*
+628,Chip 'n Dale: Rescue Rangers,2022,PG,97,"Animation, Adventure, Comedy            ",7.0,66
+629,Unbreakable Kimmy Schmidt,2015–2020,TV-14,30,Comedy            ,7.6,*
+630,The Ritual,I 2017,TV-MA,94,"Horror, Mystery, Thriller            ",6.3,57
+631,Khakee: The Bihar Chapter,2022– ,TV-MA,45,"Action, Crime, Drama            ",8.2,*
+632,Dance Monsters,2022– ,TV-PG,*,"Game-Show, Reality-TV            ",5.5,*
+633,Lord of War,2005,R,122,"Crime, Drama            ",7.6,62
+634,Good Witch,2015–2021,TV-PG,48,"Comedy, Drama, Fantasy            ",7.3,*
+635,A Boy Called Christmas,2021,PG,106,"Adventure, Drama, Family            ",6.7,61
+636,The House,III 2022,TV-MA,97,"Animation, Comedy, Drama            ",6.8,*
+637,Hairspray,2007,PG,117,"Comedy, Drama, Musical            ",6.7,81
+638,The Kings of the World,2022,TV-MA,103,"Adventure, Drama            ",7.3,*
+639,Waterworld,1995,PG-13,177,"Action, Adventure, Sci-Fi            ",6.2,56
+640,Munich: The Edge of War,2021,PG-13,130,"Biography, Drama, History            ",6.8,53
+641,Hell's Kitchen,2005– ,TV-14,42,"Game-Show, Reality-TV            ",7.1,*
+642,Ancient Apocalypse,2022– ,TV-MA,30,"Documentary, History            ",7.4,*
+643,Mank,2020,R,131,"Biography, Comedy, Drama            ",6.8,79
+644,Versailles,2015–2018,TV-MA,52,"Biography, Drama, History            ",7.9,*
+645,GLOW,2017–2019,TV-MA,35,"Comedy, Drama, Sport            ",8.0,*
+646,Call My Agent!,2015–2020,TV-MA,52,"Comedy, Drama            ",8.3,*
+647,Iron Fist,2017–2018,TV-MA,55,"Action, Adventure, Crime            ",6.4,*
+648,The Wrong Missy,2020,TV-MA,90,"Comedy, Romance            ",5.7,33
+649,White House Down,2013,PG-13,131,"Action, Drama, Thriller            ",6.3,52
+650,Misfits,2009–2013,TV-MA,60,"Comedy, Drama, Fantasy            ",8.2,*
+651,Blue Mountain State,2010–2011,TV-MA,22,"Comedy, Sport            ",8.3,*
+652,Vincenzo,2021– ,Not Rated,80,"Action, Comedy, Crime            ",8.4,*
+653,Black Summer,2019–2021,TV-MA,40,"Action, Drama, Horror            ",6.6,*
+654,Hell on Wheels,2011–2016,TV-14,42,"Drama, Western            ",8.3,*
+655,Intrusion,II 2021,TV-14,92,"Drama, Thriller            ",5.2,39
+656,Black Crab,2022,TV-MA,114,"Action, Adventure, Drama            ",5.7,54
+657,Bungou Stray Dogs,2016– ,TV-14,24,"Animation, Action, Comedy            ",7.8,*
+658,Lilo & Stitch,2002,PG,85,"Animation, Adventure, Comedy            ",7.3,73
+659,Perfect Blue,1997,R,81,"Animation, Crime, Drama            ",8.0,67
+660,R.I.P.D.,2013,PG-13,96,"Action, Adventure, Comedy            ",5.6,25
+661,The Dirt,2019,TV-MA,107,"Biography, Comedy, Drama            ",7.0,39
+662,The Last Dance,2020,TV-MA,491,"Documentary, Biography, History            ",9.1,*
+663,The Christmas Chronicles,2018,PG,104,"Adventure, Comedy, Family            ",7.0,52
+664,Office Christmas Party,2016,R,105,Comedy            ,5.9,42
+665,A Night at the Kindergarten,2022,TV-MA,96,Comedy            ,5.8,*
+666,Beverly Hills Cop: Axel Foley,,*,*,"Action, Comedy, Crime            ",*,*
+667,In the Shadow of the Moon,2019,TV-MA,115,"Action, Crime, Mystery            ",6.2,48
+668,The Order,2019–2020,TV-MA,60,"Drama, Fantasy, Horror            ",6.7,*
+669,Neon Genesis Evangelion,1995–1996,TV-MA,24,"Animation, Action, Drama            ",8.5,*
+670,The Musketeers,2014–2016,TV-14,55,"Adventure, Drama            ",7.8,*
+671,Love in the Villa,2022,TV-14,114,"Comedy, Romance            ",5.4,50
+672,Warriors of Future,2022,*,112,"Action, Adventure, Sci-Fi            ",5.6,*
+673,The Rain,2018–2020,TV-MA,45,"Drama, Sci-Fi, Thriller            ",6.3,*
+674,To All the Boys I've Loved Before,2018,TV-14,99,"Comedy, Drama, Romance            ",7.0,64
+675,Desperado,1995,R,104,"Action, Crime, Thriller            ",7.1,55
+676,Love,2016–2018,TV-MA,50,"Comedy, Drama, Romance            ",7.7,*
+677,A Man of Action,2022,TV-MA,111,"Biography, Crime, Drama            ",6.3,*
+678,Now You See Me 2,2016,PG-13,129,"Action, Adventure, Comedy            ",6.4,46
+679,The Dragon Prince,2018– ,TV-Y7,26,"Animation, Action, Adventure            ",8.3,*
+680,Christmas with You,2022,TV-PG,89,"Comedy, Family, Romance            ",5.6,39
+681,"Extremely Wicked, Shockingly Evil and Vile",2019,R,110,"Biography, Crime, Drama            ",6.7,52
+682,Gudetama: An Eggcellent Adventure,2022– ,TV-G,10,"Animation, Short, Adventure            ",7.5,*
+683,Cars 3,2017,G,102,"Animation, Adventure, Comedy            ",6.7,59
+684,Marco Polo,2014–2016,TV-MA,60,"Action, Adventure, Drama            ",8.0,*
+685,The Challenge,1998– ,TV-14,60,"Adventure, Game-Show, Reality-TV            ",7.9,*
+686,I Think You Should Leave with Tim Robinson,2019– ,TV-MA,16,Comedy            ,7.9,*
+687,Shot Caller,2017,R,121,"Crime, Drama, Thriller            ",7.3,59
+688,It's Okay to Not Be Okay,2020,TV-MA,80,"Comedy, Drama, Romance            ",8.6,*
+689,Life of Brian,1979,R,94,Comedy            ,8.0,77
+690,Dracula,2020,TV-14,270,"Action, Drama, Fantasy            ",6.8,*
+691,Ófærð,2015– ,TV-14,60,"Crime, Drama, Mystery            ",8.0,*
+692,Z Nation,2014–2018,TV-14,44,"Action, Comedy, Drama            ",6.7,*
+693,Spy Kids,2001,PG,88,"Action, Adventure, Comedy            ",5.6,71
+694,Clickbait,2021,TV-MA,368,"Crime, Drama, Mystery            ",7.2,*
+695,Friends from College,2017–2019,TV-MA,30,"Comedy, Drama            ",6.9,*
+696,Sand Castle,2017,TV-MA,113,"Action, Drama, War            ",6.3,45
+697,Orphan Black,2013–2017,TV-MA,44,"Drama, Sci-Fi, Thriller            ",8.3,*
+698,The Trial of the Chicago 7,2020,R,129,"Drama, History, Thriller            ",7.7,76
+699,Apollo 10½: A Space Age Childhood,2022,PG-13,97,"Animation, Adventure, Drama            ",7.2,79
+700,Pieces of a Woman,2020,R,126,Drama            ,7.0,66
+701,Manhunt,II 2017–2020,TV-14,60,"Biography, Crime, Drama            ",8.1,*
+702,Things Heard & Seen,2021,TV-MA,121,"Drama, Horror, Mystery            ",5.3,49
+703,Spenser Confidential,2020,R,111,"Action, Comedy, Drama            ",6.2,49
+704,Insatiable,2018–2019,TV-MA,45,"Comedy, Drama, Thriller            ",6.5,*
+705,Misha and the Wolves,2021,PG-13,90,"Documentary, Drama            ",6.7,63
+706,Kung Fu Panda 3,2016,PG,95,"Animation, Action, Adventure            ",7.1,66
+707,Pan,2015,PG,111,"Action, Adventure, Comedy            ",5.7,36
+708,Dirty John,2018– ,TV-14,44,"Crime, Drama            ",7.2,*
+709,The Ice Road,2021,PG-13,109,"Action, Adventure, Thriller            ",5.6,42
+710,Fuller House,2016–2020,TV-G,30,"Comedy, Family            ",6.7,*
+711,The Danish Girl,2015,R,119,"Biography, Drama, Romance            ",7.1,66
+712,I See You,II 2019,R,98,"Crime, Drama, Horror            ",6.8,65
+713,The Chestnut Man,2021– ,TV-MA,50,"Crime, Drama, Mystery            ",7.7,*
+714,Ragnarok,2020– ,TV-MA,45,"Action, Drama, Fantasy            ",7.5,*
+715,My Name,2021,TV-MA,50,"Action, Crime, Drama            ",7.8,*
+716,Knocked Up,2007,R,129,"Comedy, Romance            ",6.9,85
+717,Escape Room: Tournament of Champions,2021,PG-13,88,"Action, Adventure, Horror            ",5.7,48
+718,Bright,I 2017,TV-MA,117,"Action, Fantasy, Thriller            ",6.3,29
+719,Better Watch Out,II 2016,R,89,"Comedy, Horror, Thriller            ",6.5,67
+720,No Limit,2022,TV-MA,118,"Drama, Romance, Sport            ",5.8,*
+721,Rango,2011,PG,107,"Animation, Action, Adventure            ",7.2,75
+722,The Karate Kid,2010,PG,140,"Action, Drama, Family            ",6.2,61
+723,Katla,2021– ,TV-MA,*,"Drama, Fantasy, Mystery            ",7.0,*
+724,Serendipity,2001,PG-13,90,"Comedy, Romance            ",6.8,52
+725,How to Train Your Dragon: The Hidden World,2019,PG,104,"Animation, Action, Adventure            ",7.4,71
+726,12 Monkeys,2015–2018,TV-14,42,"Adventure, Drama, Mystery            ",7.7,*
+727,Seven Seconds,2018,TV-MA,60,"Crime, Drama            ",7.7,*
+728,The Amazing World of Gumball,2011–2019,TV-Y7-FV,11,"Animation, Short, Adventure            ",8.3,*
+729,The Hand of God,2021,R,130,Drama            ,7.3,76
+730,Honest Thief,2020,PG-13,99,"Action, Thriller            ",6.0,46
+731,Hunt for the Wilderpeople,2016,PG-13,101,"Adventure, Comedy, Drama            ",7.8,81
+732,Money Heist: Korea - Joint Economic Area,2022– ,TV-MA,60,"Action, Crime, Drama            ",5.5,*
+733,Kim's Convenience,2016–2021,TV-14,22,Comedy            ,8.2,*
+734,The Kissing Booth,2018,TV-14,105,"Comedy, Romance            ",5.9,*
+735,The Guernsey Literary and Potato Peel Pie Society,2018,TV-14,124,"Drama, Romance, War            ",7.3,65
+736,Crazy Ex-Girlfriend,2015–2019,TV-14,42,"Comedy, Musical            ",7.8,*
+737,Coroner,2019– ,TV-MA,60,"Crime, Drama, Mystery            ",6.8,*
+738,The Girl in the Spider's Web,2018,R,115,"Action, Crime, Drama            ",6.1,43
+739,Partner Track,2022,TV-MA,60,Drama            ,6.7,*
+740,The Tourist,I 2010,PG-13,103,"Action, Thriller            ",6.0,37
+741,Keep Breathing,2022,TV-MA,209,"Adventure, Drama, Thriller            ",5.3,*
+742,Monster Hunter,I 2020,PG-13,103,"Action, Adventure, Fantasy            ",5.2,47
+743,Flower of Evil,2020,TV-14,70,"Crime, Mystery, Romance            ",8.6,*
+744,Easy,2016–2019,TV-MA,30,Comedy            ,6.9,*
+745,Ender's Game,2013,PG-13,114,"Action, Adventure, Sci-Fi            ",6.6,51
+746,Disenchantment,2018– ,TV-MA,30,"Animation, Action, Adventure            ",7.2,*
+747,The Fall of the House of Usher,2023– ,*,*,"Drama, Horror            ",*,*
+748,Rebecca,I 2020,PG-13,123,"Drama, Mystery, Romance            ",6.0,46
+749,"Roswell, New Mexico",2019–2022,TV-14,45,"Drama, Romance, Sci-Fi            ",6.3,*
+750,Vis a vis,2015–2019,TV-MA,53,"Action, Adventure, Drama            ",8.2,*
+751,The Three-Body Problem,2023– ,*,60,"Adventure, Drama, Fantasy            ",*,*
+752,Contagion,2011,PG-13,106,"Drama, Thriller            ",6.8,70
+753,Hell Dogs,2022,*,138,"Action, Crime, Drama            ",6.7,*
+754,The Wolf of Snow Hollow,2020,R,85,"Comedy, Horror, Mystery            ",6.2,67
+755,The Suite Life of Zack & Cody,2005–2008,TV-G,30,"Comedy, Family            ",6.6,*
+756,I Care a Lot,2020,R,118,"Comedy, Crime, Drama            ",6.3,66
+757,All the Bright Places,2020,TV-MA,107,"Drama, Romance            ",6.5,61
+758,Roman Empire,2016–2019,TV-MA,48,"Documentary, Biography, Drama            ",7.0,*
+759,The Mauritanian,2021,R,129,"Biography, Drama, Thriller            ",7.4,53
+760,The Office Blind Date,2022– ,TV-14,60,"Comedy, Drama, Romance            ",8.1,*
+761,The Politician,2019–2020,TV-14,42,"Comedy, Drama            ",7.5,*
+762,Still Game,2002–2019,TV-14,30,Comedy            ,8.9,*
+763,Little Women,2022– ,TV-MA,75,"Action, Drama, Mystery            ",7.9,*
+764,Total Recall,I 2012,PG-13,118,"Action, Adventure, Sci-Fi            ",6.2,43
+765,The Society,2019,TV-MA,58,"Drama, Mystery, Sci-Fi            ",7.1,*
+766,ZeroZeroZero,2019–2020,TV-MA,60,"Crime, Drama, Thriller            ",8.1,*
+767,The Shannara Chronicles,2016–2017,TV-14,42,"Adventure, Drama, Fantasy            ",7.1,*
+768,Havoc,2023,*,*,"Action, Thriller            ",*,*
+769,Utopia,I 2013–2014,TV-MA,50,"Drama, Mystery, Sci-Fi            ",8.4,*
+770,I Used to Be Famous,2022,TV-14,104,"Comedy, Drama, Music            ",6.6,*
+771,In the Heart of the Sea,2015,PG-13,122,"Action, Adventure, Biography            ",6.9,47
+772,Uncoupled,2022– ,TV-MA,30,"Comedy, Drama, Romance            ",7.0,*
+773,Roma,2018,R,135,Drama            ,7.7,96
+774,The Ridiculous 6,2015,TV-14,119,"Action, Adventure, Comedy            ",4.8,18
+775,The Laundromat,I 2019,R,96,"Comedy, Crime, Drama            ",6.3,57
+776,A Cinderella Story,2004,PG,95,"Comedy, Family, Romance            ",5.9,25
+777,The Ten Commandments,1956,G,220,"Adventure, Drama, Family            ",7.9,*
+778,Dirk Gently's Holistic Detective Agency,2016–2017,TV-14,60,"Action, Adventure, Comedy            ",8.2,*
+779,Skyggen i mit øje,2021,TV-MA,107,"Drama, History, War            ",7.3,*
+780,Alice Through the Looking Glass,2016,PG,113,"Adventure, Family, Fantasy            ",6.2,34
+781,What/If,2019,TV-14,55,"Drama, Thriller            ",6.3,*
+782,No One Gets Out Alive,2021,R,87,"Drama, Horror, Mystery            ",5.3,43
+783,Felon,2008,R,104,"Crime, Thriller            ",7.4,58
+784,Aftermath,IV 2021,TV-MA,114,"Drama, Horror, Mystery            ",5.3,*
+785,Messiah,2020,TV-MA,43,"Drama, Mystery, Thriller            ",7.6,*
+786,The Innocent,2021,TV-MA,467,"Crime, Drama, Mystery            ",7.8,*
+787,A Walk to Remember,2002,PG,101,"Drama, Romance            ",7.3,35
+788,"Pepsi, Where's My Jet?",2022,TV-MA,157,"Documentary, History            ",7.0,*
+789,The Promise,II 2016,PG-13,133,"Action, Adventure, Drama            ",6.0,49
+790,The Thundermans,2013–2018,TV-G,23,"Action, Comedy, Drama            ",5.7,*
+791,Clark,2022,TV-MA,362,"Action, Comedy, Crime            ",7.4,*
+792,Vikingane,2016–2020,TV-MA,30,"Comedy, History            ",7.7,*
+793,Torchwood,2006–2011,TV-MA,50,"Action, Drama, Mystery            ",7.7,*
+794,Luke Cage,2016–2018,TV-MA,55,"Action, Crime, Drama            ",7.3,*
+795,3%,2016–2020,TV-MA,49,"Action, Drama, Sci-Fi            ",7.3,*
+796,Conan the Barbarian,2011,R,113,"Action, Adventure, Fantasy            ",5.1,36
+797,Narvik: Hitler's First Defeat,2022,*,108,"Drama, History, War            ",7.1,*
+798,I Am a Killer,2018–2022,TV-MA,52,"Documentary, Crime            ",7.4,*
+799,Brooklyn,2015,PG-13,117,"Drama, Romance            ",7.5,88
+800,Brazen,2022,TV-14,94,"Crime, Drama, Mystery            ",4.1,*
+801,The Fabulous,2022– ,TV-14,60,"Comedy, Drama, Romance            ",6.5,*
+802,Locke,2013,R,85,Drama            ,7.1,81
+803,Finding Dory,2016,PG,97,"Animation, Adventure, Comedy            ",7.3,77
+804,Bordertown,2016–2020,TV-MA,60,"Crime, Drama, Mystery            ",7.6,*
+805,The Last Letter from Your Lover,2021,TV-MA,110,"Drama, Romance            ",6.7,57
+806,The Midnight Sky,2020,PG-13,118,"Adventure, Drama, Sci-Fi            ",5.6,58
+807,Safe,2018,TV-MA,356,"Crime, Drama, Mystery            ",7.2,*
+808,Steins;Gate,2011–2015,TV-14,24,"Animation, Comedy, Drama            ",8.8,*
+809,Okja,2017,TV-MA,120,"Action, Adventure, Drama            ",7.3,75
+810,El Chapo,2017–2018,TV-MA,43,"Biography, Crime, Drama            ",7.8,*
+811,Haikyu!!,2014–2020,TV-14,24,"Animation, Comedy, Drama            ",8.7,*
+812,End of the Road,II 2022,R,89,"Action, Crime, Drama            ",4.8,44
+813,Baahubali: The Beginning,2015,Not Rated,159,"Action, Drama            ",8.0,*
+814,A Perfect Pairing,2022,TV-14,101,"Comedy, Romance            ",6.1,55
+815,Blood Red Sky,2021,TV-MA,121,"Action, Adventure, Drama            ",6.1,43
+816,The I-Land,2019,TV-MA,281,"Adventure, Drama, Mystery            ",4.6,*
+817,The Secret Life of Pets,2016,PG,87,"Animation, Adventure, Comedy            ",6.5,61
+818,Between,2015–2016,TV-14,60,"Drama, Mystery, Sci-Fi            ",5.9,*
+819,Code Geass,2006–2008,TV-14,24,"Animation, Action, Drama            ",8.7,*
+820,Homefront,I 2013,R,100,"Action, Crime, Thriller            ",6.5,40
+821,Nanatsu no taizai,2014–2021,TV-14,24,"Animation, Action, Adventure            ",7.9,*
+822,Cursed,2020,TV-MA,60,"Adventure, Drama, Fantasy            ",5.9,*
+823,Queen Charlotte: A Bridgerton Story,,*,*,"Biography, Drama, History            ",*,*
+824,The Adventures of Puss in Boots,2015–2018,TV-Y7,23,"Animation, Action, Adventure            ",6.6,*
+825,Step Up,2006,PG-13,104,"Crime, Drama, Music            ",6.5,48
+826,Black Spot,2017–2019,TV-MA,52,"Crime, Drama, Horror            ",7.4,*
+827,This Is England,2006,Not Rated,101,"Crime, Drama            ",7.7,86
+828,News of the World,2020,PG-13,118,"Action, Adventure, Drama            ",6.8,73
+829,Fear Street: Part One - 1994,2021,R,107,"Drama, Horror, Mystery            ",6.2,67
+830,Rampage,2018,PG-13,107,"Action, Adventure, Sci-Fi            ",6.1,45
+831,Crashing,2016,TV-MA,30,Comedy            ,7.7,*
+832,Shattered,II 2022,R,92,Thriller            ,5.0,27
+833,Hollywood,2020,TV-MA,347,"Drama, History            ",7.5,*
+834,Scream: The TV Series,2015–2019,TV-14,45,"Comedy, Crime, Drama            ",7.1,*
+835,Copshop,2021,R,107,"Action, Thriller            ",6.2,61
+836,Dirty Grandpa,2016,R,102,Comedy            ,5.9,21
+837,The Perfection,2018,TV-MA,90,"Drama, Horror, Music            ",6.2,60
+838,Bill & Ted Face the Music,2020,PG-13,91,"Adventure, Comedy, Music            ",5.9,65
+839,Staged,2020–2022,Not Rated,22,"Comedy, Drama            ",8.5,*
+840,Blackout,VI 2022,TV-MA,81,"Action, Crime, Thriller            ",3.8,*
+841,Spartacus: Gods of the Arena,2011,TV-MA,331,"Action, Adventure, Biography            ",8.5,*
+842,The Pentaverate,2022,TV-MA,160,Comedy            ,6.1,*
+843,Miss Fisher's Murder Mysteries,2012–2015,TV-PG,60,"Crime, Drama, History            ",8.3,*
+844,Cam,2018,TV-MA,94,"Drama, Horror, Mystery            ",5.9,71
+845,The Call,2020,TV-MA,112,"Crime, Horror, Mystery            ",7.1,*
+846,I Don't Feel at Home in This World Anymore,2017,TV-MA,93,"Comedy, Crime, Drama            ",6.9,75
+847,Hellbound,2021– ,TV-MA,150,"Crime, Drama, Fantasy            ",6.6,*
+848,Frontier,2016–2018,TV-MA,60,"Adventure, Drama, History            ",7.1,*
+849,The Protector,2018–2020,TV-MA,40,"Action, Adventure, Drama            ",6.5,*
+850,Gypsy,2017,TV-MA,51,"Drama, Thriller            ",6.8,*
+851,Forgotten,2017,TV-MA,108,"Mystery, Thriller            ",7.4,*
+852,The Kominsky Method,2018–2021,TV-MA,30,"Comedy, Drama            ",8.2,*
+853,The Expendables 2,2012,R,103,"Action, Adventure, Thriller            ",6.6,51
+854,Lockwood & Co,2023– ,*,60,"Action, Adventure, Drama            ",*,*
+855,The Founder,2016,PG-13,115,"Biography, Drama            ",7.2,66
+856,River,2015,TV-MA,60,"Crime, Drama, Mystery            ",8.0,*
+857,Descendants of the Sun,2016,TV-14,60,"Action, Comedy, Drama            ",8.3,*
+858,Awake,III 2021,TV-MA,96,"Action, Adventure, Drama            ",4.9,35
+859,Kingdom,2014–2017,TV-MA,43,"Drama, Sport            ",8.5,*
+860,127 Hours,2010,R,94,"Biography, Drama            ",7.6,82
+861,The Christmas Chronicles: Part Two,2020,PG,112,"Adventure, Comedy, Family            ",6.0,51
+862,#Alive,2020,TV-MA,98,"Action, Drama, Horror            ",6.3,*
+863,To the Bone,I 2017,TV-MA,107,Drama            ,6.8,64
+864,Into the Night,II 2020– ,TV-MA,35,"Drama, Sci-Fi, Thriller            ",7.1,*
+865,Escape Plan,2013,R,115,"Action, Thriller            ",6.7,49
+866,One Day at a Time,2017–2020,TV-PG,30,"Comedy, Drama            ",8.2,*
+867,Army of the Dead: Lost Vegas,2023– ,TV-MA,*,"Animation, Action, Crime            ",*,*
+868,Insidious: Chapter 2,2013,PG-13,106,"Horror, Mystery, Thriller            ",6.5,40
+869,I Believe in Santa,2022,PG,89,"Comedy, Romance            ",4.4,*
+870,Begin Again,II 2013,R,104,"Comedy, Drama, Music            ",7.4,62
+871,Project Power,2020,R,113,"Action, Crime, Sci-Fi            ",6.0,51
+872,Choose or Die,2022,MA-17,84,"Drama, Horror, Thriller            ",4.8,43
+873,Bad Teacher,2011,R,92,"Comedy, Romance            ",5.6,47
+874,Pelé,2021,TV-14,108,"Documentary, Biography, Sport            ",7.0,61
+875,Sky Rojo,2021–2023,TV-MA,31,"Action, Adventure, Crime            ",6.5,*
+876,Happy!,2017–2019,TV-MA,60,"Action, Comedy, Crime            ",8.1,*
+877,Steven Universe,2013–2020,TV-PG,11,"Animation, Action, Adventure            ",8.2,*
+878,Deepwater Horizon,2016,PG-13,107,"Action, Drama, History            ",7.1,68
+879,The DUFF,2015,PG-13,101,"Comedy, Romance            ",6.4,56
+880,How It Ends,2018,TV-MA,113,"Action, Drama, Horror            ",5.0,36
+881,Les papillons noirs,2022– ,TV-MA,50,"Crime, Drama, Mystery            ",7.5,*
+882,Jung_E,2023,*,98,"Action, Adventure, Drama            ",*,*
+883,"Blood, Sex & Royalty",2022– ,TV-MA,44,"Documentary, Biography, Drama            ",5.9,*
+884,Thunder Force,2021,PG-13,106,"Action, Adventure, Comedy            ",4.5,34
+885,Deliver Us from Evil,I 2014,R,118,"Action, Adventure, Crime            ",6.2,40
+886,Old People,2022,*,101,Horror            ,5.1,*
+887,Romeo & Juliet,II 2013,PG-13,118,"Drama, Romance            ",5.8,41
+888,Deadly Illusions,2021,R,114,"Drama, Thriller            ",3.7,*
+889,The Spy,2019,TV-MA,53,"Drama, History            ",7.9,*
+890,The Trip,2021,TV-MA,113,"Action, Comedy, Horror            ",6.9,*
+891,Secrets of Summer,2022– ,TV-Y,35,"Drama, Family            ",6.0,*
+892,Night Teeth,2021,TV-14,107,"Action, Crime, Drama            ",5.7,42
+893,The Cloverfield Paradox,2018,PG-13,102,"Action, Horror, Sci-Fi            ",5.5,37
+894,Blue Jasmine,2013,PG-13,98,"Comedy, Drama            ",7.3,78
+895,The A-Team,2010,PG-13,117,"Action, Adventure, Thriller            ",6.7,47
+896,Last Chance U: Basketball,2021– ,TV-MA,60,"Documentary, Sport            ",8.3,*
+897,Unsolved Mysteries,2020– ,TV-MA,45,"Documentary, Crime, Mystery            ",7.3,*
+898,Power Rangers Dino Fury,2021–2023,TV-Y7,21,"Action, Adventure, Comedy            ",6.8,*
+899,Formula 1: Drive to Survive,2019– ,TV-MA,40,"Documentary, Sport            ",8.6,*
+900,Pixels,2015,PG-13,105,"Action, Comedy, Fantasy            ",5.6,27
+901,Single All the Way,2021,TV-PG,99,"Comedy, Drama, Romance            ",6.1,49
+902,The Mist,2017,TV-14,42,"Drama, Horror, Mystery            ",5.4,*
+903,The Defenders,2017,TV-MA,50,"Action, Adventure, Crime            ",7.2,*
+904,Love Island,2019– ,TV-MA,42,"Game-Show, Reality-TV            ",5.0,*
+905,Stowaway,I 2021,TV-MA,116,"Adventure, Sci-Fi, Thriller            ",5.6,63
+906,The Next Three Days,2010,PG-13,133,"Action, Crime, Drama            ",7.3,52
+907,The Silence,II 2019,PG-13,90,"Drama, Horror, Sci-Fi            ",5.3,25
+908,Stuck with You,2022,TV-MA,59,"Comedy, Romance            ",5.5,*
+909,H2O: Just Add Water,2006–2010,TV-PG,23,"Drama, Family, Fantasy            ",7.2,*
+910,He's All That,2021,TV-14,88,"Comedy, Romance            ",4.4,36
+911,True Story,III 2021,TV-MA,260,"Crime, Drama, Thriller            ",7.4,*
+912,The Mole,2022– ,TV-MA,45,"Adventure, Game-Show, Mystery            ",7.7,*
+913,Despicable Me 2,2013,PG,98,"Animation, Adventure, Comedy            ",7.3,62
+914,Dumplin',2018,PG-13,110,"Comedy, Drama            ",6.5,53
+915,Cosmos: A Spacetime Odyssey,2014,TV-PG,557,Documentary            ,9.3,*
+916,Kiki's Delivery Service,1989,G,103,"Animation, Family, Fantasy            ",7.8,83
+917,Salvation,2017–2018,TV-14,43,"Drama, Sci-Fi, Thriller            ",6.9,*
+918,Mo,2022– ,TV-MA,30,"Comedy, Drama            ",7.6,*
+919,I Am Not Okay with This,2020,TV-MA,30,"Comedy, Drama, Fantasy            ",7.5,*
+920,Colombiana,2011,PG-13,108,"Action, Drama, Thriller            ",6.4,45
+921,Giri/Haji,2019,TV-MA,461,"Crime, Drama, Mystery            ",7.8,*
+922,Sword Art Online,2012– ,TV-14,24,"Animation, Action, Adventure            ",7.5,*
+923,Smokin' Aces,2006,R,108,"Action, Comedy, Crime            ",6.6,45
+924,Extraction 2,2023,*,*,"Action, Thriller            ",*,*
+925,Hellhole,2022,TV-MA,91,Horror            ,5.7,*
+926,Easy Rider,1969,R,95,"Adventure, Drama            ",7.3,85
+927,CHIPS,2017,R,100,"Action, Comedy, Crime            ",6.0,28
+928,Jaws 2,1978,PG,116,"Adventure, Horror, Thriller            ",5.8,51
+929,In from the Cold,2022– ,TV-MA,42,"Action, Crime, Drama            ",6.2,*
+930,Oz the Great and Powerful,2013,PG,130,"Adventure, Family, Fantasy            ",6.3,44
+931,Man vs. Bee,2022,TV-PG,*,"Short, Comedy, Family            ",6.7,*
+932,One Piece,,TV-14,*,"Action, Adventure, Comedy            ",*,*
+933,Home for Christmas,2019–2020,TV-MA,29,"Comedy, Drama, Romance            ",7.7,*
+934,Unorthodox,2020,TV-MA,53,Drama            ,8.0,*
+935,F Is for Family,2015–2021,TV-MA,30,"Animation, Comedy, Drama            ",8.0,*
+936,The Defeated,2020,TV-MA,45,"Drama, History, Thriller            ",7.0,*
+937,Tommy Boy,1995,PG-13,97,"Adventure, Comedy            ",7.1,46
+938,Death Note,I 2017,TV-MA,101,"Crime, Drama, Fantasy            ",4.6,43
+939,Mushoku Tensei: Jobless Reincarnation,2021– ,TV-14,24,"Animation, Action, Adventure            ",8.4,*
+940,Mirage,2018,TV-MA,128,"Drama, Fantasy, Mystery            ",7.4,*
+941,Erased,2016,TV-14,264,"Animation, Drama, Fantasy            ",8.5,*
+942,Below Deck Mediterranean,2016– ,TV-14,43,Reality-TV            ,7.5,*
+943,We Can Be Heroes,II 2020,PG,100,"Action, Comedy, Drama            ",4.7,51
+944,White Lines,2020,TV-MA,60,"Crime, Drama, Mystery            ",6.6,*
+945,Slasher,2016– ,Not Rated,60,"Crime, Drama, Horror            ",6.7,*
+946,El Camino Christmas,2017,TV-MA,89,"Comedy, Crime, Western            ",5.7,*
+947,Merlí,2015–2018,TV-MA,58,"Comedy, Drama, Romance            ",8.6,*
+948,Lost Girls,2020,R,95,"Crime, Drama, Mystery            ",6.1,67
+949,Ponyo,2008,G,101,"Animation, Adventure, Comedy            ",7.6,86
+950,Snabba Cash,2021– ,TV-MA,52,"Action, Crime, Drama            ",7.6,*
+951,Serenity,I 2019,R,106,"Drama, Mystery, Thriller            ",5.4,37
+952,Colony,2016–2018,TV-14,42,"Action, Adventure, Drama            ",7.4,*
+953,Kaguya-sama: Love is War,2019– ,TV-14,24,"Animation, Comedy, Romance            ",8.6,*
+954,Twenty Five Twenty One,2022,TV-14,70,"Drama, Romance            ",8.6,*
+955,Hold the Dark,2018,TV-MA,125,"Action, Crime, Drama            ",5.6,63
+956,Spy Kids 3: Game Over,2003,PG,84,"Action, Adventure, Comedy            ",4.3,57
+957,First Kill,2022,TV-MA,60,"Drama, Horror, Mystery            ",6.5,*
+958,The Curse of Bridge Hollow,2022,TV-14,89,"Adventure, Comedy, Family            ",5.5,38
+959,Fighting Spirit,2000–2002,TV-PG,20,"Animation, Action, Comedy            ",8.8,*
+960,The Iceman,2012,R,106,"Biography, Crime, Drama            ",6.8,60
+961,Criminal: UK,2019–2020,TV-MA,43,"Crime, Drama, Mystery            ",7.6,*
+962,Mumbai Mafia: Police vs the Underworld,2023,TV-MA,87,"Documentary, Crime            ",6.5,*
+963,Undercover,2019– ,TV-MA,50,"Crime, Drama, Thriller            ",7.8,*
+964,Parasyte: The Maxim,2014–2015,TV-MA,22,"Animation, Action, Drama            ",8.3,*
+965,Hillbilly Elegy,2020,R,116,Drama            ,6.7,38
+966,An Easy Girl,2019,TV-MA,92,"Comedy, Drama            ",5.6,79
+967,Cuckoo,II 2012– ,TV-14,30,Comedy            ,7.2,*
+968,Pose,2018–2021,TV-MA,60,Drama            ,8.6,*
+969,Extinction,2018,TV-MA,95,"Action, Drama, Sci-Fi            ",5.8,40
+970,Death Wish,2018,R,107,"Action, Crime, Drama            ",6.3,31
+971,Jupiter's Legacy,2021,TV-MA,56,"Action, Adventure, Drama            ",6.7,*
+972,The Ugly Truth,2009,R,96,"Comedy, Romance            ",6.4,28
+973,Skyscraper,2018,PG-13,102,"Action, Adventure, Thriller            ",5.8,51
+974,Dangerous,III 2021,R,99,"Action, Thriller            ",5.1,27
+975,Another Life,2019–2021,TV-MA,43,"Adventure, Drama, Mystery            ",5.2,*
+976,Peppa Pig,2004– ,TV-Y,9,"Animation, Adventure, Comedy            ",6.3,*
+977,Murder Mystery 2,2023,PG-13,*,"Action, Comedy, Crime            ",*,*
+978,You're Next,2011,R,95,"Horror, Thriller            ",6.6,66
+979,Family Reunion,2019–2022,TV-PG,28,"Comedy, Family            ",6.5,*
+980,Keeping Up with the Kardashians,2007–2021,TV-14,44,"Drama, Family, Reality-TV            ",2.8,*
+981,There's Someone Inside Your House,2021,TV-MA,96,"Horror, Mystery, Thriller            ",4.8,45
+982,Parallel Mothers,2021,R,123,Drama            ,7.1,88
+983,Guardian: The Lonely and Great God,2016–2017,TV-14,120,"Comedy, Drama, Fantasy            ",8.6,*
+984,A Jazzman's Blues,2022,R,127,Drama            ,6.7,62
+985,Hypnotic,2021,TV-14,88,"Mystery, Thriller            ",5.3,32
+986,The Package,II 2018,TV-MA,94,"Comedy, Thriller            ",5.6,*
+987,Till Death,I 2021,R,88,Thriller            ,5.8,66
+988,Code 8,2019,Not Rated,98,"Action, Crime, Drama            ",6.1,48
+989,Human Resources,2022– ,TV-MA,30,"Animation, Comedy, Romance            ",7.2,*
+990,Apostle,2018,TV-MA,130,"Drama, Fantasy, Horror            ",6.3,62
+991,Mirror Mirror,I 2012,PG,106,"Adventure, Comedy, Drama            ",5.6,46
+992,Gangubai Kathiawadi,2022,TV-MA,152,"Biography, Crime, Drama            ",7.8,*
+993,Knightfall,2017–2019,TV-14,60,"Action, Adventure, Drama            ",6.8,*
+994,The Promised Neverland,2019–2021,TV-14,23,"Animation, Action, Adventure            ",8.3,*
+995,Sr.,2022,R,89,"Documentary, Biography            ",7.3,78
+996,Mowgli: Legend of the Jungle,2018,PG-13,104,"Adventure, Drama, Fantasy            ",6.5,51
+997,Fear Street: Part Two - 1978,2021,R,109,"Drama, Horror, Mystery            ",6.7,61
+998,Operation Finale,2018,PG-13,122,"Biography, Drama, History            ",6.6,58
+999,Republic of Doyle,2010–2014,TV-14,60,"Comedy, Crime, Drama            ",7.6,*
+1000,My Father's Dragon,2022,PG,99,"Animation, Adventure, Comedy            ",6.6,74
+1001,Love Is Blind,2020– ,TV-MA,48,"Game-Show, Reality-TV, Romance            ",6.1,*
+1002,Alias Grace,2017,TV-MA,267,"Biography, Crime, Drama            ",7.7,*
+1003,Resident Evil: The Final Chapter,2016,R,107,"Action, Horror, Sci-Fi            ",5.5,49
+1004,Hotel Mumbai,2018,R,123,"Action, Drama, History            ",7.6,62
+1005,Brand New Cherry Flavor,2021,TV-MA,342,"Drama, Horror, Mystery            ",7.1,*
+1006,The Queen's Umbrella,2022,*,60,"Comedy, Drama            ",8.5,*
+1007,Master of None,2015–2021,TV-MA,30,"Comedy, Drama            ",8.2,*
+1008,A Castle for Christmas,2021,TV-G,98,"Adventure, Comedy, Drama            ",5.5,53
+1009,Once Upon a Time in Mexico,2003,R,102,"Action, Crime, Thriller            ",6.3,56
+1010,The Wind Rises,2013,PG-13,126,"Animation, Biography, Drama            ",7.7,83
+1011,Berserk,2016–2017,TV-MA,24,"Animation, Action, Adventure            ",6.8,*
+1012,Sort Of,2021– ,TV-MA,30,"Comedy, Drama            ",7.1,*
+1013,Salem,2014–2017,TV-MA,60,"Drama, Fantasy, Horror            ",7.1,*
+1014,101 Dalmatians,1996,G,103,"Adventure, Comedy, Crime            ",5.7,49
+1015,Dog Gone,2023,*,95,"Biography, Drama, Family            ",*,*
+1016,Mudbound,2017,R,134,"Drama, War            ",7.4,85
+1017,The Ghost Writer,2010,PG-13,128,"Crime, Drama, Mystery            ",7.2,77
+1018,The Real Housewives of Beverly Hills,2010– ,TV-14,44,Reality-TV            ,5.4,*
+1019,Father Christmas Is Back,2021,PG-13,105,Comedy            ,4.5,*
+1020,Eli,I 2019,R,98,"Drama, Horror, Mystery            ",5.8,*
+1021,Outside the Wire,2021,R,114,"Action, Adventure, Fantasy            ",5.4,45
+1022,Fishbowl Wives,2022– ,TV-MA,44,"Drama, Romance            ",6.2,*
+1023,Kota Factory,2019–2021,TV-14,45,"Comedy, Drama            ",9.1,*
+1024,Hubie Halloween,2020,PG-13,103,"Comedy, Mystery            ",5.2,53
+1025,Shaft,2019,R,111,"Action, Comedy, Crime            ",6.4,40
+1026,Somebody,2022– ,TV-MA,48,"Crime, Drama, Thriller            ",5.8,*
+1027,The Adventures of Sharkboy and Lavagirl 3-D,2005,PG,93,"Action, Adventure, Comedy            ",3.7,38
+1028,The Lorax,2012,PG,86,"Animation, Adventure, Comedy            ",6.4,46
+1029,High Water,2022– ,TV-MA,45,Drama            ,7.2,*
+1030,Velvet Buzzsaw,2019,R,113,"Horror, Mystery, Thriller            ",5.7,61
+1031,To the Lake,I 2019– ,TV-MA,48,"Drama, Sci-Fi, Thriller            ",7.2,*
+1032,This Means War,2012,PG-13,103,"Action, Comedy, Romance            ",6.3,31
+1033,Impractical Jokers,2011– ,TV-14,30,"Comedy, Reality-TV            ",8.6,*
+1034,The Wonderful Story of Henry Sugar,2023,*,*,"Adventure, Comedy, Drama            ",*,*
+1035,Fairy Tail,2009–2019,TV-14,24,"Animation, Action, Adventure            ",7.9,*
+1036,Sacred Games,2018–2019,TV-MA,50,"Action, Crime, Drama            ",8.5,*
+1037,Las Villamizar,2022– ,TV-MA,45,Drama            ,8.3,*
+1038,The Professor and the Madman,2019,Not Rated,124,"Biography, Drama, History            ",7.2,27
+1039,Teen Titans Go!,2013– ,TV-PG,10,"Animation, Short, Action            ",5.4,*
+1040,Heist,III 2015,R,93,"Action, Crime, Drama            ",6.1,37
+1041,Who Killed Sara?,2021–2022,TV-MA,40,"Crime, Drama, Mystery            ",6.4,*
+1042,Tall Girl,2019,TV-PG,101,"Comedy, Drama, Family            ",5.2,*
+1043,Fruits Basket,2019–2021,TV-14,24,"Animation, Comedy, Drama            ",8.6,*
+1044,Blade of the 47 Ronin,2022,R,107,"Action, Drama, Fantasy            ",4.7,*
+1045,Redemption,I 2013,R,100,"Action, Crime, Drama            ",6.2,43
+1046,Wedding Season,2022,TV-PG,98,"Comedy, Romance            ",6.3,57
+1047,The Gentlemen,2023– ,TV-MA,*,"Action, Comedy, Crime            ",*,*
+1048,Crossing Lines,2013–2015,TV-14,43,"Action, Crime, Drama            ",7.3,*
+1049,Child's Play,2019,R,90,"Drama, Horror, Sci-Fi            ",5.7,48
+1050,Glitter,2022– ,TV-MA,32,Drama            ,5.4,*
+1051,Flowers,2016–2018,TV-14,30,"Comedy, Drama            ",8.1,*
+1052,I Am Mother,2019,TV-14,113,"Drama, Mystery, Sci-Fi            ",6.7,64
+1053,Fatherhood,I 2021,PG-13,109,"Comedy, Drama            ",6.6,53
+1054,Malcolm & Marie,2021,R,106,"Drama, Romance            ",6.6,53
+1055,Lesson Plan,2022,TV-MA,101,"Action, Crime, Drama            ",4.9,*
+1056,The Dark Crystal: Age of Resistance,2019,TV-PG,60,"Animation, Adventure, Drama            ",8.4,*
+1057,The Italian Job,1969,G,99,"Action, Comedy, Crime            ",7.2,70
+1058,Girl From Nowhere,2018– ,TV-MA,45,"Crime, Drama, Fantasy            ",7.6,*
+1059,Mechanic: Resurrection,2016,R,98,"Action, Adventure, Crime            ",5.7,38
+1060,Wild Is the Wind,2022,TV-MA,123,"Crime, Drama            ",5.5,*
+1061,Father of the Bride Part 3 (ish),2020,Not Rated,26,"Short, Family            ",6.9,*
+1062,The In Between,2022,PG-13,115,"Drama, Romance, Sci-Fi            ",5.9,*
+1063,Taken 2,2012,PG-13,92,"Action, Crime, Thriller            ",6.2,45
+1064,Hit & Run,2021,TV-MA,*,"Action, Crime, Drama            ",7.0,*
+1065,"Re: Zero, Starting Life in Another World",2016– ,TV-14,24,"Animation, Adventure, Drama            ",8.1,*
+1066,Hometown Cha-Cha-Cha,2021– ,TV-14,70,"Comedy, Romance            ",8.4,*
+1067,Fawlty Towers,1975–1979,TV-PG,30,Comedy            ,8.8,*
+1068,Major,2022,*,150,"Action, Biography, Drama            ",8.2,*
+1069,Freeridge,2023– ,TV-14,30,"Comedy, Drama, Mystery            ",*,*
+1070,Verónica,I 2017,TV-MA,105,Horror            ,6.2,*
+1071,That Time I Got Reincarnated as a Slime,2018– ,TV-PG,25,"Animation, Action, Adventure            ",8.1,*
+1072,Stealing Raden Saleh,2022,TV-14,154,"Action, Crime, Drama            ",7.7,*
+1073,Berlin Syndrome,2017,R,116,"Drama, Horror, Mystery            ",6.2,70
+1074,A Futile and Stupid Gesture,2018,TV-MA,101,"Biography, Comedy            ",6.7,55
+1075,Spinning Out,2020,TV-MA,48,"Drama, Sport            ",7.6,*
+1076,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,R,89,"Comedy, Crime            ",6.5,53
+1077,Black Book,2006,R,145,"Drama, Thriller, War            ",7.7,71
+1078,His House,2020,TV-14,93,"Drama, Horror, Thriller            ",6.5,72
+1079,The Irregulars,2021,TV-14,*,"Crime, Drama, Fantasy            ",6.0,*
+1080,When We First Met,2018,TV-14,97,"Comedy, Fantasy, Romance            ",6.4,36
+1081,Sexify,2021– ,TV-MA,40,"Comedy, Drama            ",6.5,*
+1082,Circle,II 2015,Not Rated,87,"Drama, Horror, Mystery            ",6.0,*
+1083,The Gunman,2015,R,115,"Action, Adventure, Crime            ",5.8,39
+1084,Fresh Meat,2011–2016,TV-MA,50,"Comedy, Drama            ",7.8,*
+1085,Tyler Perry's A Madea Homecoming,2022,TV-MA,105,"Comedy, Drama, Romance            ",5.6,42
+1086,Valley of the Dolls,1967,PG-13,123,"Drama, Music, Romance            ",6.0,49
+1087,God's Favorite Idiot,2022– ,TV-MA,30,"Comedy, Fantasy            ",5.7,*
+1088,The Old Guard 2,,*,*,"Action, Adventure, Fantasy            ",*,*
+1089,20th Century Girl,2022,TV-PG,119,"Drama, Romance            ",7.3,*
+1090,The Marriage App,2022,TV-MA,101,"Comedy, Romance            ",5.4,*
+1091,The Titan,2018,TV-MA,97,"Drama, Mystery, Romance            ",4.8,33
+1092,Christmas on Mistletoe Farm,2022,*,102,"Comedy, Family            ",4.4,*
+1093,Teenage Bounty Hunters,2020,TV-MA,50,"Comedy, Crime, Drama            ",7.7,*
+1094,Revenge,II 2017,R,108,"Action, Drama, Horror            ",6.4,81
+1095,Carter,2022,TV-MA,132,"Action, Thriller            ",5.1,*
+1096,Aftershock: Everest and the Nepal Earthquake,2022,TV-MA,149,Documentary            ,7.3,*
+1097,From Dusk Till Dawn: The Series,2014–2016,TV-MA,45,"Action, Crime, Fantasy            ",6.8,*
+1098,Silver Skates,2020,TV-MA,130,"Adventure, Drama, Family            ",7.1,*
+1099,Hotel Transylvania 3: Summer Vacation,2018,PG,97,"Animation, Adventure, Comedy            ",6.3,54
+1100,Nausicaä of the Valley of the Wind,1984,PG,117,"Animation, Adventure, Sci-Fi            ",8.0,86
+1101,Always Be My Maybe,2019,PG-13,101,"Comedy, Romance            ",6.8,64
+1102,Limitless,2015–2016,TV-14,42,"Comedy, Crime, Drama            ",7.6,*
+1103,Big Bug,2022,TV-MA,111,"Comedy, Sci-Fi            ",5.5,46
+1104,Welcome to Eden,2022– ,TV-MA,40,"Action, Drama, Sci-Fi            ",5.5,*
+1105,On My Block,2018–2021,TV-14,30,"Comedy, Drama            ",7.9,*
+1106,Let It Snow,2019,PG-13,92,"Comedy, Romance            ",5.8,51
+1107,The Valhalla Murders,2019–2020,TV-MA,50,"Crime, Drama, Mystery            ",7.1,*
+1108,Bonusfamiljen,2017– ,*,44,"Comedy, Drama            ",7.6,*
+1109,The Client,1994,PG-13,119,"Crime, Drama, Mystery            ",6.7,65
+1110,The Human Centipede 2 (Full Sequence),2011,Not Rated,91,Horror            ,3.8,17
+1111,Delhi Crime,2019– ,TV-MA,50,"Crime, Drama            ",8.5,*
+1112,The Naked Director,2019– ,TV-MA,48,"Biography, Drama            ",7.7,*
+1113,Lost Bullet 2: Back for More,2022,TV-MA,98,"Action, Crime, Thriller            ",6.3,*
+1114,The Takedown,2022,TV-MA,119,"Action, Comedy, Crime            ",5.7,43
+1115,The Cave,2005,PG-13,97,"Adventure, Horror, Sci-Fi            ",5.1,30
+1116,The Silent Sea,2021– ,TV-MA,45,"Adventure, Drama, Mystery            ",6.9,*
+1117,The Makanai: Cooking for the Maiko House,2023– ,*,*,Drama            ,*,*
+1118,Doom,2005,R,105,"Action, Horror, Sci-Fi            ",5.2,34
+1119,Vivo,I 2021,PG,95,"Animation, Adventure, Comedy            ",6.7,66
+1120,The Lost Patient,2022 TV Movie,TV-MA,92,"Drama, Mystery, Thriller            ",5.3,*
+1121,The Infiltrator,2016,R,127,"Biography, Crime, Drama            ",7.0,66
+1122,"More Than a Married Couple, But Not Lovers.",2022– ,*,24,"Animation, Comedy, Drama            ",7.5,*
+1123,Dr. Stone,2019– ,TV-14,24,"Animation, Action, Adventure            ",8.1,*
+1124,My Little Pony: Friendship Is Magic,2010–2020,TV-Y,22,"Animation, Adventure, Comedy            ",7.7,*
+1125,Malevolent,III 2018,TV-MA,89,"Horror, Mystery, Thriller            ",4.8,*
+1126,Eagle Eye,2008,PG-13,118,"Action, Mystery, Thriller            ",6.6,43
+1127,Rescued by Ruby,2022,TV-G,90,"Biography, Drama, Family            ",7.2,*
+1128,The Last Kingdom: Seven Kings Must Die,,TV-MA,120,"Action, Drama, History            ",*,*
+1129,28 Days Haunted,2022– ,TV-14,30,"Horror, Reality-TV            ",3.4,*
+1130,Taken 3,2014,PG-13,108,"Action, Crime, Thriller            ",6.0,26
+1131,If Only,2022– ,TV-MA,35,Drama            ,6.1,*
+1132,Malcolm X,1992,PG-13,202,"Biography, Drama, History            ",7.7,73
+1133,Black Lightning,2017–2021,TV-14,43,"Action, Drama, Sci-Fi            ",6.1,*
+1134,Girl in the Picture,2022,TV-MA,101,"Documentary, Crime, Mystery            ",7.2,*
+1135,The Day the Earth Stood Still,2008,PG-13,104,"Adventure, Drama, Sci-Fi            ",5.5,40
+1136,Merlí. Sapere Aude,2019–2021,TV-MA,50,"Comedy, Drama            ",7.7,*
+1137,Dreamgirls,2006,PG-13,130,"Drama, Music, Musical            ",6.6,76
+1138,Mother/Android,2021,R,110,"Drama, Sci-Fi, Thriller            ",4.9,43
+1139,The Outsider,I 2018,TV-MA,120,"Action, Crime, Drama            ",6.2,30
+1140,Wish Dragon,2021,PG,98,"Animation, Adventure, Comedy            ",7.2,59
+1141,Castle in the Sky,1986,PG,125,"Animation, Adventure, Family            ",8.0,78
+1142,Daybreak,I 2019,TV-MA,60,"Action, Adventure, Comedy            ",6.7,*
+1143,Oxygen,2021,TV-14,100,"Drama, Fantasy, Sci-Fi            ",6.5,67
+1144,Cloudy with a Chance of Meatballs 2,2013,PG,95,"Animation, Adventure, Comedy            ",6.3,59
+1145,Along for the Ride,2022,TV-14,106,"Drama, Romance            ",6.1,55
+1146,Old Enough!,1990– ,*,*,Documentary            ,8.2,*
+1147,Suburbicon,2017,R,105,"Comedy, Crime, Drama            ",5.8,42
+1148,Tidelands,2018,TV-MA,60,"Crime, Drama, Fantasy            ",6.8,*
+1149,Sweet Girl,2021,R,110,"Action, Drama, Thriller            ",5.5,46
+1150,Worth,2020,PG-13,118,"Biography, Drama, History            ",6.8,67
+1151,The Prom,2020,PG-13,130,"Comedy, Drama, Musical            ",5.9,55
+1152,Raising Dion,2019–2022,TV-G,50,"Drama, Sci-Fi            ",7.1,*
+1153,Toscana,II 2022,TV-MA,90,"Drama, Romance            ",5.7,*
+1154,Unknown,I 2011,PG-13,113,"Action, Mystery, Thriller            ",6.8,56
+1155,"Game Over, Man!",2018,TV-MA,101,"Action, Comedy            ",5.4,32
+1156,Masters of the Universe,2024,*,*,"Animation, Action, Adventure            ",*,*
+1157,The Lørenskog Disappearance,2022,TV-MA,259,"Crime, Drama            ",6.0,*
+1158,Mercury Rising,1998,R,111,"Action, Crime, Drama            ",6.1,37
+1159,Continuum,I 2012–2015,TV-14,45,"Action, Sci-Fi, Thriller            ",7.6,*
+1160,The Perfect Date,I 2019,TV-14,89,"Comedy, Romance            ",5.8,*
+1161,Diary of a Gigolo,2022,TV-MA,50,"Crime, Drama, Mystery            ",6.4,*
+1162,Shahmaran,2023– ,*,*,"Adventure, Drama, Fantasy            ",*,*
+1163,The Do-Over,2016,TV-MA,108,"Action, Adventure, Comedy            ",5.7,22
+1164,The Night Comes for Us,2018,TV-MA,121,"Action, Thriller            ",6.9,69
+1165,My Octopus Teacher,2020,TV-G,85,Documentary            ,8.1,82
+1166,Anon,I 2018,TV-MA,100,"Crime, Mystery, Sci-Fi            ",6.1,54
+1167,Hotel Del Luna,2019,*,80,"Action, Comedy, Drama            ",8.2,*
+1168,Toy Boy,2019– ,TV-MA,*,"Action, Adventure, Crime            ",6.5,*
+1169,The Last Thing He Wanted,2020,R,115,"Crime, Drama, Thriller            ",4.3,35
+1170,Lookism,2022– ,TV-MA,25,"Animation, Action, Drama            ",7.6,*
+1171,The King's Affection,2021– ,TV-PG,*,"Drama, Romance            ",7.9,*
+1172,Horse Girl,I 2020,R,103,"Drama, Mystery, Thriller            ",6.0,61
+1173,Luther: The Fallen Sun,I,*,*,"Crime, Drama, Mystery            ",*,*
+1174,Stateless,2020,TV-MA,316,Drama            ,7.5,*
+1175,The Secret World of Arrietty,2010,G,94,"Animation, Adventure, Drama            ",7.6,80
+1176,Sharknado,2013 TV Movie,Not Rated,86,"Action, Adventure, Comedy            ",3.3,*
+1177,Being Human,2008–2013,TV-14,60,"Comedy, Drama, Fantasy            ",7.8,*
+1178,More the Merrier,2021,TV-MA,111,Comedy            ,5.4,*
+1179,Vatican Girl: The Disappearance of Emanuela Orlandi,2022,TV-14,233,"Documentary, Crime, History            ",7.1,*
+1180,Final Space,2018–2021,TV-14,30,"Animation, Action, Adventure            ",8.2,*
+1181,Bee and PuppyCat,2013– ,TV-PG,7,"Animation, Short, Action            ",8.2,*
+1182,Baahubali 2: The Conclusion,2017,Not Rated,167,"Action, Drama            ",8.2,*
+1183,The Red Sea Diving Resort,2019,TV-MA,129,"Drama, History, Thriller            ",6.6,*
+1184,Sniper: Ghost Shooter,2016 Video,R,99,"Action, Drama, Thriller            ",5.4,*
+1185,The Sleepover,2020,TV-PG,100,"Action, Adventure, Comedy            ",5.7,46
+1186,Holy Family,2022– ,TV-MA,40,Drama            ,6.5,*
+1187,The Vietnam War,2017,TV-MA,990,"Documentary, History, War            ",9.1,*
+1188,Lost Bullet,2020,TV-MA,92,"Action, Crime, Thriller            ",6.3,78
+1189,Cable Girls,2017–2020,TV-14,50,Drama            ,7.5,*
+1190,"See No Evil, Hear No Evil",1989,R,103,"Comedy, Crime            ",6.8,44
+1191,Mr. Sunshine,2018,TV-MA,80,"Action, Drama, Romance            ",8.7,*
+1192,Dash & Lily,2020,TV-14,*,"Comedy, Drama, Romance            ",7.5,*
+1193,Killers,2010,PG-13,100,"Action, Comedy, Romance            ",5.4,21
+1194,Into the Forest,2015,R,101,"Drama, Thriller            ",5.8,59
+1195,Secret City,2016–2019,TV-MA,49,"Mystery, Thriller            ",7.4,*
+1196,Takers,2010,PG-13,107,"Action, Crime, Drama            ",6.2,45
+1197,In the Tall Grass,2019,TV-MA,101,"Horror, Mystery, Sci-Fi            ",5.4,46
+1198,Young Guns II,1990,PG-13,104,"Action, Western            ",6.5,47
+1199,You Get Me,2017,TV-MA,89,"Crime, Drama, Romance            ",4.7,*
+1200,SAS: Red Notice,2021,R,124,"Action, Thriller            ",5.2,*
+1201,Mute,II 2018,TV-MA,126,"Mystery, Sci-Fi, Thriller            ",5.4,35
+1202,The Great Gatsby,1974,PG,144,"Drama, Romance            ",6.4,43
+1203,Itaewon Class,2020,TV-MA,70,"Drama, Romance            ",8.2,*
+1204,Angel Falls Christmas,2021 TV Movie,*,84,"Drama, Romance            ",5.0,*
+1205,Baby,2018–2020,TV-MA,50,Drama            ,6.8,*
+1206,Gabby's Dollhouse,2021– ,TV-Y,24,"Animation, Adventure, Comedy            ",7.2,*
+1207,Heartbreak High,1994–1999,TV-MA,50,"Drama, Romance            ",7.8,*
+1208,Suite Française,2014,*,107,"Drama, Romance, Thriller            ",7.0,63
+1209,Smurfs: The Lost Village,2017,PG,90,"Animation, Adventure, Comedy            ",6.0,40
+1210,Spectral,2016,PG-13,107,"Action, Adventure, Sci-Fi            ",6.3,*
+1211,Finding 'Ohana,2021,PG,123,"Action, Adventure, Comedy            ",6.1,69
+1212,MILF,2018,TV-MA,101,Comedy            ,4.8,*
+1213,Your Lie in April,2014–2015,TV-PG,23,"Animation, Comedy, Drama            ",8.6,*
+1214,Cook at All Costs,2022– ,TV-G,35,"Game-Show, Reality-TV            ",6.4,*
+1215,Going in Style,2017,PG-13,96,"Comedy, Crime            ",6.6,50
+1216,Moxie,I 2021,PG-13,111,"Comedy, Drama, Music            ",6.7,54
+1217,Heart of Stone,2023,*,*,"Action, Crime, Thriller            ",*,*
+1218,Violet Evergarden,2018,TV-14,24,"Animation, Drama, Fantasy            ",8.4,*
+1219,You Don't Know Me,2021,TV-MA,60,"Crime, Drama            ",6.8,*
+1220,The Tinder Swindler,2022,TV-MA,114,"Documentary, Crime            ",7.1,*
+1221,Are You Afraid of the Dark?,1990–2000,TV-PG,30,"Drama, Fantasy, Horror            ",8.2,*
+1222,Julie and the Phantoms,2020,TV-G,*,"Adventure, Comedy, Drama            ",8.4,*
+1223,Portlandia,2011–2018,TV-14,22,Comedy            ,7.8,*
+1224,The Wrath of God,2022,TV-MA,97,"Drama, Thriller            ",5.8,*
+1225,Stranger,2017– ,TV-14,60,"Crime, Drama, Mystery            ",8.5,*
+1226,How to Sell Drugs Online (Fast),2019– ,TV-MA,30,"Comedy, Crime, Drama            ",7.8,*
+1227,The Cuphead Show!,2022– ,TV-Y7,12,"Animation, Short, Action            ",7.4,*
+1228,Junji Ito Maniac: Japanese Tales of the Macabre,2023– ,TV-MA,24,"Animation, Drama, Horror            ",*,*
+1229,The Interest of Love,2022– ,*,*,"Drama, Romance            ",8.0,*
+1230,Spy Kids 2: Island of Lost Dreams,2002,PG,100,"Action, Adventure, Comedy            ",5.2,66
+1231,Between Two Ferns: The Movie,2019,TV-MA,82,Comedy            ,6.1,59
+1232,Young Wallander,2020– ,TV-MA,*,"Crime, Drama, Mystery            ",6.9,*
+1233,The Father Who Moves Mountains,2021,TV-MA,108,"Drama, Thriller            ",5.5,*
+1234,Calibre,2018,TV-MA,101,"Drama, Thriller            ",6.8,76
+1235,Kyle XY,2006–2009,TV-14,60,"Drama, Mystery, Romance            ",7.5,*
+1236,Blood & Water,2020– ,TV-MA,53,"Drama, Mystery            ",6.7,*
+1237,I Spit on Your Grave 2,2013,R,106,"Horror, Thriller            ",5.7,*
+1238,Bad and Crazy,2021–2022,*,70,"Action, Comedy, Crime            ",8.0,*
+1239,Hemlock Grove,2013–2015,TV-MA,46,"Drama, Fantasy, Horror            ",7.0,*
+1240,The Uncanny Counter,2020–2021,TV-14,65,"Action, Fantasy, Horror            ",8.1,*
+1241,Black Mirror: Bandersnatch,2018,TV-MA,90,"Drama, Fantasy, Mystery            ",7.1,*
+1242,Le chant du loup,2019,TV-14,115,"Action, Thriller            ",6.9,*
+1243,Tomorrow,2022– ,TV-14,60,"Action, Comedy, Drama            ",7.9,*
+1244,Snack vs. Chef,2022– ,TV-PG,40,"Game-Show, Reality-TV            ",5.4,*
+1245,I Hate Christmas,2022– ,TV-MA,31,"Comedy, Romance            ",6.3,*
+1246,Hannibal Rising,2007,R,121,"Adventure, Crime, Drama            ",6.1,35
+1247,Love and Leashes,2022,TV-14,117,"Comedy, Romance            ",6.3,*
+1248,War Machine,2017,TV-MA,122,"Comedy, Drama, War            ",6.0,56
+1249,The Baby-Sitters Club,2020–2021,TV-PG,*,"Adventure, Comedy, Drama            ",7.5,*
+1250,Descendant,2022,PG,109,"Documentary, History            ",7.1,87
+1251,The Witcher Bestiary,2021–2022,TV-MA,*,Documentary            ,6.7,*
+1252,Fire Force,2019– ,TV-14,23,"Animation, Action, Drama            ",7.6,*
+1253,Whisper of the Heart,1995,G,111,"Animation, Drama, Family            ",7.9,75
+1254,Ninjago,2019–2022,TV-Y7-FV,11,"Animation, Action, Adventure            ",8.0,*
+1255,Goblin Slayer,2018– ,TV-MA,30,"Animation, Action, Adventure            ",7.5,*
+1256,Miracle in Cell No. 7,2019,TV-14,132,Drama            ,8.2,*
+1257,The Professor,I 2018,R,90,"Comedy, Drama            ",6.7,37
+1258,Love Between Fairy and Devil,2022– ,TV-PG,40,"Comedy, Fantasy, Romance            ",8.6,*
+1259,Leyla and Mecnun,2011–2023,TV-PG,80,"Adventure, Comedy, Drama            ",9.1,*
+1260,Scary Movie V,2013,PG-13,86,"Comedy, Horror            ",3.5,11
+1261,Under Her Control,2022,TV-MA,109,Drama            ,4.7,*
+1262,Someone Great,2019,R,92,"Comedy, Romance            ",6.1,63
+1263,Everything Sucks!,2018,TV-14,30,"Comedy, Drama            ",7.5,*
+1264,Red Riding Hood,2011,PG-13,100,"Fantasy, Horror, Mystery            ",5.4,29
+1265,Beasts of No Nation,2015,TV-MA,137,"Drama, War            ",7.7,79
+1266,Devilman: Crybaby,2018,TV-MA,25,"Animation, Action, Drama            ",7.6,*
+1267,Richie Rich,2015,TV-G,22,Comedy            ,3.2,*
+1268,Bonding,2018–2021,TV-MA,17,"Comedy, Drama            ",7.2,*
+1269,Boyka: Undisputed,2016 Video,R,86,"Action, Drama, Sport            ",6.9,*
+1270,Dark Places,2015,R,113,"Crime, Drama, Mystery            ",6.2,39
+1271,American Vandal,2017–2018,TV-MA,34,"Comedy, Crime, Drama            ",8.1,*
+1272,She-Ra and the Princesses of Power,2018–2020,TV-Y7-FV,30,"Animation, Action, Adventure            ",8.0,*
+1273,The Great Train Robbery,2013,Not Rated,90,"Biography, Crime, Drama            ",7.3,*
+1274,The Midnight Gospel,2020,TV-MA,23,"Animation, Adventure, Comedy            ",8.2,*
+1275,Happiness,2021– ,TV-14,65,"Action, Fantasy, Horror            ",7.9,*
+1276,Time Trap,2017,Not Rated,87,"Action, Adventure, Mystery            ",6.2,46
+1277,Drink Masters,2022– ,TV-MA,40,"Game-Show, Reality-TV            ",6.7,*
+1278,Macbeth,I 2015,R,113,"Drama, History, War            ",6.6,71
+1279,Our Universe,2022– ,TV-PG,45,Documentary            ,7.6,*
+1280,Sergio,2020,R,118,"Biography, Drama, History            ",6.2,55
+1281,Terrified,2017,Not Rated,87,Horror            ,6.5,*
+1282,Caliphate,2020,TV-MA,46,"Crime, Drama, Thriller            ",8.2,*
+1283,Triple 9,2016,R,115,"Action, Crime, Thriller            ",6.3,52
+1284,Lovesick,2014–2018,TV-MA,24,Comedy            ,8.0,*
+1285,Jingle Jangle: A Christmas Journey,2020,PG,122,"Family, Fantasy, Musical            ",6.4,69
+1286,Before I Wake,2016,PG-13,97,"Drama, Fantasy, Horror            ",6.2,68
+1287,Crime Scene: The Texas Killing Fields,2022,TV-MA,149,"Documentary, Crime, History            ",6.6,*
+1288,The Spectacular Spider-Man,2008–2009,TV-Y7,23,"Animation, Action, Adventure            ",8.3,*
+1289,A Christmas Miracle for Daisy,2021 TV Movie,*,85,Romance            ,6.0,*
+1290,Avengement,I 2019,Not Rated,87,"Action, Crime            ",6.6,63
+1291,Tangerine,2015,R,88,"Comedy, Crime, Drama            ",7.1,86
+1292,The King: Eternal Monarch,2020,TV-14,70,"Fantasy, Mystery, Romance            ",8.1,*
+1293,Alvin and the Chipmunks: The Squeakquel,2009,PG,88,"Animation, Adventure, Comedy            ",4.5,41
+1294,The Bureau of Magical Things,2018– ,TV-G,25,"Drama, Family, Fantasy            ",6.8,*
+1295,Deadly Class,2018–2019,TV-MA,60,"Action, Adventure, Comedy            ",7.5,*
+1296,Grand Army,2020,TV-MA,*,Drama            ,7.5,*
+1297,Tremors II: Aftershocks,1996 Video,PG-13,100,"Action, Comedy, Horror            ",5.9,*
+1298,The Half of It,I 2020,PG-13,104,"Comedy, Drama, Romance            ",6.9,74
+1299,The Worst Witch,2017– ,TV-Y7,30,"Family, Fantasy            ",7.2,*
+1300,What's Wrong with Secretary Kim,2018,TV-G,60,"Comedy, Mystery, Romance            ",8.1,*
+1301,Dota: Dragon's Blood,2021– ,TV-MA,25,"Animation, Action, Adventure            ",7.8,*
+1302,Lab Rats,2012–2016,TV-Y7,22,"Action, Comedy, Drama            ",6.6,*
+1303,The Letter for the King,2020,TV-PG,*,"Action, Adventure, Family            ",6.0,*
+1304,The Painted Veil,2006,PG-13,125,"Drama, Romance            ",7.4,69
+1305,L.A.'s Finest,2019–2020,TV-MA,60,"Action, Comedy, Crime            ",6.2,*
+1306,The Week Of,2018,TV-14,116,Comedy            ,5.2,41
+1307,Tales of the City,2019,TV-MA,60,Drama            ,7.4,*
+1308,Cuties,2020,TV-MA,96,Drama            ,3.6,67
+1309,Living with Yourself,2019,TV-MA,26,"Comedy, Drama, Sci-Fi            ",7.2,*
+1310,The Cook of Castamar,2021,TV-MA,55,"Drama, Romance            ",7.4,*
+1311,That's Amor,2022,PG-13,96,"Comedy, Romance            ",5.3,*
+1312,The Accidental Narco,2022– ,TV-MA,50,"Action, Biography, Crime            ",7.3,*
+1313,Don't Listen,2020,TV-MA,97,"Adventure, Drama, Horror            ",6.1,*
+1314,Borgia,2011–2014,TV-MA,52,"Biography, Drama, History            ",7.8,*
+1315,Quicksand,2019,TV-MA,45,"Crime, Drama, Mystery            ",7.4,*
+1316,Lara Croft Tomb Raider: The Cradle of Life,2003,PG-13,117,"Action, Adventure, Fantasy            ",5.5,43
+1317,Step Up All In,2014,PG-13,112,"Drama, Music, Romance            ",5.9,45
+1318,Extracurricular,2020,TV-MA,50,"Crime, Drama            ",7.6,*
+1319,Live by Night,2016,R,129,"Action, Thriller            ",6.4,49
+1320,Our Beloved Summer,2021– ,TV-Y7,70,"Drama, Romance            ",8.2,*
+1321,Private Lesson,2022,TV-MA,89,"Comedy, Romance            ",4.4,*
+1322,86,2021–2022,TV-14,24,"Animation, Action, Drama            ",8.2,*
+1323,The Boy Who Harnessed the Wind,2019,TV-PG,113,"Biography, Drama, History            ",7.6,68
+1324,Da 5 Bloods,2020,R,154,"Adventure, Drama, War            ",6.5,82
+1325,Thelma,2017,Not Rated,116,"Drama, Fantasy, Horror            ",7.0,74
+1326,Eye See You,2002,R,96,"Crime, Thriller            ",5.3,*
+1327,Rust and Bone,2012,R,120,"Drama, Romance            ",7.4,73
+1328,The Mother,2023,*,*,"Action, Thriller            ",*,*
+1329,Trolley,2022– ,TV-MA,60,Drama            ,7.6,*
+1330,Kung Fu Panda: The Dragon Knight,2022– ,TV-Y7,24,"Animation, Action, Adventure            ",5.9,*
+1331,True Story,I 2015,R,99,"Biography, Crime, Drama            ",6.3,50
+1332,Neon Genesis Evangelion: The End of Evangelion,1997,TV-MA,87,"Animation, Action, Drama            ",8.0,*
+1333,Cargo,I 2017,TV-MA,105,"Drama, Horror, Sci-Fi            ",6.3,65
+1334,The Staircase,2004–2018,TV-MA,629,"Documentary, Crime, Drama            ",7.8,*
+1335,Philomena,2013,PG-13,98,"Biography, Comedy, Drama            ",7.6,77
+1336,Rebellion,2016–2019,TV-MA,258,"Drama, History, War            ",7.1,*
+1337,Making a Murderer,2015–2018,TV-14,60,"Documentary, Crime            ",8.6,*
+1338,Dolemite Is My Name,2019,R,118,"Biography, Comedy, Drama            ",7.2,76
+1339,Akame ga Kill!,2014,TV-MA,24,"Animation, Action, Adventure            ",7.8,*
+1340,StartUp,2016–2018,Not Rated,44,"Crime, Thriller            ",7.8,*
+1341,Darlings,I 2022,TV-14,133,"Comedy, Drama, Thriller            ",6.6,*
+1342,The SpongeBob Movie: Sponge on the Run,2020,PG,91,"Animation, Adventure, Comedy            ",5.9,65
+1343,Passing,I 2021,PG-13,98,Drama            ,6.7,85
+1344,Beckett,2021,TV-MA,110,"Action, Crime, Drama            ",5.7,52
+1345,Love & Anarchy,2020– ,TV-MA,30,"Comedy, Drama, Romance            ",7.4,*
+1346,Greenleaf,2016–2020,TV-14,60,Drama            ,7.5,*
+1347,Back to the Outback,2021,PG,95,"Animation, Adventure, Comedy            ",6.5,58
+1348,Somebody Feed Phil,2018– ,TV-14,60,Documentary            ,8.3,*
+1349,Chappelle's Show,2003–2006,TV-MA,22,"Comedy, Music            ",8.8,*
+1350,Prey,VI 2021,TV-MA,87,"Adventure, Drama, Thriller            ",4.3,*
+1351,Swallow,I 2019,R,94,"Drama, Thriller            ",6.5,65
+1352,Derek,2012–2014,TV-MA,23,"Comedy, Drama            ",8.1,*
+1353,Ride or Die,2021,TV-MA,142,"Drama, Romance, Thriller            ",5.6,64
+1354,Baki,2018–2020,TV-MA,45,"Animation, Action, Drama            ",6.7,*
+1355,Ezel,2009–2011,TV-14,90,"Crime, Drama, Thriller            ",8.7,*
+1356,The Guardians of Justice (Will Save You!),2022– ,TV-MA,30,"Animation, Action, Adventure            ",5.0,*
+1357,Mirrors,I 2008,R,110,"Horror, Mystery            ",6.1,35
+1358,Don't Trust the B---- in Apartment 23,2012–2013,TV-14,22,Comedy            ,7.3,*
+1359,The Marked Heart,2022– ,TV-MA,45,"Drama, Thriller            ",6.5,*
+1360,Arthdal Chronicles,2019,*,80,"Action, Drama, Fantasy            ",8.3,*
+1361,Don't F**k with Cats: Hunting an Internet Killer,2019,TV-MA,187,"Documentary, Crime, Mystery            ",8.0,*
+1362,Disappearance at Clifton Hill,2019,Unrated,100,"Drama, Mystery, Thriller            ",5.4,61
+1363,Killer Sally,2022,TV-MA,149,"Documentary, Crime            ",6.7,*
+1364,22 July,2018,R,143,"Crime, Drama, History            ",6.8,69
+1365,Public Enemy,2016– ,*,60,"Crime, Drama, Mystery            ",7.5,*
+1366,Monty Python's Flying Circus,1969–1974,TV-14,30,Comedy            ,8.8,*
+1367,Killjoys,2015– ,TV-MA,42,"Action, Adventure, Sci-Fi            ",7.2,*
+1368,Reply 1988,2015–2016,*,90,"Comedy, Drama, Family            ",9.2,*
+1369,Another Self,2022– ,TV-MA,50,"Drama, Romance            ",6.3,*
+1370,Mosul,I 2019,TV-MA,101,"Action, Drama, War            ",7.1,71
+1371,Private Life,2018,R,123,"Comedy, Drama            ",7.2,83
+1372,White Girl,2016,TV-MA,88,"Crime, Drama            ",5.7,65
+1373,Pain Hustlers,,*,*,"Crime, Drama            ",*,*
+1374,Step Up Revolution,2012,PG-13,99,"Drama, Music, Romance            ",6.4,43
+1375,Feel Good,2020–2021,TV-MA,30,"Comedy, Drama, Romance            ",7.5,*
+1376,High Seas,2019–2020,TV-MA,50,"Crime, Drama, Mystery            ",6.8,*
+1377,Blood of Zeus,2020– ,TV-MA,30,"Animation, Action, Adventure            ",7.5,*
+1378,The Last Laugh,I 2019,TV-MA,98,Comedy            ,5.6,31
+1379,Tiny Pretty Things,2020,TV-MA,60,"Drama, Mystery, Thriller            ",5.9,*
+1380,The Girl in the Mirror,2022– ,TV-MA,56,"Drama, Horror, Mystery            ",6.2,*
+1381,Ur spår,2022,*,108,Comedy            ,6.1,*
+1382,Freud,2020,TV-MA,55,"Crime, Thriller            ",6.5,*
+1383,Planes,2013,PG,91,"Animation, Adventure, Comedy            ",5.7,39
+1384,The Social Dilemma,2020,PG-13,94,"Documentary, Drama            ",7.6,78
+1385,Feel the Beat,2020,TV-G,109,"Comedy, Drama, Family            ",6.3,*
+1386,Flaked,2016–2017,TV-MA,30,"Comedy, Drama, Romance            ",7.2,*
+1387,Nevertheless,2021,*,70,"Drama, Romance            ",7.2,*
+1388,Ma Rainey's Black Bottom,2020,R,94,"Drama, Music            ",6.9,87
+1389,Unthinkable,2010,R,97,"Crime, Drama, Thriller            ",7.0,*
+1390,The English Game,2020,TV-14,281,"Drama, History, Sport            ",7.6,*
+1391,Mystery Science Theater 3000,1988–1999,TV-14,92,"Comedy, Sci-Fi            ",8.7,*
+1392,Odd Squad,2014–2022,TV-Y,27,"Action, Adventure, Comedy            ",7.2,*
+1393,The Fundamentals of Caring,2016,TV-MA,97,"Comedy, Drama            ",7.3,55
+1394,Vagabond,2019,TV-MA,60,"Action, Mystery, Thriller            ",8.1,*
+1395,Troy: Fall of a City,2018– ,TV-MA,60,"Action, Adventure, Fantasy            ",4.0,*
+1396,Thomas & Friends,1984–2021,TV-Y,11,"Animation, Short, Adventure            ",6.5,*
+1397,Psycho-Pass,2012– ,TV-MA,25,"Animation, Action, Crime            ",8.2,*
+1398,Degrassi: Next Class,2016–2017,TV-PG,30,"Drama, Romance            ",6.9,*
+1399,Start-Up,2020– ,TV-14,80,"Comedy, Drama, Romance            ",8.0,*
+1400,A Classic Horror Story,2021,TV-MA,95,"Drama, Horror, Mystery            ",5.7,*
+1401,The Cat Returns,2002,G,75,"Animation, Adventure, Comedy            ",7.1,70
+1402,Stonehearst Asylum,2014,PG-13,112,"Drama, Horror, Mystery            ",6.8,52
+1403,For Life,2020–2021,TV-14,43,"Biography, Crime, Drama            ",7.6,*
+1404,The One I Love,2014,R,91,"Comedy, Drama, Fantasy            ",7.0,66
+1405,Inside Job,2010,PG-13,109,"Documentary, Crime            ",8.2,88
+1406,Break Point,2023– ,*,*,"Documentary, Sport            ",*,*
+1407,Extremely Loud & Incredibly Close,2011,PG-13,129,"Adventure, Drama, Mystery            ",6.9,46
+1408,Fidelity,2022– ,TV-MA,40,"Drama, Romance            ",6.4,*
+1409,World on Fire,2019– ,TV-14,57,"Drama, War            ",7.3,*
+1410,MI-5,2015,R,104,"Action, Drama, Thriller            ",6.2,47
+1411,Goosebumps,1995–1998,TV-Y7,22,"Fantasy, Horror, Mystery            ",7.6,*
+1412,Duck Butter,2018,Not Rated,93,"Comedy, Drama, Romance            ",5.3,58
+1413,A Not So Merry Christmas,2022,TV-MA,100,"Comedy, Fantasy            ",4.8,*
+1414,The White Tiger,2021,R,125,"Crime, Drama            ",7.1,76
+1415,Touch of Evil,1958,PG-13,95,"Crime, Drama, Film-Noir            ",8.0,99
+1416,White Gold,2017–2019,TV-MA,30,Comedy            ,7.4,*
+1417,Tribes of Europa,2021,TV-MA,*,"Action, Adventure, Drama            ",6.7,*
+1418,Mako Mermaids,2013–2016,TV-G,30,"Adventure, Comedy, Drama            ",6.7,*
+1419,The Devil's Own,1997,R,111,"Action, Crime, Drama            ",6.2,53
+1420,A Christmas Prince,2017,TV-PG,92,"Comedy, Family, Romance            ",5.8,*
+1421,The Forest,2017,TV-MA,313,"Crime, Drama            ",7.2,*
+1422,Child 44,2015,R,137,"Crime, Drama, History            ",6.4,41
+1423,Our Planet,2019,TV-G,403,Documentary            ,9.3,*
+1424,Whitney,2018,R,120,"Documentary, Biography, Drama            ",7.3,75
+1425,The New Legends of Monkey,2018– ,TV-PG,24,"Action, Adventure, Comedy            ",6.5,*
+1426,Marauders,2016,R,107,"Action, Crime, Thriller            ",5.5,42
+1427,The Girl with All the Gifts,2016,R,111,"Action, Adventure, Drama            ",6.6,67
+1428,Sentinelle,2021,TV-MA,80,"Action, Crime, Drama            ",4.8,*
+1429,13: The Musical,2022,PG,91,"Comedy, Drama, Family            ",5.2,57
+1430,Kodachrome,2017,TV-MA,105,Drama            ,6.8,57
+1431,Bulbbul,2020,TV-MA,94,"Drama, Horror, Mystery            ",6.5,*
+1432,To All the Boys: Always and Forever,2021,TV-14,109,"Comedy, Drama, Romance            ",6.3,65
+1433,Arbitrage,2012,R,107,"Drama, Thriller            ",6.6,73
+1434,6 Days,I 2017,R,94,"Action, Drama, History            ",6.2,36
+1435,"Bastard!! Heavy Metal, Dark Fantasy",2022– ,TV-MA,25,"Animation, Action, Adventure            ",6.5,*
+1436,Broken City,2013,R,109,"Action, Crime, Drama            ",6.1,49
+1437,Highschool of the Dead,2010,TV-MA,24,"Animation, Action, Drama            ",7.2,*
+1438,Tau,2018,R,97,"Sci-Fi, Thriller            ",5.8,43
+1439,Jimmy Neutron: Boy Genius,2001,G,82,"Animation, Action, Adventure            ",6.0,65
+1440,In the Name of the King: A Dungeon Siege Tale,2007,PG-13,127,"Action, Adventure, Fantasy            ",3.8,15
+1441,Your Place or Mine,2023,PG-13,109,"Comedy, Romance            ",*,*
+1442,Teachers,2001–2004,TV-MA,50,"Comedy, Drama            ",7.8,*
+1443,Great News,2017–2018,TV-14,22,Comedy            ,7.0,*
+1444,"Hello, Goodbye and Everything in Between",2022,TV-14,82,"Comedy, Drama, Romance            ",5.1,54
+1445,High Heat,2022– ,TV-MA,45,Drama            ,6.1,*
+1446,Trollhunters: Tales of Arcadia,2016–2018,TV-Y7,23,"Animation, Action, Adventure            ",8.4,*
+1447,Tyrant,2014–2016,TV-14,60,"Action, Drama, Thriller            ",7.7,*
+1448,The Rising of the Shield Hero,2019– ,TV-14,24,"Animation, Action, Adventure            ",8.0,*
+1449,Ludik,2022– ,TV-MA,60,"Crime, Drama            ",5.6,*
+1450,Step Up 2: The Streets,2008,PG-13,98,"Drama, Music, Romance            ",6.2,50
+1451,Zoo,2015–2017,TV-14,42,"Drama, Mystery, Sci-Fi            ",6.6,*
+1452,The Double,I 2011,PG-13,98,"Action, Crime, Drama            ",5.9,37
+1453,My Unorthodox Life,2021– ,TV-MA,*,Reality-TV            ,5.7,*
+1454,Amar,2017,*,105,"Drama, Romance            ",5.1,*
+1455,Late Night,2019,R,102,"Comedy, Drama            ",6.5,70
+1456,The Starling,2021,PG-13,102,"Comedy, Drama            ",6.3,31
+1457,A Very Long Engagement,2004,R,133,"Drama, Mystery, Romance            ",7.6,76
+1458,The Electric State,,*,*,"Action, Adventure, Drama            ",*,*
+1459,Girl,II 2018,R,105,Drama            ,7.1,73
+1460,The Little Prince,2015,PG,108,"Animation, Adventure, Drama            ",7.7,70
+1461,My Little Pony: A New Generation,2021,PG,90,"Animation, Adventure, Comedy            ",6.8,*
+1462,Farzar,2022– ,TV-MA,30,"Animation, Action, Adventure            ",5.5,*
+1463,Nightbooks,2021,TV-PG,103,"Family, Fantasy, Horror            ",5.7,65
+1464,Rust Creek,2018,R,108,"Crime, Drama, Thriller            ",5.9,59
+1465,"Boo, Bitch",2022,TV-14,202,"Comedy, Fantasy            ",5.8,*
+1466,The Wandering Earth,2019,TV-MA,125,"Action, Adventure, Sci-Fi            ",5.9,57
+1467,Porco Rosso,1992,PG,94,"Animation, Adventure, Comedy            ",7.7,83
+1468,Wasp Network,2019,TV-MA,127,"Crime, Drama, Thriller            ",5.9,54
+1469,The Seven Deadly Sins: Grudge of Edinburgh,2022,TV-14,52,"Animation, Action, Adventure            ",5.4,*
+1470,The Tale of The Princess Kaguya,2013,PG,137,"Animation, Drama, Family            ",8.0,89
+1471,The Immigrant,2013,R,120,"Drama, Romance            ",6.6,77
+1472,Rim of the World,2019,TV-14,98,"Action, Adventure, Comedy            ",5.2,*
+1473,Security,I 2017,R,88,"Action, Crime, Thriller            ",5.7,*
+1474,The Princess Switch,2018,TV-PG,101,"Comedy, Drama, Family            ",6.1,*
+1475,Trial by Fire,2023,*,*,"Crime, Drama, History            ",*,*
+1476,A Trip to Infinity,2022,TV-PG,79,Documentary            ,6.9,*
+1477,Rurouni Kenshin Part I: Origins,2012,TV-MA,134,"Action, Adventure, Drama            ",7.4,*
+1478,Safe,I 2012,R,94,"Action, Crime, Thriller            ",6.5,55
+1479,Badhaai Do,2022,*,147,"Comedy, Crime, Drama            ",7.0,*
+1480,My Mister,2018,TV-14,70,"Drama, Family            ",9.1,*
+1481,Away,2020,TV-14,50,"Drama, Romance, Sci-Fi            ",6.6,*
+1482,Capturing the Killer Nurse,2022,TV-14,94,"Documentary, Crime            ",6.4,*
+1483,Down to Earth with Zac Efron,2020– ,TV-PG,40,"Documentary, History, Reality-TV            ",8.0,*
+1484,Black Lagoon,2006,TV-MA,25,"Animation, Action, Adventure            ",7.9,*
+1485,Invisible City,2021– ,TV-G,60,"Crime, Drama, Fantasy            ",7.2,*
+1486,Wine Country,2019,R,103,"Adventure, Comedy, Drama            ",5.4,56
+1487,Abducted in Plain Sight,2017,TV-14,91,"Documentary, Crime            ",6.8,*
+1488,Batman,1966,PG,105,"Action, Adventure, Comedy            ",6.5,71
+1489,Beirut,2018,R,109,"Action, Crime, Drama            ",6.5,69
+1490,Black Money Love,2014–2015,TV-MA,90,"Action, Crime, Drama            ",7.5,*
+1491,Rise of the Teenage Mutant Ninja Turtles,2018–2020,TV-Y7-FV,22,"Animation, Action, Adventure            ",5.4,*
+1492,The Boys in the Band,2020,R,121,Drama            ,6.8,70
+1493,Last Film Show,2021,*,110,Drama            ,7.6,*
+1494,The Royal Treatment,2022,TV-PG,96,"Comedy, Family, Romance            ",5.2,36
+1495,While You Were Sleeping,2017,*,30,"Comedy, Drama, Fantasy            ",8.3,*
+1496,Record of Ragnarok,2021– ,TV-14,24,"Animation, Action, Adventure            ",6.2,*
+1497,Masters of the Universe: Revelation,2021,TV-PG,25,"Animation, Action, Adventure            ",5.4,*
+1498,Dumbo,1941,G,64,"Animation, Adventure, Drama            ",7.2,96
+1499,Superwog,2017–2022,TV-MA,30,Comedy            ,7.5,*
+1500,Komi Can't Communicate,2021– ,TV-14,24,"Animation, Comedy, Drama            ",7.8,*
+1501,Hospital Playlist,2020–2021,TV-14,84,"Comedy, Drama            ",8.8,*
+1502,Dare Me,2019–2020,TV-MA,42,"Crime, Mystery, Thriller            ",6.6,*
+1503,Sins of Our Mother,2022,TV-14,141,"Documentary, Crime, Mystery            ",7.0,*
+1504,Beyond the Universe,2022,TV-MA,126,"Comedy, Drama, Romance            ",6.6,*
+1505,Girlboss,2017,TV-MA,26,Comedy            ,7.0,*
+1506,The F**k-It List,2020,TV-MA,103,Comedy            ,5.2,*
+1507,How NOT to Summon a Demon Lord,2018– ,TV-MA,24,"Animation, Adventure, Comedy            ",7.0,*
+1508,Rake,2010–2018,Not Rated,60,"Comedy, Drama            ",8.5,*
+1509,Better Than Us,2018–2019,*,52,"Drama, Sci-Fi            ",7.4,*
+1510,The Last Stand,2013,R,107,"Action, Thriller, Western            ",6.3,54
+1511,The Windsors,2016– ,TV-MA,30,Comedy            ,7.1,*
+1512,Cleveland Abduction,2015 TV Movie,TV-14,88,"Biography, Crime, Drama            ",6.6,*
+1513,Don't Leave,2022,TV-MA,107,"Drama, Romance            ",5.1,*
+1514,Mr. Iglesias,2019–2020,TV-14,30,Comedy            ,7.1,*
+1515,Dragons: Race to the Edge,2015–2018,TV-Y7-FV,22,"Animation, Action, Adventure            ",8.2,*
+1516,Bad Trip,2021,Unrated,86,Comedy            ,6.5,61
+1517,John Dies at the End,2012,R,99,"Comedy, Fantasy, Horror            ",6.3,53
+1518,The Mess You Leave Behind,2020,TV-MA,56,"Crime, Drama, Mystery            ",6.8,*
+1519,Suburra: Blood on Rome,2017–2020,TV-MA,50,"Action, Crime            ",7.9,*
+1520,Good on Paper,2021,Unrated,92,"Comedy, Romance            ",5.6,54
+1521,Tales from Earthsea,2006,PG-13,115,"Animation, Adventure, Fantasy            ",6.3,47
+1522,You Me Her,2016–2020,TV-MA,28,"Comedy, Drama, Romance            ",7.0,*
+1523,Brain on Fire,2016,PG-13,88,"Biography, Drama            ",6.6,34
+1524,Dangerous Lies,2020,TV-14,96,Thriller            ,5.3,51
+1525,FIFA Uncovered,2022,TV-14,221,"Documentary, Crime, Sport            ",7.4,*
+1526,Spaceman,2023,*,*,"Adventure, Drama, Sci-Fi            ",*,*
+1527,The Discovery,I 2017,TV-MA,102,"Drama, Romance, Sci-Fi            ",6.2,54
+1528,The Kissing Booth 3,2021,TV-14,112,"Comedy, Romance            ",4.8,36
+1529,Fear Street: Part Three - 1666,2021,R,114,"Horror, Mystery            ",6.6,68
+1530,The War of the Worlds,2019,TV-14,48,"Drama, History, Sci-Fi            ",5.1,*
+1531,Last Chance U,2016–2020,TV-MA,55,"Documentary, Sport            ",8.4,*
+1532,Restless,2022,TV-MA,95,"Action, Crime, Thriller            ",5.8,*
+1533,The Woods,2020,TV-MA,306,"Crime, Drama, Mystery            ",6.6,*
+1534,The Concubine,2012,Unrated,122,"Drama, History, Romance            ",6.1,*
+1535,Vanquish,2021,R,94,"Action, Thriller            ",2.9,22
+1536,Into the Deep,2020,TV-MA,90,"Documentary, Biography, Crime            ",6.5,*
+1537,The Good Cop,2018,TV-PG,60,"Comedy, Crime, Drama            ",7.0,*
+1538,The Kissing Booth 2,2020,TV-14,134,"Comedy, Romance            ",5.7,39
+1539,The K2,2016,TV-14,60,"Drama, Romance, Thriller            ",7.8,*
+1540,Darling in the Franxx,2018,TV-14,24,"Animation, Action, Drama            ",7.4,*
+1541,Konosuba: God's Blessing on This Wonderful World!,2016–2017,TV-14,24,"Animation, Adventure, Comedy            ",7.8,*
+1542,Two Summers,2022– ,TV-MA,45,"Drama, Thriller            ",6.8,*
+1543,Inuyasha,2000–2004,TV-14,24,"Animation, Action, Adventure            ",7.9,*
+1544,Hard Breakers,2010,R,99,Comedy            ,2.8,*
+1545,Sijipeuseu: The Myth,2021,Not Rated,70,"Action, Drama, Fantasy            ",7.0,*
+1546,14 Peaks: Nothing Is Impossible,2021,TV-MA,101,"Documentary, Adventure, Sport            ",7.7,68
+1547,Orgasm Inc: The Story of OneTaste,2022,TV-MA,89,"Documentary, Crime            ",5.7,*
+1548,Comedians in Cars Getting Coffee,2012– ,TV-14,20,"Comedy, Family, Talk-Show            ",8.0,*
+1549,Shutter,II 2004,Not Rated,97,"Horror, Mystery, Thriller            ",7.0,*
+1550,Man Down,2013–2017,TV-MA,30,Comedy            ,7.6,*
+1551,The Siege of Jadotville,2016,TV-MA,108,"Action, Drama, History            ",7.2,*
+1552,She,2020– ,TV-MA,*,"Crime, Drama            ",6.4,*
+1553,A California Christmas,2020,PG-13,106,"Comedy, Drama, Romance            ",5.8,*
+1554,Rascal Does Not Dream of Bunny Girl Senpai,2018– ,TV-PG,24,"Animation, Drama, Fantasy            ",8.1,*
+1555,Marmaduke,2022,TV-Y7,88,"Animation, Adventure, Comedy            ",3.2,*
+1556,Force of Nature,2020,R,91,"Action, Crime, Drama            ",4.6,29
+1557,Something in the Rain,2018,*,75,"Drama, Romance            ",8.1,*
+1558,Ferry,2021,TV-MA,106,"Action, Crime, Drama            ",7.0,*
+1559,The Untamed,2019,*,50,"Action, Adventure, Drama            ",8.8,*
+1560,Paranoid,2016,*,45,"Crime, Drama, Mystery            ",6.6,*
+1561,Death Note,2015,*,46,"Crime, Drama, Fantasy            ",7.1,*
+1562,The Penthouse: War in Life,2020–2021,*,70,"Crime, Drama, Mystery            ",7.9,*
+1563,Hellsing Ultimate,2006–2012,Not Rated,50,"Animation, Action, Fantasy            ",8.3,*
+1564,Shtisel,2013–2021,TV-14,45,Drama            ,8.6,*
+1565,Hold Tight,2022,TV-MA,284,"Crime, Drama, Mystery            ",6.1,*
+1566,Voltron: Legendary Defender,2016–2018,TV-Y7-FV,23,"Animation, Action, Adventure            ",8.1,*
+1567,Secret Obsession,2019,TV-14,97,Thriller            ,4.4,*
+1568,Love/Hate,2010–2014,*,51,"Crime, Drama            ",8.5,*
+1569,Family Leave,,*,*,"Comedy, Family            ",*,*
+1570,Space Sweepers,2021,TV-MA,136,"Action, Adventure, Drama            ",6.5,64
+1571,Fistful of Vengeance,2022,TV-MA,96,"Action, Crime, Drama            ",4.4,44
+1572,Jackass 4.5,2022 Video,TV-MA,90,"Documentary, Action, Comedy            ",6.5,*
+1573,Blitz,2011,R,97,"Action, Crime, Thriller            ",6.1,*
+1574,Inside,2021 TV Special,TV-MA,87,"Comedy, Drama, Music            ",8.6,*
+1575,The Repair Shop,2017– ,*,30,"Documentary, Reality-TV            ",8.8,*
+1576,Jeepers Creepers III,2017,Not Rated,100,Horror            ,3.9,*
+1577,Naked,I 2017,TV-14,96,"Comedy, Fantasy, Romance            ",5.4,36
+1578,A Fall from Grace,2020,TV-MA,120,Thriller            ,5.9,34
+1579,Premium Rush,2012,PG-13,91,"Action, Crime, Thriller            ",6.5,66
+1580,Control Z,2020–2022,TV-MA,37,"Drama, Thriller            ",6.9,*
+1581,The Kindergarten Teacher,2018,R,96,"Drama, Thriller            ",6.7,75
+1582,Wanderlust,2018,TV-MA,60,Drama            ,7.0,*
+1583,A Prayer Before Dawn,2017,R,116,"Action, Biography, Crime            ",6.8,76
+1584,W,2016,*,60,"Action, Comedy, Drama            ",8.1,*
+1585,Valeria,2020– ,TV-MA,47,"Adventure, Comedy, Drama            ",6.5,*
+1586,The Soccer Football Movie,2022,TV-Y7,73,"Animation, Comedy, Family            ",3.1,*
+1587,Romantic Killer,2022– ,TV-14,24,"Animation, Comedy, Romance            ",7.6,*
+1588,October Faction,2020,TV-MA,39,"Adventure, Drama, Fantasy            ",6.2,*
+1589,All the Light We Cannot See,,*,*,"Drama, History, War            ",*,*
+1590,Chernobyl: Abyss,2021,*,136,"Action, Drama, History            ",5.1,*
+1591,Chef's Table,2015–2019,TV-MA,50,Documentary            ,8.5,*
+1592,The Beauty Queen of Jerusalem,2021– ,TV-MA,28,Drama            ,7.3,*
+1593,Dear White People,2017–2021,TV-MA,30,"Comedy, Drama            ",6.3,*
+1594,Wrong Side of the Tracks,2021– ,TV-MA,79,"Action, Adventure, Crime            ",6.8,*
+1595,2067,2020,Not Rated,114,"Mystery, Sci-Fi            ",4.9,39
+1596,The Battle of Britain,1969,G,132,"Action, Drama, History            ",6.9,*
+1597,On Body and Soul,2017,Not Rated,116,"Drama, Fantasy, Mystery            ",7.5,77
+1598,The Princess Switch 3,2021,TV-PG,106,"Comedy, Drama, Family            ",5.5,*
+1599,The House of Flowers,2018–2020,TV-MA,60,"Comedy, Drama            ",7.6,*
+1600,Running with the Devil,2019,R,100,"Crime, Drama, Thriller            ",5.4,42
+1601,Move to Heaven,2021,TV-MA,60,Drama            ,8.5,*
+1602,The Lifeguard,2013,R,98,"Drama, Romance            ",5.6,34
+1603,Glória,2021– ,TV-MA,40,"Drama, History, Thriller            ",7.9,*
+1604,Contraband,2012,R,109,"Action, Crime, Drama            ",6.4,51
+1605,Penguin Bloom,2020,TV-14,95,"Biography, Drama            ",6.8,54
+1606,Isn't It Romantic,2019,PG-13,89,"Comedy, Fantasy, Musical            ",5.9,60
+1607,Love Is Blind: Brazil,2021– ,TV-MA,60,"Reality-TV, Romance            ",6.2,*
+1608,Holiday in the Wild,2019,TV-PG,85,"Comedy, Drama, Romance            ",6.1,*
+1609,The Billion Dollar Code,2021,TV-MA,267,"Biography, Crime, Drama            ",8.0,*
+1610,Marianne,2019,TV-MA,50,"Drama, Horror, Mystery            ",7.4,*
+1611,Dead End,2022,TV-MA,28,"Comedy, Crime, Drama            ",6.1,*
+1612,We Bare Bears,2014–2019,TV-PG,30,"Animation, Adventure, Comedy            ",7.9,*
+1613,From Up on Poppy Hill,2011,PG,91,"Animation, Comedy, Drama            ",7.4,71
+1614,When Marnie Was There,2014,PG,103,"Animation, Drama, Family            ",7.7,72
+1615,Wu Assassins,2019,TV-MA,44,"Action, Crime, Drama            ",6.4,*
+1616,The Chair,2021,TV-MA,30,"Comedy, Drama            ",7.2,*
+1617,Drifting Home,2022,PG,119,"Animation, Adventure, Drama            ",6.2,59
+1618,Tale of the Nine Tailed,2020– ,*,70,"Fantasy, Horror, Romance            ",7.9,*
+1619,Honeymoon,2014,R,87,"Drama, Fantasy, Horror            ",5.7,65
+1620,Pera Palas'ta Gece Yarisi,2022– ,TV-14,45,"Drama, History, Mystery            ",7.0,*
+1621,The Perfect Host,2010,R,93,"Comedy, Crime, Thriller            ",6.7,48
+1622,Halston,2021,TV-MA,240,"Biography, Drama            ",7.5,*
+1623,Get Rich or Die Tryin',2005,R,117,"Biography, Crime, Drama            ",5.4,45
+1624,Queer Eye,2018– ,TV-14,45,Reality-TV            ,8.5,*
+1625,Beyond Evil,2021,*,70,"Drama, Mystery, Thriller            ",8.1,*
+1626,My Love from Another Star,2013–2014,Not Rated,60,"Comedy, Drama, Fantasy            ",8.2,*
+1627,The Gift,2019–2021,TV-MA,40,"Drama, Fantasy, Mystery            ",7.0,*
+1628,They Cloned Tyrone,,R,*,"Comedy, Sci-Fi            ",*,*
+1629,Hilda,2018– ,TV-Y7,24,"Animation, Adventure, Comedy            ",8.5,*
+1630,The Last Czars,2019,TV-MA,45,"Documentary, Drama, History            ",7.3,*
+1631,Pretty Smart,2021,TV-14,30,"Comedy, Drama, Romance            ",5.8,*
+1632,Servant of the People,2015–2019,TV-MA,28,Comedy            ,7.3,*
+1633,Royalteen,2022,TV-MA,107,"Drama, Romance            ",5.3,*
+1634,RuPaul's Drag Race All Stars,2012– ,TV-14,60,"Game-Show, Reality-TV            ",8.5,*
+1635,The Last Days of American Crime,2020,TV-MA,148,"Action, Crime, Drama            ",3.8,15
+1636,The Last Legion,2007,PG-13,101,"Action, Adventure, History            ",5.4,37
+1637,Rumor Has It...,2005,PG-13,97,"Comedy, Drama, Romance            ",5.5,35
+1638,Sabotage,2014,R,109,"Action, Crime, Drama            ",5.7,41
+1639,The Privilege,2022 TV Movie,TV-MA,107,"Drama, Horror, Mystery            ",4.7,*
+1640,My Little Pony: The Movie,2017,PG,99,"Animation, Adventure, Comedy            ",6.0,39
+1641,Love 101,2020–2021,TV-14,40,"Comedy, Drama, Romance            ",7.5,*
+1642,The Bletchley Circle,2012–2014,TV-14,45,"Crime, Drama, Mystery            ",7.9,*
+1643,Kon-Tiki,2012,PG-13,118,"Action, Adventure, Biography            ",7.2,62
+1644,College Romance,2018– ,TV-MA,30,"Comedy, Drama, Romance            ",8.4,*
+1645,Earthstorm,2022– ,TV-14,45,Documentary            ,7.2,*
+1646,Extraordinary You,2019,*,35,"Comedy, Fantasy, Romance            ",7.8,*
+1647,Romance Is a Bonus Book,2019,*,62,Romance            ,8.0,*
+1648,Because This Is My First Life,2017,*,70,"Comedy, Drama, Romance            ",8.1,*
+1649,Taxi Driver,2021– ,*,70,"Action, Crime, Drama            ",8.0,*
+1650,V-Wars,2019,TV-MA,60,"Drama, Horror, Sci-Fi            ",6.0,*
+1651,Wild Wild Country,2018,TV-MA,403,"Documentary, Crime            ",8.1,*
+1652,The Paradise,2012–2013,TV-PG,60,Drama            ,7.7,*
+1653,Damnation,2017–2018,TV-MA,60,"Crime, Drama, Western            ",7.6,*
+1654,Uncorked,I 2020,TV-MA,104,Drama            ,6.4,62
+1655,Elves,2021,*,24,"Drama, Fantasy, Horror            ",5.6,*
+1656,Close Enough,2020–2022,TV-14,23,"Animation, Action, Adventure            ",7.8,*
+1657,Rise of the Teenage Mutant Ninja Turtles: The Movie,2022,TV-Y7,82,"Animation, Action, Adventure            ",6.0,61
+1658,On Becoming a God in Central Florida,2019,TV-MA,46,Comedy            ,7.2,*
+1659,Juvenile Justice,2022– ,TV-MA,60,"Crime, Drama            ",8.0,*
+1660,Touch,2012–2013,TV-PG,43,"Drama, Mystery, Sci-Fi            ",7.3,*
+1661,Dubai Bling,2022– ,TV-MA,45,Reality-TV            ,3.5,*
+1662,KILL la KILL,2013–2014,TV-14,25,"Animation, Action, Comedy            ",7.9,*
+1663,The ABCs of Death,2012,Not Rated,129,"Comedy, Horror            ",4.7,43
+1664,Pottersville,2017,PG-13,84,Comedy            ,5.4,*
+1665,The Future Diary,2011–2013,TV-MA,25,"Animation, Action, Drama            ",7.5,*
+1666,Bordertown: The Mural Murders,2021,*,107,"Crime, Drama, Mystery            ",6.3,*
+1667,Scarface,1932,PG,93,"Action, Crime, Drama            ",7.7,87
+1668,Carry On,2023,*,*,"Action, Thriller            ",*,*
+1669,Tiger King,2020–2021,TV-MA,45,"Documentary, Biography, Crime            ",7.5,*
+1670,The Elephant Whisperers,2022,PG,41,"Documentary, Short            ",7.6,*
+1671,Close,I 2019,TV-MA,94,"Action, Drama, Thriller            ",5.7,51
+1672,Uncle from Another World,2022– ,TV-MA,24,"Animation, Adventure, Comedy            ",7.4,*
+1673,Rose Island,2020,TV-14,117,"Adventure, Comedy, Drama            ",7.0,*
+1674,Robbing Mussolini,2022,TV-MA,90,"Action, Comedy, Crime            ",5.4,*
+1675,To All the Boys: P.S. I Still Love You,2020,TV-14,101,"Comedy, Drama, Romance            ",6.0,54
+1676,Far from Home,2022– ,*,*,Drama            ,5.9,*
+1677,Last Man Down,2021,R,87,"Action, Sci-Fi            ",3.6,*
+1678,The Knight Before Christmas,2019,TV-PG,92,"Adventure, Comedy, Drama            ",5.6,*
+1679,Our Blues,2022– ,TV-MA,60,Drama            ,8.6,*
+1680,Drinking Buddies,2013,R,90,"Comedy, Drama, Romance            ",6.1,71
+1681,The Ultimatum: France,2022– ,*,*,Reality-TV            ,6.2,*
+1682,"El Rey, Vicente Fernández",2022– ,TV-14,52,"Biography, Drama, Music            ",7.4,*
+1683,Country Comfort,2021,TV-PG,25,"Comedy, Drama, Family            ",6.8,*
+1684,Intimacy,2022,TV-MA,50,"Crime, Drama            ",6.9,*
+1685,Love Wedding Repeat,2020,TV-MA,100,"Comedy, Romance            ",5.5,41
+1686,Hit and Run,I 2012,R,100,"Action, Adventure, Comedy            ",6.1,50
+1687,Top Chef,2006– ,TV-14,44,"Game-Show, Reality-TV            ",7.7,*
+1688,Wet Hot American Summer: First Day of Camp,2015,TV-MA,30,Comedy            ,7.3,*
+1689,Lady Driver,2020,PG,104,Sport            ,5.8,*
+1690,Small Town Crime,2017,R,91,"Crime, Mystery, Thriller            ",6.6,68
+1691,Rita,2012–2020,TV-MA,40,"Comedy, Drama            ",8.1,*
+1692,The Redeem Team,2022,TV-MA,97,"Documentary, History, Sport            ",7.4,76
+1693,Ascension,2014,*,231,"Drama, Sci-Fi            ",7.1,*
+1694,Over the Moon,2020,PG,95,"Animation, Adventure, Comedy            ",6.3,60
+1695,Requiem,2018,TV-MA,60,"Drama, Fantasy, Mystery            ",6.4,*
+1696,The Division,,*,*,"Action, Sci-Fi, Thriller            ",*,*
+1697,The Misfit of Demon King Academy,2020–2023,TV-14,23,"Animation, Adventure, Comedy            ",7.3,*
+1698,See for Me,2021,*,92,"Crime, Drama, Mystery            ",5.8,59
+1699,The Green Glove Gang,2022– ,TV-14,30,"Comedy, Crime            ",6.5,*
+1700,Ibiza,2018,TV-MA,94,"Comedy, Romance            ",5.2,56
+1701,Nana,2006–2007,TV-MA,21,"Animation, Comedy, Drama            ",8.5,*
+1702,Death to 2021,2021 TV Special,TV-MA,60,Comedy            ,6.3,*
+1703,Breach,IV 2020,R,92,"Action, Horror, Sci-Fi            ",2.9,*
+1704,The Last Mercenary,2021,TV-MA,110,"Action, Adventure, Comedy            ",5.3,48
+1705,Creep 2,2017,Not Rated,78,"Crime, Drama, Horror            ",6.4,75
+1706,Q-Force,2021,TV-MA,30,"Animation, Action, Adventure            ",6.6,*
+1707,Relic,2020,R,89,"Drama, Horror, Mystery            ",6.0,77
+1708,Ghost Wars,2017–2018,TV-14,60,"Drama, Fantasy, Horror            ",6.2,*
+1709,How I Fell in Love with a Gangster,2022,TV-MA,185,"Crime, Drama            ",6.0,*
+1710,The Get Down,2016–2017,TV-MA,52,"Drama, Music, Musical            ",8.2,*
+1711,Maya and the Three,2021,TV-Y7,30,"Animation, Action, Adventure            ",8.1,*
+1712,As the Crow Flies,2022– ,TV-MA,45,Drama            ,6.3,*
+1713,A Man Apart,2003,R,109,"Action, Crime, Drama            ",6.0,36
+1714,Christmas Made to Order,2018 TV Movie,TV-G,80,Romance            ,5.7,*
+1715,Nobody Sleeps in the Woods Tonight,2020,TV-MA,102,"Fantasy, Horror, Mystery            ",4.9,*
+1716,Disjointed,2017–2018,TV-MA,30,Comedy            ,6.7,*
+1717,Inside the Mind of a Cat,2022,TV-PG,67,Documentary            ,6.9,*
+1718,Step Up 3D,2010,PG-13,107,"Drama, Music, Romance            ",6.1,45
+1719,Our Man from Jersey,,*,*,"Action, Thriller            ",*,*
+1720,The Catholic School,2021,TV-MA,106,Drama            ,5.7,*
+1721,I Am Georgina,2022,TV-14,41,Reality-TV            ,4.0,*
+1722,Satan's Slaves,2017,Not Rated,107,"Drama, Horror, Mystery            ",6.5,*
+1723,Christmas Under Wraps,2014 TV Movie,TV-G,88,"Comedy, Drama, Romance            ",6.2,*
+1724,Christmas Inheritance,2017,*,104,"Comedy, Drama, Romance            ",5.7,*
+1725,Yu Yu Hakusho: Ghost Files,1992–1995,TV-PG,24,"Animation, Action, Adventure            ",8.5,*
+1726,Geronimo: An American Legend,1993,PG-13,115,"Drama, History, Western            ",6.5,58
+1727,Bruised,2020,R,129,"Drama, Sport            ",6.2,52
+1728,Kakegurui,2017–2019,TV-14,24,"Animation, Drama, Mystery            ",7.2,*
+1729,Look Who's Back,2015,Not Rated,116,"Comedy, Drama, Fantasy            ",7.0,*
+1730,"Good Morning, Verônica",2020– ,TV-MA,49,"Crime, Drama, Mystery            ",7.5,*
+1731,The Courier,2019,R,99,"Action, Crime, Drama            ",4.8,*
+1732,Capitani,2019–2022,TV-MA,312,"Crime, Drama, Mystery            ",6.6,*
+1733,An Affair,2018,*,92,"Drama, Thriller            ",5.5,*
+1734,D.P.,2021– ,TV-MA,50,"Action, Crime, Drama            ",8.2,*
+1735,Yakamoz S-245,2022,TV-MA,45,"Action, Adventure, Drama            ",6.1,*
+1736,Fate/Zero,2011–2012,TV-MA,24,"Animation, Action, Adventure            ",8.2,*
+1737,Wounds,2019,R,95,"Drama, Horror, Mystery            ",4.1,51
+1738,Legend of the Blue Sea,2016–2017,*,60,"Comedy, Drama, Fantasy            ",8.1,*
+1739,Survivor,I 2015,PG-13,96,"Action, Crime, Thriller            ",5.6,28
+1740,Family Secrets,2022– ,TV-MA,50,"Comedy, Drama, Romance            ",6.0,*
+1741,IO,2019,TV-14,96,"Adventure, Drama, Sci-Fi            ",4.7,40
+1742,Night Stalker: The Hunt for a Serial Killer,2021,TV-MA,189,"Documentary, Crime, Mystery            ",7.5,*
+1743,Chelsea Handler: Revolution,2022 TV Special,TV-MA,77,Comedy            ,5.8,*
+1744,Super Dark Times,2017,Not Rated,103,"Crime, Drama, Horror            ",6.6,75
+1745,Trigun,1998,TV-14,24,"Animation, Action, Adventure            ",8.2,*
+1746,Miss Bala,2019,PG-13,104,"Action, Crime, Drama            ",5.8,41
+1747,Blade of the Immortal,2017,R,140,"Action, Drama, Fantasy            ",6.7,72
+1748,Sniper: Assassin's End,2020 Video,R,95,"Action, Thriller            ",5.3,*
+1749,The Occupant,2020,TV-MA,103,"Drama, Thriller            ",6.4,*
+1750,Weightlifting Fairy Kim Bok-Joo,2016–2017,*,60,"Comedy, Romance            ",8.4,*
+1751,Lost Ollie,2022,TV-PG,45,"Animation, Adventure, Drama            ",7.8,*
+1752,The Diplomat,2022– ,*,*,Crime            ,*,*
+1753,Dogs of Berlin,2018– ,TV-MA,542,"Action, Crime, Drama            ",7.5,*
+1754,Rurôni Kenshin: Sai shûshô - The Beginning,2021,TV-MA,137,"Action, Adventure, Drama            ",7.4,*
+1755,Below Zero,2021,TV-MA,106,"Action, Adventure, Crime            ",6.2,*
+1756,Kung Fury,2015,Not Rated,31,"Short, Action, Comedy            ",8.0,*
+1757,Nightflyers,2018,TV-14,60,"Drama, Horror, Mystery            ",5.8,*
+1758,Victoria & Abdul,2017,PG-13,111,"Biography, Drama, History            ",6.8,58
+1759,A Man for All Seasons,1966,G,120,"Biography, Drama, History            ",7.7,72
+1760,Laggies,2014,R,99,"Comedy, Drama, Romance            ",6.4,63
+1761,Heirs,2013,*,55,"Comedy, Drama, Romance            ",7.5,*
+1762,XOXO,2016,TV-MA,92,"Drama, Music            ",5.3,*
+1763,Mobile Suit Gundam: The Witch from Mercury,2022– ,TV-14,22,"Animation, Action, Sci-Fi            ",7.8,*
+1764,Conversations with a Killer: The Jeffrey Dahmer Tapes,2022,TV-MA,180,"Documentary, Biography, Crime            ",7.3,*
+1765,Aileen Wuornos: American Boogeywoman,2021,R,85,"Drama, Horror, Thriller            ",3.8,*
+1766,Red Rose,2022– ,*,45,"Drama, Horror, Thriller            ",6.3,*
+1767,Yeh Kaali Kaali Ankhein,2022– ,TV-MA,51,"Comedy, Crime, Mystery            ",7.0,*
+1768,Boss,2011–2012,TV-MA,56,"Crime, Drama            ",8.1,*
+1769,The Old Ways,II 2020,R,90,"Drama, Fantasy, Horror            ",5.4,67
+1770,The Paramedic,2020,TV-MA,94,"Adventure, Crime, Drama            ",5.7,*
+1771,Beastars,2019– ,TV-MA,23,"Animation, Crime, Drama            ",7.7,*
+1772,The Bookshop,2017,PG,113,Drama            ,6.5,62
+1773,Sierra Burgess Is a Loser,2018,PG-13,105,"Comedy, Drama, Romance            ",5.8,60
+1774,The Ultimatum: Marry or Move On,2022– ,TV-MA,60,Reality-TV            ,5.5,*
+1775,Water Lilies,2007,*,85,"Drama, Romance            ",6.7,65
+1776,Selling Sunset,2019– ,TV-MA,30,Reality-TV            ,6.5,*
+1777,Cadaver,2020,TV-MA,86,"Drama, Horror, Thriller            ",5.2,*
+1778,Ivy & Bean,2022,TV-G,56,"Action, Comedy, Family            ",6.1,*
+1779,"Belascoarán, PI",2022– ,TV-MA,75,"Crime, Mystery, Thriller            ",7.3,*
+1780,Blippi,2014– ,TV-Y,11,Family            ,6.7,*
+1781,Alba,2021,TV-MA,50,Drama            ,6.4,*
+1782,Spirit Untamed,2021,PG,88,"Animation, Adventure, Comedy            ",5.5,49
+1783,Beef,,*,30,"Comedy, Drama            ",*,*
+1784,The Best of Enemies,2019,PG-13,133,"Biography, Drama, History            ",7.3,49
+1785,Trouble,I 2019,TV-Y7,87,"Animation, Adventure, Comedy            ",5.8,*
+1786,Thai Cave Rescue,2022,TV-14,360,"Adventure, Drama, Thriller            ",7.8,*
+1787,Greenhouse Academy,2017–2020,TV-PG,25,Drama            ,6.6,*
+1788,Winx Club,2004–2019,TV-Y7,25,"Animation, Action, Adventure            ",6.0,*
+1789,Welcome Home,I 2018,R,97,Thriller            ,5.2,38
+1790,The 7 Lives of Lea,2022– ,TV-MA,45,"Crime, Drama, Fantasy            ",7.5,*
+1791,The Bonfire of Destiny,2019,TV-MA,48,"Drama, History            ",7.6,*
+1792,Icarus,2017,TV-MA,120,"Documentary, Sport            ",7.9,68
+1793,Life Unexpected,2010–2011,TV-PG,60,Drama            ,7.5,*
+1794,Love & Gelato,2022,TV-14,110,"Comedy, Drama, Romance            ",5.1,*
+1795,Animal Crackers,2017,TV-Y7,105,"Animation, Adventure, Comedy            ",5.8,60
+1796,Bank of Dave,2023,*,*,"Biography, Comedy, Drama            ",*,*
+1797,Those Who Read the Hearts of Evil,2022– ,*,70,"Crime, Drama, Mystery            ",8.0,*
+1798,Moesha,1996–2001,TV-PG,30,"Comedy, Drama, Family            ",5.8,*
+1799,A Perfect Ending,2012,Not Rated,110,"Drama, Romance            ",5.6,*
+1800,Wet Hot American Summer: Ten Years Later,2017,TV-MA,216,Comedy            ,6.9,*
+1801,America: The Motion Picture,2021,TV-MA,98,"Animation, Action, Adventure            ",5.6,38
+1802,The Coldest Game,2019,TV-MA,102,"History, Sport, Thriller            ",6.2,*
+1803,Surviving Summer,2022– ,TV-PG,30,"Drama, Family            ",6.5,*
+1804,Keep Sweet: Pray and Obey,2022,TV-MA,195,"Documentary, Crime            ",7.3,*
+1805,Chickenhare and the Hamster of Darkness,2022,TV-Y7,91,"Animation, Adventure, Comedy            ",6.3,*
+1806,First They Killed My Father,2017,TV-MA,136,"Biography, Drama, History            ",7.2,72
+1807,Rogue City,2020,TV-MA,116,"Action, Crime, Drama            ",6.1,*
+1808,Message from the King,2016,R,102,"Action, Crime, Drama            ",6.4,40
+1809,The One,I 2021,TV-MA,*,"Crime, Drama, Sci-Fi            ",6.6,*
+1810,Elisa & Marcela,2019,TV-MA,118,"Biography, Drama, Romance            ",6.6,33
+1811,A Kindhearted Christmas,2021 TV Movie,*,84,"Comedy, Romance            ",6.1,*
+1812,Maggie,I 2015,PG-13,95,"Drama, Horror, Sci-Fi            ",5.6,52
+1813,Sick Note,2017–2018,TV-MA,30,"Comedy, Crime            ",6.8,*
+1814,Utap,,*,*,"Action, Adventure, Thriller            ",*,*
+1815,The Quake,2018,PG-13,106,"Action, Drama, Thriller            ",6.2,70
+1816,The Unicorn,2019–2021,TV-PG,22,"Comedy, Drama, Family            ",7.2,*
+1817,Shimmer Lake,2017,Not Rated,86,"Action, Crime, Drama            ",6.3,*
+1818,Iron Chef: Quest for an Iron Legend,2022– ,TV-G,45,"Game-Show, Reality-TV            ",7.1,*
+1819,Unauthorized Living,2018–2020,TV-MA,75,Drama            ,7.4,*
+1820,Lift,XI,*,*,"Action, Crime, Drama            ",*,*
+1821,Glow Up: Britain's Next Make-Up Star,2019– ,TV-14,60,"Game-Show, Reality-TV            ",6.9,*
+1822,Unsolved: The Murders of Tupac and the Notorious B.I.G.,2018– ,TV-MA,60,"Biography, Crime, Drama            ",7.8,*
+1823,Moonshine,II 2021– ,*,44,"Comedy, Drama            ",6.0,*
+1824,Happy New Year,I 2014,Not Rated,180,"Action, Comedy, Crime            ",4.9,*
+1825,Black Island,2021 TV Movie,TV-MA,104,"Drama, Mystery, Thriller            ",5.2,*
+1826,No Good Nick,2019,TV-PG,30,"Comedy, Drama, Family            ",6.0,*
+1827,Selena: The Series,2020–2021,TV-PG,40,"Biography, Drama, Music            ",6.9,*
+1828,Halo 4: Forward Unto Dawn,2012,Not Rated,100,"Action, Sci-Fi, Thriller            ",6.7,*
+1829,Cocomelon,2018–2022,TV-Y,4,"Animation, Family            ",4.6,*
+1830,Otherhood,2019,R,100,Comedy            ,6.1,38
+1831,Gurren Lagann,2007,TV-14,24,"Animation, Action, Adventure            ",8.3,*
+1832,Dirty Money,2018–2020,TV-14,60,"Documentary, Crime            ",8.1,*
+1833,Flight 7500,2014,PG-13,80,"Drama, Horror, Sci-Fi            ",4.8,*
+1834,Perfume,2018,TV-MA,45,"Drama, Thriller            ",7.0,*
+1835,One Shot,III 2021,*,96,"Action, Thriller            ",5.6,39
+1836,The Willoughbys,2020,PG,90,"Animation, Adventure, Comedy            ",6.3,68
+1837,Ultraman,2019–2023,TV-14,25,"Animation, Action, Adventure            ",6.8,*
+1838,The Stronghold,2020,TV-MA,105,"Action, Crime, Thriller            ",6.9,*
+1839,The Land of Steady Habits,2018,TV-MA,98,"Comedy, Drama            ",6.2,71
+1840,Valley of the Dead,2020,TV-MA,101,"Action, Adventure, Fantasy            ",5.8,*
+1841,Are You the One?,2014– ,TV-14,41,"Game-Show, Reality-TV, Romance            ",6.6,*
+1842,Our Father,III 2022,TV-MA,97,"Documentary, Crime            ",6.6,45
+1843,Pressure Cooker,2023– ,TV-14,45,Reality-TV            ,6.5,*
+1844,The Princess Switch: Switched Again,2020,TV-G,96,"Comedy, Drama, Family            ",5.4,*
+1845,We Summon the Darkness,2019,R,91,"Horror, Music, Thriller            ",5.2,55
+1846,Return to Christmas Creek,2018 TV Movie,TV-G,86,"Drama, Romance            ",6.1,*
+1847,Signal,2016,*,80,"Crime, Drama, Fantasy            ",8.5,*
+1848,Work It,2020,TV-14,93,"Comedy, Music            ",6.1,58
+1849,Cici,2022,TV-MA,151,Drama            ,7.2,*
+1850,Kingdom,2012– ,TV-MA,*,"Animation, Action, Drama            ",8.5,*
+1851,The Hatchet Wielding Hitchhiker,2023,TV-MA,85,"Documentary, Crime            ",6.4,*
+1852,Extinct,2021,TV-Y7,84,"Animation, Adventure, Comedy            ",5.5,*
+1853,Broad Peak,2022,TV-MA,101,"Adventure, Biography, Drama            ",5.9,*
+1854,Radio Rebel,2012 TV Movie,TV-G,85,"Comedy, Drama, Family            ",5.8,*
+1855,Kimi ni Todoke: From Me to You,2009–2011,TV-PG,24,"Animation, Comedy, Drama            ",7.8,*
+1856,Precious Cargo,2016,R,90,"Action, Comedy, Thriller            ",4.6,27
+1857,Acts of Violence,2018,R,86,"Action, Crime, Thriller            ",5.3,28
+1858,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,PG-13,96,"Action, Adventure, Drama            ",6.1,47
+1859,Anxious People,2021,TV-MA,171,"Comedy, Crime, Drama            ",6.8,*
+1860,Operation Christmas Drop,2020,TV-G,95,"Comedy, Family, Romance            ",5.8,47
+1861,Pee-wee's Big Holiday,2016,TV-PG,90,"Comedy, Family            ",6.1,63
+1862,Sharknado 4: The 4th Awakens,2016 TV Movie,TV-14,95,"Action, Adventure, Comedy            ",3.8,*
+1863,The Salisbury Poisonings,2020,TV-14,58,"Drama, History, Thriller            ",7.2,*
+1864,Missing: The Other Side,2020– ,*,70,"Drama, Fantasy, Mystery            ",7.7,*
+1865,A Cinderella Story: Christmas Wish,2019 Video,PG,85,"Comedy, Family, Fantasy            ",5.3,*
+1866,Creeped Out,2017–2019,TV-Y7,30,"Action, Adventure, Crime            ",6.6,*
+1867,Trinkets,2019–2020,TV-MA,30,"Comedy, Crime, Drama            ",7.1,*
+1868,Tuca & Bertie,2019–2022,TV-MA,26,"Animation, Comedy            ",7.4,*
+1869,Mimi,I 2021,TV-14,132,"Comedy, Drama            ",7.9,*
+1870,Gone for Good,2021,TV-MA,247,"Crime, Drama, Mystery            ",6.3,*
+1871,When Heroes Fly,2018,*,45,"Action, Drama            ",7.2,*
+1872,Love Island Australia,2018–2022,TV-MA,50,Reality-TV            ,5.6,*
+1873,Afterlife of the Party,2021,TV-PG,109,"Comedy, Drama, Fantasy            ",5.8,*
+1874,I Am All Girls,2021,TV-MA,107,"Crime, Drama, Mystery            ",5.9,*
+1875,The Hour,2011–2012,TV-14,60,Drama            ,8.0,*
+1876,Million Dollar Arm,2014,PG,124,"Biography, Drama, Sport            ",7.0,56
+1877,Brooklyn's Finest,2009,R,132,"Action, Crime, Drama            ",6.7,43
+1878,The Decline,2020,TV-MA,83,"Action, Thriller            ",6.0,*
+1879,The Hard Way,2019,Not Rated,92,Action            ,4.8,*
+1880,Final Score,2018,R,104,"Action, Drama, Thriller            ",5.8,53
+1881,Leave the World Behind,,*,*,Drama            ,*,*
+1882,Meteor Garden,2018– ,TV-14,45,"Drama, Romance            ",7.9,*
+1883,Squid Game: The Challenge,,*,*,"Game-Show, Reality-TV            ",*,*
+1884,Women at War,2022,*,52,"Drama, History            ",6.9,*
+1885,How to Change Your Mind,2022,TV-MA,212,Documentary            ,7.9,*
+1886,Bitten,2014–2016,TV-MA,44,"Drama, Fantasy, Horror            ",6.9,*
+1887,Rurouni Kenshin: Final Chapter Part I - The Final,2021,TV-MA,138,"Action, Adventure, Drama            ",7.2,*
+1888,Clusterf**k: Woodstock '99,2022,TV-MA,142,"Documentary, History, Music            ",7.4,*
+1889,Haseen Dillruba,2021,TV-MA,135,"Crime, Drama, Mystery            ",6.9,*
+1890,Shooting Stars,2022,*,60,"Comedy, Drama, Romance            ",7.6,*
+1891,Thumbelina,1994,G,86,"Animation, Adventure, Family            ",6.2,*
+1892,Life's Too Short,2011–2013,TV-MA,30,Comedy            ,7.5,*
+1893,Hell Is Other People,2019,*,60,"Crime, Horror, Mystery            ",7.8,*
+1894,Sandy Wexler,2017,TV-14,130,Comedy            ,5.2,40
+1895,Rundfunk: Jachterwachter,2020,*,89,Comedy            ,5.7,*
+1896,American Murder: The Family Next Door,2020,TV-MA,83,"Documentary, Crime            ",7.2,67
+1897,Chambers,2019,TV-MA,60,"Drama, Fantasy, Horror            ",6.4,*
+1898,Watership Down,2018,TV-PG,204,"Animation, Action, Adventure            ",7.2,*
+1899,Backstreet Rookie,2020,*,60,"Action, Comedy, Romance            ",7.5,*
+1900,Nothing to Hide,2018,TV-MA,90,"Comedy, Drama            ",6.8,*
+1901,Mascots,2016,TV-MA,89,Comedy            ,5.8,57
+1902,Everything Calls for Salvation,2022– ,TV-MA,45,"Comedy, Drama            ",7.5,*
+1903,The Crew,II 2021,TV-14,*,Comedy            ,6.5,*
+1904,Buddy Daddies,2023– ,TV-14,24,"Animation, Action, Comedy            ",8.0,*
+1905,The Real Housewives of Atlanta,2008– ,TV-14,44,Reality-TV            ,4.5,*
+1906,We Have a Ghost,2023,PG-13,126,"Adventure, Comedy, Family            ",*,*
+1907,Memories of the Alhambra,2018–2019,TV-MA,60,"Drama, Romance, Sci-Fi            ",7.8,*
+1908,The Daily Life of the Immortal King,2020– ,TV-14,18,"Animation, Action, Adventure            ",7.2,*
+1909,Hot Girls Wanted,2015,TV-MA,84,Documentary            ,6.1,*
+1910,Drunken Master,1978,PG-13,111,"Action, Comedy            ",7.4,68
+1911,Bubble,2022,TV-PG,100,"Animation, Action, Adventure            ",6.3,56
+1912,Is It Cake?,2022– ,TV-PG,40,Reality-TV            ,5.8,*
+1913,Fullmetal Alchemist: Final Transmutation,2022,*,142,"Action, Adventure, Fantasy            ",5.3,*
+1914,Back in Action,,*,*,"Action, Comedy            ",*,*
+1915,Biohackers,2020–2021,TV-MA,44,"Drama, Sci-Fi, Thriller            ",6.8,*
+1916,Time Hustler,2022– ,TV-MA,30,Comedy            ,5.5,*
+1917,A Week Away,2021,TV-PG,94,"Drama, Family, Musical            ",5.7,32
+1918,Oddballs,2022– ,TV-Y7,20,"Animation, Adventure, Comedy            ",6.5,*
+1919,Damsel,V,*,*,"Adventure, Fantasy            ",*,*
+1920,A Shaun the Sheep Movie: Farmageddon,2019,G,86,"Animation, Adventure, Comedy            ",6.8,79
+1921,Prison Playbook,2017–2018,*,90,"Comedy, Drama            ",8.4,*
+1922,Kitz,2021,TV-MA,45,"Drama, Mystery, Thriller            ",5.8,*
+1923,Christmas with a View,2018 TV Movie,TV-PG,91,"Drama, Romance            ",5.2,*
+1924,The Perfect Family,2021,TV-MA,110,"Adventure, Comedy            ",5.3,*
+1925,Glitch,2022– ,TV-MA,60,"Comedy, Mystery, Sci-Fi            ",6.1,*
+1926,Little Britain,2003–2006,TV-MA,29,Comedy            ,7.7,*
+1927,Chewing Gum,2015–2017,TV-MA,23,Comedy            ,7.7,*
+1928,Midnight Diner,2009–2014,TV-MA,24,Drama            ,8.6,*
+1929,The Stranger,1946,Passed,95,"Crime, Drama, Film-Noir            ",7.3,76
+1930,Noragami,2014–2015,TV-14,24,"Animation, Action, Adventure            ",7.9,*
+1931,Special Correspondents,2016,TV-MA,101,Comedy            ,5.9,36
+1932,Jeopardy!,1984– ,TV-G,30,Game-Show            ,8.3,*
+1933,The Hater,2020,TV-MA,135,"Drama, Thriller            ",7.1,61
+1934,Little Evil,2017,TV-MA,94,"Comedy, Fantasy, Horror            ",5.7,*
+1935,T-34,2018,TV-14,139,"Action, War            ",6.7,*
+1936,The Whole Truth,2016,R,93,"Crime, Drama, Mystery            ",6.2,46
+1937,Zoe,I 2018,R,104,"Romance, Sci-Fi            ",6.1,39
+1938,The World of the Married,2020,*,80,"Drama, Romance            ",8.0,*
+1939,True Memoirs of an International Assassin,2016,TV-14,98,"Action, Comedy, Crime            ",5.9,37
+1940,Wheel of Fortune,1983– ,TV-G,30,"Family, Game-Show            ",6.7,*
+1941,Arifureta: From Commonplace to World's Strongest,2019– ,TV-MA,23,"Animation, Action, Adventure            ",7.1,*
+1942,A California Christmas: City Lights,2021,PG-13,106,"Comedy, Drama, Romance            ",5.5,*
+1943,Dorohedoro,2020,TV-MA,25,"Animation, Action, Comedy            ",8.1,*
+1944,Tall Girl 2,2022,TV-PG,97,"Comedy, Drama, Family            ",4.7,35
+1945,Hey Duggee,2014– ,TV-Y,7,"Animation, Comedy, Family            ",8.9,*
+1946,Beast of Bangalore: Indian Predator,2022,TV-MA,143,"Documentary, Crime            ",6.2,*
+1947,1983,2018,TV-MA,448,"Crime, Drama, Thriller            ",6.8,*
+1948,Someone Has to Die,2020,TV-MA,149,"Crime, Drama, Thriller            ",6.3,*
+1949,Death Warrant,1990,R,89,"Action, Crime, Mystery            ",5.7,34
+1950,Green Eggs and Ham,2019–2022,TV-Y7,26,"Animation, Adventure, Comedy            ",8.1,*
+1951,Sonic Boom,2014–2017,TV-Y7,11,"Animation, Short, Action            ",6.8,*
+1952,Ip Man 3,2015,PG-13,105,"Action, Biography, Drama            ",7.0,57
+1953,Midnight at the Magnolia,2020,TV-G,87,"Comedy, Romance            ",5.8,*
+1954,Our Souls at Night,2017,TV-14,103,"Drama, Romance            ",6.9,69
+1955,Lycoris Recoil,2022– ,TV-14,24,"Animation, Action, Comedy            ",7.6,*
+1956,Unfrosted,,*,*,Comedy            ,*,*
+1957,Heist,2021– ,TV-MA,41,"Documentary, Crime, Mystery            ",6.8,*
+1958,Berserk: The Golden Age Arc I - The Egg of the King,2012,TV-MA,76,"Animation, Action, Adventure            ",7.5,*
+1959,The Real Housewives of New York City,2008– ,TV-14,44,Reality-TV            ,4.7,*
+1960,Journal 64,2018,Not Rated,119,"Crime, Mystery, Thriller            ",7.4,*
+1961,Badla,2019,Not Rated,118,"Crime, Drama, Mystery            ",7.8,*
+1962,The Great British Baking Show: Holidays,2018– ,TV-14,*,Reality-TV            ,8.2,*
+1963,Only Yesterday,1991,PG,119,"Animation, Drama, Romance            ",7.6,90
+1964,The Quintessential Quintuplets,2019–2021,TV-PG,24,"Animation, Comedy, Drama            ",7.7,*
+1965,A.N.T. Farm,2011–2014,TV-G,30,"Comedy, Drama, Family            ",5.1,*
+1966,Impetigore,2019,Not Rated,106,"Horror, Mystery, Thriller            ",6.6,*
+1967,Violet Evergarden: The Movie,2020,*,140,"Animation, Drama, Fantasy            ",8.3,*
+1968,The Open House,2018,TV-MA,94,"Horror, Thriller            ",3.3,*
+1969,PJ Masks,2015– ,TV-Y,24,"Animation, Action, Adventure            ",5.3,*
+1970,My Liberation Diary,2022,TV-14,60,"Drama, Romance            ",8.3,*
+1971,Nimona,2023,PG,101,"Animation, Action, Adventure            ",*,*
+1972,Sonic X,2003–2006,TV-Y7,30,"Animation, Action, Adventure            ",6.2,*
+1973,Fight for My Way,2017,*,70,"Comedy, Romance            ",8.1,*
+1974,Is That Black Enough for You?!?,2022,R,135,"Documentary, History            ",7.3,83
+1975,Falling Inn Love,2019,TV-PG,98,"Comedy, Romance            ",5.6,*
+1976,The Invisible Guardian,2017,*,129,"Crime, Thriller            ",6.4,*
+1977,BattleBots,2015– ,*,*,"Action, Game-Show, Reality-TV            ",8.0,*
+1978,Vault,I 2019,R,99,"Action, Crime, Drama            ",5.5,*
+1979,Take Your Pills: Xanax,2022,TV-14,79,Documentary            ,6.0,*
+1980,Video Game High School,2012–2014,TV-14,42,"Action, Romance, Sci-Fi            ",7.6,*
+1981,Dangerous Liaisons,2022,TV-MA,109,"Drama, Romance            ",4.0,*
+1982,Pom Poko,1994,PG,119,"Animation, Comedy, Drama            ",7.3,77
+1983,Fullmetal Alchemist,2017,TV-14,135,"Action, Adventure, Fantasy            ",5.3,48
+1984,The Trial,2019– ,TV-MA,52,"Crime, Thriller            ",7.2,*
+1985,Skiptrace,2016,PG-13,107,"Action, Adventure, Comedy            ",5.6,50
+1986,The Breadwinner,2017,PG-13,94,"Animation, Drama, Family            ",7.7,78
+1987,Jamtara: Sabka Number Ayega,2020– ,TV-MA,29,Crime            ,7.3,*
+1988,Friendzone,2021,TV-MA,88,"Comedy, Romance            ",5.9,*
+1989,A Vigilante,2018,R,91,"Crime, Drama, Mystery            ",5.7,68
+1990,The Most Beautiful Flower,2022– ,TV-14,30,Comedy            ,5.5,*
+1991,Major Grom: Plague Doctor,2021,TV-14,136,"Action, Crime            ",6.3,*
+1992,In the Land of Saints and Sinners,,*,*,Thriller            ,*,*
+1993,Earthquake Bird,2019,R,107,"Crime, Drama, Mystery            ",5.9,51
+1994,Kumari,2022,*,137,"Horror, Thriller            ",6.4,*
+1995,"Love, Guaranteed",2020,TV-PG,90,"Comedy, Romance            ",5.6,39
+1996,Seoul Vibe,2022,TV-MA,138,"Action, Comedy, Crime            ",5.5,*
+1997,The Good Detective,2020–2022,*,60,"Action, Drama, Mystery            ",7.5,*
+1998,Skylines,2020,R,113,"Action, Adventure, Sci-Fi            ",4.7,46
+1999,Hollywood Darlings,2017–2018,TV-PG,21,Comedy            ,6.7,*
